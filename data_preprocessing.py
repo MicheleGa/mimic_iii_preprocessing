@@ -323,4 +323,4 @@ def download_mimic_iii_records(valid_segments_file_path, output_dir, valid_BP_ra
         database_name = lines[0][:-1] # remove the endline \n char
 
         # Loop through the valid segments
-        Parallel(n_jobs=used_cores)(delayed(save_records_worker_function)(database_name, lines[i], output_dir, valid_BP_ranges, thresholds, windowing_param) for i in range(1, len(lines))) 
+        Parallel(n_jobs=used_cores)(delayed(save_records_worker_function)(database_name, lines[i], output_dir, valid_BP_ranges, thresholds, windowing_param) for i in range(len(lines), 1, -1)) 
