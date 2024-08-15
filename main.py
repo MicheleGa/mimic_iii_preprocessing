@@ -37,7 +37,7 @@ if __name__ == '__main__':
 
     num_patients, num_records = count_patients_and_records(valid_segments_file)
 
-    print(f'There are {num_patients} different patients, for a total of {num_records} different reocrds, from {args.database_name} with {str(required_signals)} that last at least {args.min_duration} m.')
+    print(f'There are {num_patients} different patients, for a total of {num_records} different records, from {args.database_name} with {str(required_signals)} that last at least {args.min_duration} m.')
 
     # Ranges decided empirically by looking at papers
     valid_BP_ranges = {
