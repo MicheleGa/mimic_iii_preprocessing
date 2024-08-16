@@ -22,7 +22,7 @@ with open('./output/valid_segments_pleth_abp_8m.txt','r') as f:
             print(line)
     exit()
     # Get the index and obtain the list of valid segment that had to be processed until this idx in valid_segments_pleth_abp_8m.txt 
-    segments_to_download = [lines[x][:-1] for x in range(1, 2270)]
+    segments_to_download = [lines[x][:-1] for x in range(1, 2274)]
     missing_segments = []
     for seg in segments_to_download:
         count = 0
