@@ -1,14 +1,18 @@
+import os
 import glob
 
 downloaded_segments = []
 
+intial_valid_segments_path = os.path.join('./output', 'valid_segments_pleth_abp_8m.txt')
+valid_downloaded_segments_path = os.path.join('./output', 'logs', 'valid_segment_download_1.log')
+
 # Remember to change the log file to check !!!
-with open('./output/logs/valid_segment_download_1.log','r') as f:
+with open(valid_downloaded_segments_path, 'r') as f:
     downloaded_segments.extend(f.readlines())
 
 # A segment that has been fully processed appear two times in the valid_segments_download.log file
 
-with open('./output/valid_segments_pleth_abp_8m.txt','r') as f:
+with open(intial_valid_segments_path, 'r') as f:
     lines = f.readlines()
 
     # First line is the database name

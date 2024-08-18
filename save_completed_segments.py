@@ -1,4 +1,8 @@
+import os
+
 downloaded_segments = []
+
+valid_downloaded_segments = os.path.join('./output', 'logs', 'valid_segment_download_win_0.log')
 
 # Remember to change the log file to check !!!
 with open('./output/logs/valid_segment_download_1.log','r') as f:
