@@ -2,7 +2,7 @@ import os
 
 downloaded_segments = []
 
-valid_downloaded_segments_path = os.path.join('./output', 'logs', 'valid_segment_download_win_0.txt')
+valid_downloaded_segments_path = os.path.join('./output', 'logs', 'valid_segment_download_3.log')
 already_downloaded_segments_path = os.path.join('./output', 'downloaded_segments.txt')
 
 # Remember to change the log file to check !!!

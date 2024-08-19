@@ -187,7 +187,7 @@ def save_records_worker_function(database_name : str, valid_segment_path : str, 
 
     # Retrieve segment information from the txt file line
     parent_folder, patient_id, seg_id = valid_segment_path.split('/')
-    seg_id = seg_id[:-1] # remove the endline \n char
+    seg_id = seg_id.strip() # remove the initial/endline whitespaces
 
     record_data = wfdb.rdrecord(record_name=seg_id, pn_dir=f'{database_name}/{parent_folder}/{patient_id}')
 
@@ -320,7 +320,7 @@ def download_mimic_iii_records(valid_segments_file_path, output_dir, valid_BP_ra
         lines = seg_file.readlines()
 
         # First line is the database name
-        database_name = lines[0][:-1] # remove the endline \n char
+        database_name = lines[0].strip() # remove the endline \n char
 
         # Loop through the valid segments
-        Parallel(n_jobs=used_cores)(delayed(save_records_worker_function)(database_name, lines[i], output_dir, valid_BP_ranges, thresholds, windowing_param) for i in range(1437, len(lines))) 
+        Parallel(n_jobs=used_cores)(delayed(save_records_worker_function)(database_name, lines[i], output_dir, valid_BP_ranges, thresholds, windowing_param) for i in range(7915, 50779)) 
