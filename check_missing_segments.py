@@ -29,14 +29,10 @@ with open(intial_valid_segments_path, 'r') as f:
     database_name = lines[0][:-1] # remove the endline \n char
 
     # Look into valid_segment_download.log to get the last seegment whose processing has started and thus (probably) not finished
-    # Reuse this part of code to get the index of the first missing sample
-    for line in range(1, len(lines)):
-        
-        if lines[line][:-1] == 'p01/p011018/3195243_0010':
-            print(line)
-    exit()
+    last_processed_idx = get_idx(lines, 'p09/p091031/3032690_0087')
+   
     # Get the index and obtain the list of valid segment that had to be processed until this idx in valid_segments_pleth_abp_8m.txt 
-    segments_to_download = [lines[x][:-1] for x in range(1, 2274)]
+    segments_to_download = [lines[x].strip() for x in range(1, last_processed_idx)]
     missing_segments = []
     for seg in segments_to_download:
         count = 0
@@ -44,15 +40,10 @@ with open(intial_valid_segments_path, 'r') as f:
             if seg in el:
                 count = count + 1
         if count == 1:
-            print(f'Missing {seg}')
             missing_segments.append(seg)
-            break
-        elif count == 0:
-            print(f'Still no processing for {seg}')
-        elif count == 2:
-            print(f'Processed {seg}')
-        else:
-            print(f'???')
+    
+    for el in missing_segments:
+        print(f'Missing {el} with idx {get_idx(lines, el)}')
     
 #    downloaded_segs = glob.glob('./output/records/p00/*/*')
 #    downloaded_segs.extend(glob.glob('./output/records/p04/*/*'))
