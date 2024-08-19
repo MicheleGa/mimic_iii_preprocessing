@@ -4,7 +4,17 @@ import glob
 downloaded_segments = []
 
 intial_valid_segments_path = os.path.join('./output', 'valid_segments_pleth_abp_8m.txt')
-valid_downloaded_segments_path = os.path.join('./output', 'logs', 'valid_segment_download_1.log')
+valid_downloaded_segments_path = os.path.join('./output', 'logs', 'valid_segment_download_2.log')
+
+
+def get_idx(li, el_to_find) -> int:
+    idx = -1
+    for i in range(len(li)):
+        # strip to remove the \n char
+        if li[i].strip() == el_to_find:
+            idx = i
+    return idx
+
 
 # Remember to change the log file to check !!!
 with open(valid_downloaded_segments_path, 'r') as f:
