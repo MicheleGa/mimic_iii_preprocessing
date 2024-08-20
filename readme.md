@@ -55,6 +55,7 @@ As a result of this part a txt file with valid segment is produced. A valid segm
 
 Once the valid segments paths have been recorded in a txt file, we will download them in local using the *save_mimic_iii_records* function in *data_preprocessing.py*.
 
-MISSING SAMPLE 53418 AS IT IS 21 HOURS LONG
+Missing samples 53418, 47120, 47119 as they are too long
+
 
 NEXT SAMPLE FOR WINDOWS: 50821
