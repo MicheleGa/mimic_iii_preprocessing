@@ -17,7 +17,7 @@ if __name__ == '__main__':
     # Minimum segment duration (min)
     parser.add_argument('--min_duration', nargs='?', type=int, help='minimum signals duration in minutes', default=8)
     # NUmber of parallel cores to use
-    parser.add_argument('--n_cores', nargs='?', type=int, help='number of parallel cores to use', default=12)
+    parser.add_argument('--n_cores', nargs='?', type=int, help='number of parallel cores to use', default=4)
     
     args = parser.parse_args()
 
