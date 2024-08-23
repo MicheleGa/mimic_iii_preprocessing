@@ -1,0 +1,4153 @@
+nohup: ignoring input
+There are 2843 different patients, for a total of 57418 different records, from mimic3wdb-matched/1.0 with {'ABP', 'PLETH'} that last at least 8 m.
+Using 12/20 cores
+Processing p05/p050034/3544885_0003
+Processing p05/p050034/3544885_0014
+Processing p05/p050034/3544885_0007
+Processing p05/p050079/3337948_0007
+Processing p05/p050089/3592210_0005
+Processing p05/p050079/3337948_0005
+Processing p05/p050034/3544885_0005
+Processing p05/p050006/3844317_0006
+Processing p05/p050034/3544885_0002
+Processing p05/p050034/3544885_0009
+Processing p05/p050079/3337948_0003
+Processing p05/p050034/3544885_0012
+Too many flat parts for p05/p050089/3592210_0005 ...
+Processing p05/p050089/3592210_0007
+Too many flat parts for p05/p050079/3337948_0007 ...
+Processing p05/p050089/3592210_0008
+Too many NaNs for p05/p050089/3592210_0007 ...
+Processing p05/p050089/3592210_0013
+Too many flat parts for p05/p050089/3592210_0013 ...
+Processing p05/p050089/3592210_0023
+Too many flat parts for p05/p050006/3844317_0006 ...
+Processing p05/p050089/3592210_0025
+Too many flat parts for p05/p050089/3592210_0025 ...
+Processing p05/p050089/3592210_0027
+Saved output/records/p05/p050034/3544885_0002
+Processing p05/p050089/3592210_0029
+Too many flat parts for p05/p050089/3592210_0027 ...
+Processing p05/p050089/3592210_0031
+Too many flat parts for p05/p050079/3337948_0005 ...
+Processing p05/p050089/3592210_0033
+Too many flat parts for p05/p050089/3592210_0031 ...
+Processing p05/p050089/3592210_0038
+Saved output/records/p05/p050034/3544885_0012
+Processing p05/p050089/3592210_0039
+Saved output/records/p05/p050034/3544885_0014
+Processing p05/p050089/3592210_0041
+Too many flat parts for p05/p050089/3592210_0041 ...
+Processing p05/p050089/3592210_0043
+Too many flat parts for p05/p050089/3592210_0023 ...
+Processing p05/p050093/3186250_0012
+Too many flat parts for p05/p050089/3592210_0008 ...
+Processing p05/p050093/3186250_0014
+Too many flat parts for p05/p050093/3186250_0014 ...
+Processing p05/p050093/3186250_0018
+Too many flat parts for p05/p050089/3592210_0029 ...
+Processing p05/p050093/3186250_0023
+Saved output/records/p05/p050034/3544885_0005
+Processing p05/p050093/3186250_0024
+Too many flat parts for p05/p050093/3186250_0023 ...
+Processing p05/p050093/3186250_0026
+Too many flat parts for p05/p050089/3592210_0039 ...
+Processing p05/p050093/3186250_0028
+Too many flat parts for p05/p050089/3592210_0043 ...
+Processing p05/p050093/3186250_0029
+Too many flat parts for p05/p050093/3186250_0028 ...
+Processing p05/p050093/3186250_0031
+Too many flat parts for p05/p050093/3186250_0012 ...
+Processing p05/p050093/3650962_0008
+Too many flat parts for p05/p050093/3186250_0026 ...
+Processing p05/p050093/3650962_0011
+Too many flat parts for p05/p050093/3186250_0031 ...
+Processing p05/p050093/3650962_0014
+Too many flat parts for p05/p050093/3186250_0018 ...
+Processing p05/p050093/3650962_0017
+Saved output/records/p05/p050034/3544885_0003
+Processing p05/p050093/3650962_0020
+Too many flat parts for p05/p050089/3592210_0033 ...
+Processing p05/p050093/3650962_0024
+Saved output/records/p05/p050034/3544885_0007
+Processing p05/p050093/3650962_0025
+Saved output/records/p05/p050093/3650962_0011
+Processing p05/p050093/3650962_0028
+Saved output/records/p05/p050093/3650962_0008
+Processing p05/p050093/3650962_0031
+Too many flat parts for p05/p050079/3337948_0003 ...
+Processing p05/p050093/3650962_0032
+Too many flat parts for p05/p050093/3186250_0024 ...
+Processing p05/p050093/3650962_0035
+Saved output/records/p05/p050093/3650962_0031
+Processing p05/p050093/3650962_0038
+Too many flat parts for p05/p050089/3592210_0038 ...
+Processing p05/p050093/3650962_0041
+Saved output/records/p05/p050093/3650962_0017
+Processing p05/p050093/3650962_0044
+Saved output/records/p05/p050093/3650962_0025
+Processing p05/p050093/3650962_0053
+Saved output/records/p05/p050093/3650962_0044
+Processing p05/p050093/3650962_0056
+Saved output/records/p05/p050093/3650962_0028
+Processing p05/p050093/3650962_0058
+Saved output/records/p05/p050034/3544885_0009
+Processing p05/p050094/3253345_0001
+Saved output/records/p05/p050093/3650962_0041
+Processing p05/p050094/3253345_0004
+Saved output/records/p05/p050093/3650962_0053
+Processing p05/p050094/3253345_0005
+Saved output/records/p05/p050093/3650962_0014
+Processing p05/p050094/3253345_0006
+Saved output/records/p05/p050093/3650962_0020
+Processing p05/p050094/3253345_0007
+Saved output/records/p05/p050094/3253345_0005
+Processing p05/p050094/3253345_0010
+Too many flat parts for p05/p050093/3186250_0029 ...
+Processing p05/p050094/3290428_0031
+Too many flat parts for p05/p050094/3290428_0031 ...
+Processing p05/p050094/3290559_0008
+Saved output/records/p05/p050094/3253345_0007
+Processing p05/p050094/3290559_0012
+Saved output/records/p05/p050093/3650962_0058
+Processing p05/p050094/3290559_0014
+Too many flat parts for p05/p050094/3290559_0014 ...
+Processing p05/p050094/3290559_0016
+Saved output/records/p05/p050093/3650962_0035
+Processing p05/p050094/3290559_0018
+Saved output/records/p05/p050093/3650962_0024
+Processing p05/p050094/3290559_0021
+Saved output/records/p05/p050094/3253345_0006
+Processing p05/p050094/3290559_0023
+Saved output/records/p05/p050093/3650962_0038
+Processing p05/p050094/3290559_0024
+Saved output/records/p05/p050094/3253345_0001
+Processing p05/p050094/3290559_0026
+Saved output/records/p05/p050094/3290559_0021
+Processing p05/p050094/3290559_0031
+Saved output/records/p05/p050094/3290559_0016
+Processing p05/p050094/3290559_0040
+Too many flat parts for p05/p050094/3290559_0024 ...
+Processing p05/p050094/3290559_0043
+Saved output/records/p05/p050094/3290559_0023
+Processing p05/p050094/3290559_0046
+Saved output/records/p05/p050094/3290559_0018
+Processing p05/p050136/3029249_0003
+Saved output/records/p05/p050093/3650962_0032
+Processing p05/p050136/3029249_0004
+Too many flat parts for p05/p050136/3029249_0004 ...
+Processing p05/p050136/3029249_0005
+Too many flat parts for p05/p050136/3029249_0005 ...
+Processing p05/p050136/3029249_0007
+Saved output/records/p05/p050094/3290559_0040
+Processing p05/p050136/3029249_0008
+Saved output/records/p05/p050094/3290559_0043
+Processing p05/p050140/3173926_0017
+Too many flat parts for p05/p050136/3029249_0003 ...
+Processing p05/p050140/3173926_0020
+Saved output/records/p05/p050094/3253345_0010
+Processing p05/p050140/3173926_0022
+Too many flat parts for p05/p050136/3029249_0008 ...
+Processing p05/p050140/3173926_0035
+Too many NaNs for p05/p050140/3173926_0022 ...
+Processing p05/p050140/3173926_0037
+Too many flat parts for p05/p050094/3290559_0026 ...
+Processing p05/p050140/3208958_0002
+Too many NaNs for p05/p050140/3173926_0035 ...
+Processing p05/p050140/3208958_0013
+Too many NaNs for p05/p050140/3208958_0013 ...
+Processing p05/p050161/3742541_0007
+Too many NaNs for p05/p050140/3173926_0037 ...
+Processing p05/p050182/3275646_0005
+Too many NaNs for p05/p050140/3173926_0017 ...
+Processing p05/p050182/3275646_0007
+Saved output/records/p05/p050094/3253345_0004
+Processing p05/p050182/3275646_0008
+Saved output/records/p05/p050094/3290559_0008
+Processing p05/p050182/3275646_0009
+Too many NaNs for p05/p050140/3173926_0020 ...
+Processing p05/p050182/3275646_0011
+Too many flat parts for p05/p050094/3290559_0031 ...
+Processing p05/p050201/3198386_0014
+Too many flat parts for p05/p050182/3275646_0008 ...
+Processing p05/p050201/3198386_0017
+Too many flat parts for p05/p050182/3275646_0005 ...
+Processing p05/p050201/3198386_0019
+Too many flat parts for p05/p050182/3275646_0009 ...
+Processing p05/p050273/3025090_0004
+Too many NaNs for p05/p050140/3208958_0002 ...
+Processing p05/p050273/3025090_0009
+Too many flat parts for p05/p050136/3029249_0007 ...
+Processing p05/p050302/3050605_0012
+Saved output/records/p05/p050302/3050605_0012
+Processing p05/p050302/3050605_0013
+Saved output/records/p05/p050201/3198386_0014
+Processing p05/p050302/3050605_0020
+Saved output/records/p05/p050161/3742541_0007
+Processing p05/p050302/3050605_0023
+Too many flat parts for p05/p050182/3275646_0011 ...
+Processing p05/p050302/3050605_0027
+Too many flat parts for p05/p050182/3275646_0007 ...
+Processing p05/p050302/3050605_0028
+Saved output/records/p05/p050273/3025090_0004
+Processing p05/p050302/3050605_0029
+Too many flat parts for p05/p050302/3050605_0029 ...
+Processing p05/p050302/3050605_0030
+Saved output/records/p05/p050093/3650962_0056
+Processing p05/p050302/3050605_0031
+Saved output/records/p05/p050302/3050605_0013
+Processing p05/p050302/3050605_0033
+Saved output/records/p05/p050094/3290559_0046
+Processing p05/p050302/3050605_0035
+Saved output/records/p05/p050302/3050605_0028
+Processing p05/p050302/3050605_0036
+Saved output/records/p05/p050302/3050605_0030
+Processing p05/p050302/3050605_0037
+Saved output/records/p05/p050302/3050605_0036
+Processing p05/p050302/3050605_0041
+Too many flat parts for p05/p050302/3050605_0020 ...
+Processing p05/p050302/3050605_0044
+Saved output/records/p05/p050302/3050605_0033
+Processing p05/p050302/3050605_0046
+Saved output/records/p05/p050201/3198386_0017
+Processing p05/p050302/3050605_0047
+Saved output/records/p05/p050302/3050605_0047
+Processing p05/p050302/3050605_0048
+Too many flat parts for p05/p050302/3050605_0023 ...
+Processing p05/p050302/3050605_0051
+Saved output/records/p05/p050302/3050605_0051
+Processing p05/p050302/3050605_0052
+Saved output/records/p05/p050302/3050605_0035
+Processing p05/p050302/3050605_0055
+Too many flat parts for p05/p050273/3025090_0009 ...
+Processing p05/p050302/3050605_0057
+Saved output/records/p05/p050302/3050605_0057
+Processing p05/p050302/3050605_0059
+Saved output/records/p05/p050302/3050605_0059
+Processing p05/p050302/3050605_0061
+Saved output/records/p05/p050302/3050605_0031
+Processing p05/p050302/3050605_0064
+Saved output/records/p05/p050302/3050605_0046
+Processing p05/p050302/3050605_0065
+Saved output/records/p05/p050302/3050605_0061
+Processing p05/p050302/3050605_0067
+Saved output/records/p05/p050302/3050605_0027
+Processing p05/p050302/3050605_0069
+Saved output/records/p05/p050302/3050605_0044
+Processing p05/p050302/3050605_0071
+Saved output/records/p05/p050302/3050605_0052
+Processing p05/p050302/3050605_0072
+Saved output/records/p05/p050302/3050605_0064
+Processing p05/p050302/3050605_0074
+Saved output/records/p05/p050302/3050605_0069
+Processing p05/p050302/3050605_0076
+Saved output/records/p05/p050302/3050605_0048
+Processing p05/p050302/3050605_0077
+Saved output/records/p05/p050302/3050605_0071
+Processing p05/p050302/3382052_0008
+Saved output/records/p05/p050302/3050605_0065
+Processing p05/p050302/3382052_0009
+Saved output/records/p05/p050302/3050605_0041
+Processing p05/p050302/3382052_0014
+Saved output/records/p05/p050302/3382052_0014
+Processing p05/p050302/3382052_0018
+Saved output/records/p05/p050302/3050605_0076
+Processing p05/p050302/3382052_0019
+Saved output/records/p05/p050302/3382052_0019
+Processing p05/p050302/3382052_0021
+Saved output/records/p05/p050302/3382052_0018
+Processing p05/p050302/3382052_0023
+Saved output/records/p05/p050302/3050605_0067
+Processing p05/p050302/3382052_0025
+Saved output/records/p05/p050302/3382052_0023
+Processing p05/p050302/3382052_0026
+Saved output/records/p05/p050094/3290559_0012
+Processing p05/p050302/3382052_0029
+Too many flat parts for p05/p050302/3050605_0037 ...
+Processing p05/p050302/3382052_0031
+Saved output/records/p05/p050302/3382052_0021
+Processing p05/p050302/3382052_0032
+Saved output/records/p05/p050302/3382052_0025
+Processing p05/p050302/3382052_0033
+Saved output/records/p05/p050302/3382052_0029
+Processing p05/p050302/3382052_0038
+Saved output/records/p05/p050302/3382052_0033
+Processing p05/p050302/3382052_0040
+Saved output/records/p05/p050302/3050605_0072
+Processing p05/p050302/3382052_0043
+Too many flat parts for p05/p050302/3382052_0038 ...
+Processing p05/p050302/3382052_0044
+Saved output/records/p05/p050302/3382052_0040
+Processing p05/p050302/3672120_0006
+Saved output/records/p05/p050302/3382052_0044
+Processing p05/p050302/3672120_0008
+Saved output/records/p05/p050302/3382052_0031
+Processing p05/p050302/3672120_0009
+Saved output/records/p05/p050302/3382052_0026
+Processing p05/p050302/3672120_0010
+Saved output/records/p05/p050302/3672120_0009
+Processing p05/p050302/3672120_0020
+Saved output/records/p05/p050302/3382052_0009
+Processing p05/p050302/3672120_0021
+Saved output/records/p05/p050302/3672120_0010
+Processing p05/p050302/3672120_0027
+Too many flat parts for p05/p050302/3672120_0027 ...
+Processing p05/p050302/3672120_0031
+Saved output/records/p05/p050302/3382052_0043
+Processing p05/p050302/3672120_0032
+Saved output/records/p05/p050302/3050605_0077
+Processing p05/p050302/3672120_0034
+Saved output/records/p05/p050302/3050605_0074
+Processing p05/p050302/3672120_0036
+Saved output/records/p05/p050302/3672120_0032
+Processing p05/p050302/3672120_0037
+Saved output/records/p05/p050302/3382052_0032
+Processing p05/p050302/3672120_0040
+Saved output/records/p05/p050302/3672120_0008
+Processing p05/p050302/3672120_0041
+Saved output/records/p05/p050302/3672120_0006
+Processing p05/p050302/3672120_0045
+Saved output/records/p05/p050302/3672120_0020
+Processing p05/p050302/3672120_0046
+Saved output/records/p05/p050302/3672120_0040
+Processing p05/p050302/3672120_0047
+Saved output/records/p05/p050302/3672120_0041
+Processing p05/p050302/3672120_0050
+Saved output/records/p05/p050302/3672120_0031
+Processing p05/p050302/3672120_0056
+Saved output/records/p05/p050302/3672120_0047
+Processing p05/p050302/3672120_0057
+Saved output/records/p05/p050302/3672120_0036
+Processing p05/p050302/3672120_0060
+Saved output/records/p05/p050302/3672120_0050
+Processing p05/p050302/3672120_0063
+Saved output/records/p05/p050302/3672120_0060
+Processing p05/p050302/3672120_0065
+Saved output/records/p05/p050302/3672120_0034
+Processing p05/p050302/3672120_0072
+Saved output/records/p05/p050302/3672120_0045
+Processing p05/p050302/3672120_0073
+Saved output/records/p05/p050302/3672120_0056
+Processing p05/p050302/3672120_0074
+Saved output/records/p05/p050201/3198386_0019
+Processing p05/p050302/3672120_0075
+Saved output/records/p05/p050302/3672120_0063
+Processing p05/p050302/3672120_0076
+Too many flat parts for p05/p050302/3672120_0074 ...
+Processing p05/p050302/3672120_0078
+Too many flat parts for p05/p050302/3672120_0075 ...
+Processing p05/p050302/3672120_0079
+Saved output/records/p05/p050302/3382052_0008
+Processing p05/p050302/3672120_0086
+Too many flat parts for p05/p050302/3672120_0076 ...
+Processing p05/p050302/3672120_0088
+Saved output/records/p05/p050302/3672120_0046
+Processing p05/p050302/3672120_0090
+Too many flat parts for p05/p050302/3672120_0088 ...
+Processing p05/p050302/3672120_0091
+Saved output/records/p05/p050302/3672120_0037
+Processing p05/p050302/3672120_0092
+Saved output/records/p05/p050302/3672120_0065
+Processing p05/p050302/3672120_0093
+Too many flat parts for p05/p050302/3672120_0091 ...
+Processing p05/p050302/3672120_0094
+Too many flat parts for p05/p050302/3672120_0090 ...
+Processing p05/p050302/3672120_0100
+Saved output/records/p05/p050302/3672120_0079
+Processing p05/p050302/3672120_0101
+Saved output/records/p05/p050302/3672120_0072
+Processing p05/p050302/3672120_0103
+Saved output/records/p05/p050302/3672120_0078
+Processing p05/p050302/3672120_0105
+Saved output/records/p05/p050302/3672120_0092
+Processing p05/p050302/3672120_0106
+Too many flat parts for p05/p050302/3672120_0094 ...
+Processing p05/p050302/3672120_0107
+Too many flat parts for p05/p050302/3672120_0103 ...
+Processing p05/p050302/3672120_0108
+Saved output/records/p05/p050302/3672120_0073
+Processing p05/p050302/3672120_0109
+Too many flat parts for p05/p050302/3672120_0086 ...
+Processing p05/p050302/3672120_0110
+Saved output/records/p05/p050302/3672120_0093
+Processing p05/p050302/3672120_0113
+Saved output/records/p05/p050302/3672120_0109
+Processing p05/p050302/3716077_0004
+Saved output/records/p05/p050302/3672120_0107
+Processing p05/p050302/3716077_0007
+Saved output/records/p05/p050302/3672120_0108
+Processing p05/p050302/3716077_0009
+Saved output/records/p05/p050302/3672120_0113
+Processing p05/p050302/3716077_0012
+Too many flat parts for p05/p050302/3672120_0105 ...
+Processing p05/p050302/3990006_0012
+Saved output/records/p05/p050302/3716077_0009
+Processing p05/p050302/3990006_0014
+Too many flat parts for p05/p050302/3990006_0012 ...
+Processing p05/p050302/3990006_0015
+Saved output/records/p05/p050302/3990006_0014
+Processing p05/p050336/3203057_0006
+Too many flat parts for p05/p050336/3203057_0006 ...
+Processing p05/p050336/3203057_0008
+Too many flat parts for p05/p050336/3203057_0008 ...
+Processing p05/p050336/3203057_0010
+Saved output/records/p05/p050302/3672120_0057
+Processing p05/p050336/3203057_0012
+Saved output/records/p05/p050302/3990006_0015
+Processing p05/p050336/3203057_0014
+Too many flat parts for p05/p050302/3672120_0106 ...
+Processing p05/p050336/3203057_0016
+Saved output/records/p05/p050302/3716077_0004
+Processing p05/p050385/3983762_0009
+Too many flat parts for p05/p050336/3203057_0012 ...
+Processing p05/p050417/3558729_0013
+Too many flat parts for p05/p050302/3672120_0101 ...
+Processing p05/p050417/3558729_0019
+Too many flat parts for p05/p050336/3203057_0016 ...
+Processing p05/p050417/3558729_0020
+Too many flat parts for p05/p050417/3558729_0020 ...
+Processing p05/p050417/3558729_0021
+Too many flat parts for p05/p050336/3203057_0010 ...
+Processing p05/p050417/3558729_0025
+Too many flat parts for p05/p050417/3558729_0021 ...
+Processing p05/p050447/3988431_0003
+Too many flat parts for p05/p050417/3558729_0013 ...
+Processing p05/p050447/3988431_0005
+Too many flat parts for p05/p050447/3988431_0005 ...
+Processing p05/p050447/3988431_0007
+Saved output/records/p05/p050302/3716077_0012
+Processing p05/p050447/3988431_0009
+Too many flat parts for p05/p050417/3558729_0019 ...
+Processing p05/p050447/3988431_0011
+Too many flat parts for p05/p050336/3203057_0014 ...
+Processing p05/p050447/3988431_0013
+Saved output/records/p05/p050302/3672120_0021
+Processing p05/p050447/3988431_0015
+Too many flat parts for p05/p050447/3988431_0015 ...
+Processing p05/p050447/3988431_0017
+Too many flat parts for p05/p050447/3988431_0009 ...
+Processing p05/p050447/3988431_0019
+Too many flat parts for p05/p050447/3988431_0017 ...
+Processing p05/p050480/3496043_0042
+Too many flat parts for p05/p050447/3988431_0013 ...
+Processing p05/p050480/3496043_0045
+Saved output/records/p05/p050447/3988431_0019
+Processing p05/p050480/3496043_0048
+Saved output/records/p05/p050480/3496043_0042
+Processing p05/p050480/3496043_0051
+Saved output/records/p05/p050480/3496043_0048
+Processing p05/p050480/3496043_0054
+Saved output/records/p05/p050385/3983762_0009
+Processing p05/p050480/3496043_0057
+Saved output/records/p05/p050480/3496043_0051
+Processing p05/p050480/3496043_0072
+Saved output/records/p05/p050480/3496043_0057
+Processing p05/p050480/3496043_0075
+Saved output/records/p05/p050302/3050605_0055
+Processing p05/p050480/3496043_0078
+Saved output/records/p05/p050480/3496043_0054
+Processing p05/p050480/3496043_0084
+Saved output/records/p05/p050480/3496043_0045
+Processing p05/p050480/3496043_0087
+Saved output/records/p05/p050480/3496043_0072
+Processing p05/p050480/3496043_0090
+Too many flat parts for p05/p050417/3558729_0025 ...
+Processing p05/p050480/3496043_0095
+Too many flat parts for p05/p050447/3988431_0011 ...
+Processing p05/p050480/3496043_0098
+Saved output/records/p05/p050480/3496043_0084
+Processing p05/p050480/3496043_0107
+Saved output/records/p05/p050302/3672120_0110
+Processing p05/p050480/3496043_0110
+Saved output/records/p05/p050480/3496043_0090
+Processing p05/p050480/3496043_0116
+Saved output/records/p05/p050480/3496043_0087
+Processing p05/p050480/3496043_0125
+Saved output/records/p05/p050480/3496043_0107
+Processing p05/p050480/3496043_0134
+Saved output/records/p05/p050480/3496043_0095
+Processing p05/p050480/3496043_0141
+Too many flat parts for p05/p050447/3988431_0003 ...
+Processing p05/p050480/3496043_0144
+Saved output/records/p05/p050480/3496043_0116
+Processing p05/p050480/3496043_0153
+Saved output/records/p05/p050480/3496043_0078
+Processing p05/p050480/3496043_0156
+Saved output/records/p05/p050480/3496043_0141
+Processing p05/p050480/3496043_0159
+Saved output/records/p05/p050302/3672120_0100
+Processing p05/p050528/3983763_0001
+Saved output/records/p05/p050480/3496043_0110
+Processing p05/p050528/3983763_0003
+Saved output/records/p05/p050480/3496043_0144
+Processing p05/p050532/3271818_0004
+Saved output/records/p05/p050480/3496043_0098
+Processing p05/p050532/3271818_0005
+Saved output/records/p05/p050480/3496043_0125
+Processing p05/p050532/3271818_0007
+Too many flat parts for p05/p050528/3983763_0003 ...
+Processing p05/p050532/3271818_0008
+Too many flat parts for p05/p050480/3496043_0159 ...
+Processing p05/p050532/3271818_0011
+Saved output/records/p05/p050480/3496043_0075
+Processing p05/p050532/3494082_0002
+Saved output/records/p05/p050480/3496043_0156
+Processing p05/p050561/3019509_0003
+Too many flat parts for p05/p050528/3983763_0001 ...
+Processing p05/p050561/3019509_0005
+Too many flat parts for p05/p050561/3019509_0003 ...
+Processing p05/p050561/3019509_0007
+Too many flat parts for p05/p050447/3988431_0007 ...
+Processing p05/p050579/3010127_0004
+Saved output/records/p05/p050480/3496043_0153
+Processing p05/p050579/3010127_0008
+Saved output/records/p05/p050532/3271818_0007
+Processing p05/p050579/3254332_0005
+Too many flat parts for p05/p050579/3254332_0005 ...
+Processing p05/p050579/3898854_0002
+Saved output/records/p05/p050302/3716077_0007
+Processing p05/p050634/3641216_0010
+Saved output/records/p05/p050480/3496043_0134
+Processing p05/p050634/3641216_0013
+Too many flat parts for p05/p050579/3010127_0008 ...
+Processing p05/p050664/3066079_0002
+Too many flat parts for p05/p050664/3066079_0002 ...
+Processing p05/p050664/3066079_0004
+Too many flat parts for p05/p050532/3494082_0002 ...
+Processing p05/p050664/3066079_0007
+Too many flat parts for p05/p050561/3019509_0007 ...
+Processing p05/p050664/3066079_0010
+Too many flat parts for p05/p050561/3019509_0005 ...
+Processing p05/p050664/3719691_0002
+Too many flat parts for p05/p050579/3898854_0002 ...
+Processing p05/p050664/3719691_0005
+Too many flat parts for p05/p050579/3010127_0004 ...
+Processing p05/p050721/3298298_0007
+Saved output/records/p05/p050634/3641216_0013
+Processing p05/p050735/3097613_0009
+Too many flat parts for p05/p050664/3719691_0005 ...
+Processing p05/p050735/3097613_0011
+Too many flat parts for p05/p050735/3097613_0009 ...
+Processing p05/p050735/3889628_0025
+Too many flat parts for p05/p050735/3097613_0011 ...
+Processing p05/p050735/3889628_0027
+Saved output/records/p05/p050532/3271818_0011
+Processing p05/p050735/3889628_0029
+Too many flat parts for p05/p050735/3889628_0025 ...
+Processing p05/p050735/3889628_0031
+Saved output/records/p05/p050735/3889628_0027
+Processing p05/p050767/3252900_0002
+Too many flat parts for p05/p050735/3889628_0031 ...
+Processing p05/p050767/3252900_0003
+Too many flat parts for p05/p050767/3252900_0002 ...
+Processing p05/p050767/3252900_0005
+Saved output/records/p05/p050664/3066079_0010
+Processing p05/p050767/3252900_0006
+Too many flat parts for p05/p050767/3252900_0003 ...
+Processing p05/p050767/3252900_0008
+Too many NaNs for p05/p050767/3252900_0008 ...
+Processing p05/p050767/3252900_0010
+Saved output/records/p05/p050664/3066079_0004
+Processing p05/p050804/3189865_0003
+Too many flat parts for p05/p050804/3189865_0003 ...
+Processing p05/p050804/3189865_0013
+Too many flat parts for p05/p050767/3252900_0005 ...
+Processing p05/p050804/3189865_0015
+Too many flat parts for p05/p050804/3189865_0015 ...
+Processing p05/p050804/3189865_0017
+Too many flat parts for p05/p050804/3189865_0017 ...
+Processing p05/p050817/3297561_0009
+Too many flat parts for p05/p050817/3297561_0009 ...
+Processing p05/p050817/3297561_0012
+Saved output/records/p05/p050817/3297561_0012
+Processing p05/p050817/3297561_0015
+Too many NaNs for p05/p050767/3252900_0006 ...
+Processing p05/p050817/3297561_0016
+Saved output/records/p05/p050817/3297561_0016
+Processing p05/p050817/3297561_0019
+Too many flat parts for p05/p050804/3189865_0013 ...
+Processing p05/p050817/3297561_0022
+Saved output/records/p05/p050721/3298298_0007
+Processing p05/p050817/3297561_0025
+Saved output/records/p05/p050817/3297561_0019
+Processing p05/p050817/3471034_0004
+Too many flat parts for p05/p050532/3271818_0004 ...
+Processing p05/p050817/3471034_0007
+Saved output/records/p05/p050664/3719691_0002
+Processing p05/p050822/3057450_0007
+Saved output/records/p05/p050664/3066079_0007
+Processing p05/p050822/3057450_0010
+Saved output/records/p05/p050817/3297561_0015
+Processing p05/p050822/3057450_0013
+Saved output/records/p05/p050817/3297561_0022
+Processing p05/p050822/3057450_0019
+Too many NaNs for p05/p050767/3252900_0010 ...
+Processing p05/p050822/3057450_0021
+Saved output/records/p05/p050822/3057450_0013
+Processing p05/p050822/3057450_0024
+Too many flat parts for p05/p050735/3889628_0029 ...
+Processing p05/p050822/3057450_0027
+Saved output/records/p05/p050817/3297561_0025
+Processing p05/p050822/3057450_0030
+Saved output/records/p05/p050822/3057450_0019
+Processing p05/p050822/3057450_0036
+Saved output/records/p05/p050532/3271818_0005
+Processing p05/p050827/3190643_0004
+Saved output/records/p05/p050817/3471034_0007
+Processing p05/p050827/3190643_0006
+Too many flat parts for p05/p050827/3190643_0004 ...
+Processing p05/p050827/3190643_0009
+Saved output/records/p05/p050817/3471034_0004
+Processing p05/p050827/3190643_0010
+Saved output/records/p05/p050827/3190643_0010
+Processing p05/p050827/3190643_0018
+Saved output/records/p05/p050827/3190643_0018
+Processing p05/p050847/3627961_0022
+Too many flat parts for p05/p050822/3057450_0007 ...
+Processing p05/p050847/3627961_0024
+Saved output/records/p05/p050634/3641216_0010
+Processing p05/p050847/3627961_0029
+Saved output/records/p05/p050532/3271818_0008
+Processing p05/p050847/3627961_0030
+Saved output/records/p05/p050822/3057450_0027
+Processing p05/p050847/3627961_0033
+Saved output/records/p05/p050847/3627961_0029
+Processing p05/p050847/3627961_0034
+Saved output/records/p05/p050847/3627961_0033
+Processing p05/p050847/3627961_0036
+Too many flat parts for p05/p050822/3057450_0036 ...
+Processing p05/p050847/3627961_0039
+Saved output/records/p05/p050822/3057450_0021
+Processing p05/p050847/3627961_0041
+Saved output/records/p05/p050822/3057450_0030
+Processing p05/p050847/3858110_0004
+Saved output/records/p05/p050847/3858110_0004
+Processing p05/p050847/3858110_0006
+Saved output/records/p05/p050847/3627961_0036
+Processing p05/p050847/3858110_0009
+Saved output/records/p05/p050847/3627961_0034
+Processing p05/p050847/3858110_0011
+Too many flat parts for p05/p050847/3858110_0011 ...
+Processing p05/p050847/3858110_0013
+Too many flat parts for p05/p050847/3858110_0006 ...
+Processing p05/p050847/3858110_0015
+Too many flat parts for p05/p050847/3858110_0015 ...
+Processing p05/p050847/3858110_0018
+Saved output/records/p05/p050847/3627961_0024
+Processing p05/p050847/3858110_0036
+Too many flat parts for p05/p050847/3858110_0018 ...
+Processing p05/p050847/3858110_0037
+Saved output/records/p05/p050847/3858110_0036
+Processing p05/p050863/3878250_0009
+Too many flat parts for p05/p050847/3858110_0013 ...
+Processing p05/p050863/3878250_0010
+Too many flat parts for p05/p050847/3858110_0037 ...
+Processing p05/p050863/3878250_0012
+Saved output/records/p05/p050822/3057450_0010
+Processing p05/p050863/3878250_0013
+Saved output/records/p05/p050847/3627961_0030
+Processing p05/p050863/3878250_0021
+Too many flat parts for p05/p050863/3878250_0013 ...
+Processing p05/p050877/3510174_0001
+Saved output/records/p05/p050822/3057450_0024
+Processing p05/p050877/3510174_0002
+Too many flat parts for p05/p050877/3510174_0001 ...
+Processing p05/p050877/3510174_0003
+Too many flat parts for p05/p050863/3878250_0012 ...
+Processing p05/p050880/3485804_0007
+Too many flat parts for p05/p050863/3878250_0021 ...
+Processing p05/p050880/3485804_0014
+Too many flat parts for p05/p050880/3485804_0007 ...
+Processing p05/p050880/3485804_0017
+Too many flat parts for p05/p050877/3510174_0003 ...
+Processing p05/p050888/3002666_0007
+Too many flat parts for p05/p050888/3002666_0007 ...
+Processing p05/p050888/3002666_0008
+Saved output/records/p05/p050847/3627961_0039
+Processing p05/p050888/3002666_0009
+Too many flat parts for p05/p050863/3878250_0010 ...
+Processing p05/p050888/3002666_0011
+Too many flat parts for p05/p050847/3858110_0009 ...
+Processing p05/p050888/3002666_0012
+Too many flat parts for p05/p050888/3002666_0012 ...
+Processing p05/p050888/3002666_0013
+Too many NaNs for p05/p050888/3002666_0013 ...
+Processing p05/p050888/3002666_0018
+Too many flat parts for p05/p050863/3878250_0009 ...
+Processing p05/p050888/3002666_0023
+Too many NaNs for p05/p050888/3002666_0018 ...
+Processing p05/p050888/3002666_0024
+Too many flat parts for p05/p050880/3485804_0017 ...
+Processing p05/p050888/3002666_0029
+Too many NaNs for p05/p050888/3002666_0024 ...
+Processing p05/p050888/3002666_0030
+Too many NaNs for p05/p050888/3002666_0023 ...
+Processing p05/p050888/3002666_0034
+Too many flat parts for p05/p050888/3002666_0030 ...
+Processing p05/p050888/3002666_0035
+Too many NaNs for p05/p050888/3002666_0008 ...
+Processing p05/p050888/3002666_0036
+Saved output/records/p05/p050827/3190643_0006
+Processing p05/p050888/3002666_0037
+Too many NaNs for p05/p050888/3002666_0035 ...
+Processing p05/p050888/3002666_0040
+Saved output/records/p05/p050847/3627961_0022
+Processing p05/p050888/3449339_0003
+Too many NaNs for p05/p050888/3002666_0009 ...
+Processing p05/p050888/3585022_0002
+Too many NaNs for p05/p050888/3002666_0040 ...
+Processing p05/p050888/3585022_0003
+Too many NaNs for p05/p050888/3002666_0036 ...
+Processing p05/p050899/3265092_0003
+Too many flat parts for p05/p050888/3002666_0037 ...
+Processing p05/p050899/3265092_0006
+Too many flat parts for p05/p050888/3449339_0003 ...
+Processing p05/p050899/3265092_0009
+Too many NaNs for p05/p050888/3585022_0003 ...
+Processing p05/p050899/3265092_0011
+Too many flat parts for p05/p050899/3265092_0009 ...
+Processing p05/p050899/3265092_0014
+Too many flat parts for p05/p050888/3002666_0034 ...
+Processing p05/p050899/3265092_0017
+Saved output/records/p05/p050847/3627961_0041
+Processing p05/p050899/3265092_0020
+Too many flat parts for p05/p050880/3485804_0014 ...
+Processing p05/p050899/3265092_0023
+Saved output/records/p05/p050899/3265092_0003
+Processing p05/p050899/3265092_0026
+Saved output/records/p05/p050827/3190643_0009
+Processing p05/p050899/3265092_0034
+Too many flat parts for p05/p050899/3265092_0020 ...
+Processing p05/p050899/3265092_0037
+Saved output/records/p05/p050899/3265092_0006
+Processing p05/p050899/3265092_0040
+Saved output/records/p05/p050899/3265092_0014
+Processing p05/p050899/3265092_0043
+Too many flat parts for p05/p050899/3265092_0034 ...
+Processing p05/p050899/3265092_0046
+Too many flat parts for p05/p050899/3265092_0026 ...
+Processing p05/p050976/3000484_0008
+Too many flat parts for p05/p050888/3585022_0002 ...
+Processing p05/p050976/3554500_0001
+Saved output/records/p05/p050899/3265092_0011
+Processing p05/p050976/3667272_0016
+Saved output/records/p05/p050899/3265092_0023
+Processing p05/p050976/3667272_0020
+Too many flat parts for p05/p050976/3667272_0020 ...
+Processing p05/p050976/3667272_0022
+Saved output/records/p05/p050899/3265092_0040
+Processing p05/p050976/3667272_0028
+Saved output/records/p05/p050899/3265092_0017
+Processing p05/p050976/3667272_0032
+Too many flat parts for p05/p050976/3667272_0022 ...
+Processing p05/p050976/3667272_0034
+Too many flat parts for p05/p050888/3002666_0029 ...
+Processing p05/p050976/3667272_0036
+Too many flat parts for p05/p050888/3002666_0011 ...
+Processing p05/p050976/3667272_0038
+Too many flat parts for p05/p050899/3265092_0046 ...
+Processing p05/p050976/3667272_0044
+Too many flat parts for p05/p050877/3510174_0002 ...
+Processing p05/p050976/3667272_0046
+Too many flat parts for p05/p050976/3000484_0008 ...
+Processing p05/p050976/3667272_0048
+Too many flat parts for p05/p050976/3667272_0032 ...
+Processing p05/p050976/3667272_0050
+Saved output/records/p05/p050899/3265092_0037
+Processing p05/p050976/3667272_0057
+Too many flat parts for p05/p050976/3667272_0028 ...
+Processing p05/p050976/3667272_0059
+Too many flat parts for p05/p050976/3667272_0034 ...
+Processing p05/p050976/3667272_0061
+Saved output/records/p05/p050899/3265092_0043
+Processing p05/p050976/3667272_0063
+Too many flat parts for p05/p050976/3667272_0038 ...
+Processing p05/p050976/3667272_0065
+Too many flat parts for p05/p050976/3667272_0063 ...
+Processing p05/p050991/3631219_0011
+Too many flat parts for p05/p050976/3667272_0050 ...
+Processing p05/p050991/3631219_0014
+Too many NaNs for p05/p050976/3667272_0016 ...
+Processing p05/p050991/3631219_0017
+Saved output/records/p05/p050991/3631219_0017
+Processing p05/p050991/3631219_0020
+Saved output/records/p05/p050991/3631219_0020
+Processing p05/p050991/3631219_0023
+Too many flat parts for p05/p050976/3667272_0036 ...
+Processing p05/p050991/3631219_0026
+Too many flat parts for p05/p050976/3667272_0046 ...
+Processing p05/p050991/3631219_0029
+Saved output/records/p05/p050991/3631219_0026
+Processing p05/p050991/3631219_0032
+Too many flat parts for p05/p050976/3667272_0057 ...
+Processing p05/p050991/3631219_0035
+Too many flat parts for p05/p050976/3667272_0061 ...
+Processing p05/p050991/3631219_0038
+Saved output/records/p05/p050991/3631219_0014
+Processing p05/p050991/3631219_0040
+Too many flat parts for p05/p050976/3667272_0048 ...
+Processing p05/p050991/3631219_0043
+Too many flat parts for p05/p050991/3631219_0040 ...
+Processing p05/p050991/3631219_0046
+Too many flat parts for p05/p050976/3667272_0065 ...
+Processing p05/p050991/3631219_0048
+Too many flat parts for p05/p050976/3667272_0059 ...
+Processing p05/p050991/3631219_0051
+Saved output/records/p05/p050991/3631219_0048
+Processing p05/p050991/3631219_0054
+Saved output/records/p05/p050991/3631219_0035
+Processing p05/p050991/3631219_0057
+Saved output/records/p05/p050991/3631219_0038
+Processing p05/p050991/3631219_0060
+Too many flat parts for p05/p050976/3554500_0001 ...
+Processing p05/p051000/3017201_0005
+Saved output/records/p05/p050991/3631219_0043
+Processing p05/p051000/3017201_0007
+Saved output/records/p05/p050991/3631219_0046
+Processing p05/p051000/3017201_0009
+Saved output/records/p05/p050991/3631219_0032
+Processing p05/p051000/3017201_0011
+Saved output/records/p05/p050991/3631219_0011
+Processing p05/p051000/3017201_0013
+Too many flat parts for p05/p051000/3017201_0013 ...
+Processing p05/p051000/3017201_0015
+Too many flat parts for p05/p051000/3017201_0011 ...
+Processing p05/p051013/3703763_0001
+Saved output/records/p05/p050991/3631219_0054
+Processing p05/p051017/3815713_0004
+Too many flat parts for p05/p051000/3017201_0009 ...
+Processing p05/p051017/3815713_0010
+Saved output/records/p05/p051017/3815713_0010
+Processing p05/p051017/3815713_0013
+Saved output/records/p05/p050991/3631219_0060
+Processing p05/p051017/3815713_0016
+Too many flat parts for p05/p051000/3017201_0005 ...
+Processing p05/p051021/3040386_0010
+Too many flat parts for p05/p051000/3017201_0007 ...
+Processing p05/p051021/3141064_0003
+Saved output/records/p05/p050991/3631219_0029
+Processing p05/p051021/3141064_0005
+Saved output/records/p05/p050991/3631219_0023
+Processing p05/p051021/3141064_0006
+Saved output/records/p05/p051017/3815713_0004
+Processing p05/p051021/3870477_0003
+Too many flat parts for p05/p051021/3870477_0003 ...
+Processing p05/p051021/3870477_0005
+Too many flat parts for p05/p051021/3141064_0005 ...
+Processing p05/p051021/3870477_0007
+Saved output/records/p05/p050991/3631219_0057
+Processing p05/p051021/3870477_0009
+Too many flat parts for p05/p051021/3870477_0009 ...
+Processing p05/p051021/3870477_0011
+Too many flat parts for p05/p051021/3141064_0003 ...
+Processing p05/p051064/3759812_0003
+Too many flat parts for p05/p051021/3870477_0005 ...
+Processing p05/p051064/3759812_0005
+Saved output/records/p05/p050991/3631219_0051
+Processing p05/p051064/3759812_0011
+Too many flat parts for p05/p051021/3870477_0007 ...
+Processing p05/p051064/3759812_0013
+Saved output/records/p05/p051013/3703763_0001
+Processing p05/p051072/3350836_0012
+Too many flat parts for p05/p051064/3759812_0005 ...
+Processing p05/p051072/3350836_0014
+Too many flat parts for p05/p051064/3759812_0013 ...
+Processing p05/p051072/3350836_0017
+Too many flat parts for p05/p051000/3017201_0015 ...
+Processing p05/p051072/3350836_0020
+Too many flat parts for p05/p051072/3350836_0017 ...
+Processing p05/p051072/3350836_0024
+Too many flat parts for p05/p051021/3870477_0011 ...
+Processing p05/p051072/3350836_0027
+Too many flat parts for p05/p051021/3141064_0006 ...
+Processing p05/p051072/3350836_0028
+Too many flat parts for p05/p051072/3350836_0027 ...
+Processing p05/p051078/3636722_0003
+Too many flat parts for p05/p051078/3636722_0003 ...
+Processing p05/p051078/3636722_0005
+Too many flat parts for p05/p051072/3350836_0024 ...
+Processing p05/p051078/3636722_0010
+Too many flat parts for p05/p051072/3350836_0028 ...
+Processing p05/p051078/3636722_0012
+Too many flat parts for p05/p051072/3350836_0020 ...
+Processing p05/p051078/3636722_0015
+Saved output/records/p05/p051072/3350836_0014
+Processing p05/p051078/3636722_0016
+Too many flat parts for p05/p051064/3759812_0003 ...
+Processing p05/p051078/3636722_0017
+Too many flat parts for p05/p051078/3636722_0015 ...
+Processing p05/p051078/3636722_0023
+Too many flat parts for p05/p050976/3667272_0044 ...
+Processing p05/p051078/3636722_0025
+Too many flat parts for p05/p051078/3636722_0016 ...
+Processing p05/p051078/3933506_0010
+Too many flat parts for p05/p051021/3040386_0010 ...
+Processing p05/p051078/3933506_0013
+Too many flat parts for p05/p051078/3636722_0010 ...
+Processing p05/p051078/3933506_0016
+Too many flat parts for p05/p051072/3350836_0012 ...
+Processing p05/p051078/3933506_0025
+Saved output/records/p05/p051017/3815713_0016
+Processing p05/p051078/3933506_0032
+Too many flat parts for p05/p051078/3636722_0025 ...
+Processing p05/p051078/3933506_0033
+Too many flat parts for p05/p051078/3933506_0010 ...
+Processing p05/p051078/3933506_0036
+Too many flat parts for p05/p051078/3933506_0036 ...
+Processing p05/p051078/3933506_0046
+Saved output/records/p05/p051078/3933506_0046
+Processing p05/p051078/3933506_0047
+Saved output/records/p05/p051078/3933506_0047
+Processing p05/p051078/3933506_0062
+Saved output/records/p05/p051078/3636722_0005
+Processing p05/p051078/3933506_0066
+Too many flat parts for p05/p051064/3759812_0011 ...
+Processing p05/p051078/3933506_0069
+Saved output/records/p05/p051078/3933506_0062
+Processing p05/p051078/3933506_0071
+Too many flat parts for p05/p051078/3933506_0033 ...
+Processing p05/p051078/3933506_0072
+Saved output/records/p05/p051017/3815713_0013
+Processing p05/p051121/3083152_0003
+Too many flat parts for p05/p051078/3636722_0012 ...
+Processing p05/p051121/3083152_0010
+Too many flat parts for p05/p051078/3636722_0017 ...
+Processing p05/p051121/3083152_0012
+Saved output/records/p05/p051078/3636722_0023
+Processing p05/p051121/3083152_0022
+Saved output/records/p05/p051078/3933506_0032
+Processing p05/p051121/3569660_0001
+Too many flat parts for p05/p051121/3083152_0022 ...
+Processing p05/p051121/3569660_0064
+Too many flat parts for p05/p051121/3569660_0001 ...
+Processing p05/p051121/3569660_0069
+Saved output/records/p05/p051078/3933506_0069
+Processing p05/p051121/3569660_0071
+Saved output/records/p05/p051078/3933506_0071
+Processing p05/p051188/3682922_0002
+Too many NaNs for p05/p051121/3083152_0012 ...
+Processing p05/p051188/3682922_0004
+Saved output/records/p05/p051078/3933506_0013
+Processing p05/p051188/3682922_0007
+Too many flat parts for p05/p051121/3083152_0003 ...
+Processing p05/p051188/3682922_0013
+Too many flat parts for p05/p051121/3569660_0071 ...
+Processing p05/p051188/3963529_0010
+Too many flat parts for p05/p051121/3569660_0064 ...
+Processing p05/p051188/3963529_0013
+Saved output/records/p05/p051078/3933506_0025
+Processing p05/p051188/3963529_0020
+Saved output/records/p05/p051188/3682922_0004
+Processing p05/p051188/3963529_0023
+Saved output/records/p05/p051188/3963529_0013
+Processing p05/p051202/3360870_0007
+Too many flat parts for p05/p051188/3963529_0020 ...
+Processing p05/p051202/3360870_0009
+Too many flat parts for p05/p051202/3360870_0009 ...
+Processing p05/p051202/3360870_0011
+Saved output/records/p05/p051188/3682922_0002
+Processing p05/p051202/3360870_0013
+Too many flat parts for p05/p051202/3360870_0007 ...
+Processing p05/p051202/3360870_0015
+Saved output/records/p05/p051188/3682922_0007
+Processing p05/p051202/3360870_0017
+Too many flat parts for p05/p051202/3360870_0015 ...
+Processing p05/p051202/3360870_0021
+Too many flat parts for p05/p051202/3360870_0021 ...
+Processing p05/p051202/3360870_0022
+Too many flat parts for p05/p051202/3360870_0022 ...
+Processing p05/p051202/3360870_0024
+Too many flat parts for p05/p051202/3360870_0013 ...
+Processing p05/p051202/3360870_0025
+Too many flat parts for p05/p051202/3360870_0025 ...
+Processing p05/p051202/3360870_0027
+Too many flat parts for p05/p051121/3083152_0010 ...
+Processing p05/p051202/3360870_0031
+Too many flat parts for p05/p051202/3360870_0024 ...
+Processing p05/p051202/3360870_0037
+Too many flat parts for p05/p051202/3360870_0031 ...
+Processing p05/p051202/3360870_0044
+Too many flat parts for p05/p051202/3360870_0037 ...
+Processing p05/p051202/3360870_0046
+Too many flat parts for p05/p051202/3360870_0011 ...
+Processing p05/p051202/3474284_0002
+Too many flat parts for p05/p051202/3360870_0044 ...
+Processing p05/p051202/3474284_0004
+Too many flat parts for p05/p051202/3360870_0027 ...
+Processing p05/p051202/3474284_0006
+Too many flat parts for p05/p051121/3569660_0069 ...
+Processing p05/p051202/3474284_0010
+Too many flat parts for p05/p051078/3933506_0016 ...
+Processing p05/p051202/3474284_0012
+Too many flat parts for p05/p051078/3933506_0072 ...
+Processing p05/p051202/3474284_0025
+Too many flat parts for p05/p051202/3474284_0025 ...
+Processing p05/p051202/3474284_0028
+Saved output/records/p05/p051188/3682922_0013
+Processing p05/p051202/3474284_0033
+Too many flat parts for p05/p051202/3474284_0002 ...
+Processing p05/p051202/3474284_0037
+Too many flat parts for p05/p051202/3360870_0046 ...
+Processing p05/p051202/3474284_0039
+Too many flat parts for p05/p051202/3474284_0028 ...
+Processing p05/p051202/3495708_0016
+Saved output/records/p05/p051078/3933506_0066
+Processing p05/p051202/3495708_0019
+Too many flat parts for p05/p051202/3474284_0037 ...
+Processing p05/p051202/3495708_0020
+Too many flat parts for p05/p051202/3474284_0010 ...
+Processing p05/p051202/3530699_0013
+Too many flat parts for p05/p051202/3474284_0033 ...
+Processing p05/p051202/3530699_0015
+Too many NaNs for p05/p051202/3530699_0013 ...
+Processing p05/p051202/3530699_0016
+Too many NaNs for p05/p051202/3530699_0015 ...
+Processing p05/p051202/3795499_0003
+Too many flat parts for p05/p051202/3530699_0016 ...
+Processing p05/p051202/3795499_0005
+Saved output/records/p05/p051188/3963529_0010
+Processing p05/p051202/3795499_0010
+Too many flat parts for p05/p051202/3474284_0004 ...
+Processing p05/p051202/3795499_0013
+Too many flat parts for p05/p051202/3495708_0019 ...
+Processing p05/p051202/3795499_0015
+Too many flat parts for p05/p051202/3795499_0010 ...
+Processing p05/p051202/3795499_0021
+Too many flat parts for p05/p051202/3795499_0013 ...
+Processing p05/p051202/3795499_0025
+Too many flat parts for p05/p051202/3495708_0020 ...
+Processing p05/p051202/3795499_0027
+Too many flat parts for p05/p051202/3474284_0039 ...
+Processing p05/p051202/3795499_0029
+Too many flat parts for p05/p051202/3795499_0029 ...
+Processing p05/p051202/3795499_0031
+Too many flat parts for p05/p051202/3795499_0005 ...
+Processing p05/p051301/3116208_0008
+Too many flat parts for p05/p051202/3495708_0016 ...
+Processing p05/p051301/3116208_0010
+Too many flat parts for p05/p051301/3116208_0008 ...
+Processing p05/p051301/3116208_0014
+Too many flat parts for p05/p051202/3795499_0027 ...
+Processing p05/p051301/3116208_0016
+Too many flat parts for p05/p051301/3116208_0014 ...
+Processing p05/p051301/3116208_0024
+Too many flat parts for p05/p051202/3795499_0003 ...
+Processing p05/p051301/3116208_0026
+Too many flat parts for p05/p051202/3795499_0021 ...
+Processing p05/p051301/3116208_0029
+Too many flat parts for p05/p051202/3474284_0012 ...
+Processing p05/p051301/3116208_0031
+Saved output/records/p05/p051301/3116208_0016
+Processing p05/p051301/3116208_0033
+Too many flat parts for p05/p051202/3360870_0017 ...
+Processing p05/p051321/3144804_0005
+Saved output/records/p05/p051301/3116208_0026
+Processing p05/p051327/3303813_0013
+Saved output/records/p05/p051301/3116208_0029
+Processing p05/p051327/3303813_0014
+Too many flat parts for p05/p051202/3474284_0006 ...
+Processing p05/p051358/3062928_0010
+Too many NaNs for p05/p051358/3062928_0010 ...
+Processing p05/p051358/3840756_0001
+Saved output/records/p05/p051301/3116208_0024
+Processing p05/p051358/3840756_0002
+Too many flat parts for p05/p051358/3840756_0002 ...
+Processing p05/p051358/3840756_0005
+Too many flat parts for p05/p051358/3840756_0001 ...
+Processing p05/p051358/3840756_0007
+Too many flat parts for p05/p051202/3795499_0015 ...
+Processing p05/p051358/3840756_0010
+Too many flat parts for p05/p051202/3795499_0031 ...
+Processing p05/p051358/3840756_0014
+Too many flat parts for p05/p051301/3116208_0010 ...
+Processing p05/p051358/3840756_0015
+Too many flat parts for p05/p051358/3840756_0005 ...
+Processing p05/p051358/3840756_0021
+Too many flat parts for p05/p051358/3840756_0010 ...
+Processing p05/p051358/3840756_0023
+Too many flat parts for p05/p051358/3840756_0014 ...
+Processing p05/p051358/3840756_0025
+Too many flat parts for p05/p051358/3840756_0015 ...
+Processing p05/p051374/3024833_0002
+Too many flat parts for p05/p051358/3840756_0021 ...
+Processing p05/p051374/3024833_0004
+Too many flat parts for p05/p051358/3840756_0025 ...
+Processing p05/p051374/3024833_0006
+Too many flat parts for p05/p051374/3024833_0002 ...
+Processing p05/p051374/3024833_0008
+Too many flat parts for p05/p051202/3795499_0025 ...
+Processing p05/p051374/3024833_0012
+Too many flat parts for p05/p051321/3144804_0005 ...
+Processing p05/p051374/3024833_0017
+Saved output/records/p05/p051374/3024833_0006
+Processing p05/p051451/3513595_0001
+Saved output/records/p05/p051327/3303813_0013
+Processing p05/p051451/3513595_0003
+Saved output/records/p05/p051301/3116208_0031
+Processing p05/p051451/3513595_0005
+Saved output/records/p05/p051358/3840756_0007
+Processing p05/p051451/3513595_0008
+Saved output/records/p05/p051451/3513595_0005
+Processing p05/p051451/3547544_0005
+Too many flat parts for p05/p051451/3547544_0005 ...
+Processing p05/p051451/3547544_0027
+Saved output/records/p05/p051374/3024833_0017
+Processing p05/p051451/3547544_0035
+Saved output/records/p05/p051451/3513595_0008
+Processing p05/p051451/3547544_0037
+Saved output/records/p05/p051451/3547544_0035
+Processing p05/p051459/3287595_0013
+Saved output/records/p05/p051459/3287595_0013
+Processing p05/p051459/3287595_0031
+Saved output/records/p05/p051451/3513595_0003
+Processing p05/p051459/3287595_0034
+Too many flat parts for p05/p051459/3287595_0031 ...
+Processing p05/p051459/3287595_0088
+Saved output/records/p05/p051459/3287595_0088
+Processing p05/p051459/3287595_0103
+Saved output/records/p05/p051374/3024833_0008
+Processing p05/p051459/3287595_0112
+Too many flat parts for p05/p051301/3116208_0033 ...
+Processing p05/p051459/3287595_0124
+Saved output/records/p05/p051451/3547544_0037
+Processing p05/p051459/3287595_0139
+Saved output/records/p05/p051374/3024833_0012
+Processing p05/p051459/3287595_0160
+Saved output/records/p05/p051459/3287595_0160
+Processing p05/p051459/3287595_0172
+Saved output/records/p05/p051459/3287595_0139
+Processing p05/p051459/3287595_0175
+Saved output/records/p05/p051451/3547544_0027
+Processing p05/p051459/3287595_0178
+Saved output/records/p05/p051459/3287595_0034
+Processing p05/p051459/3287595_0193
+Saved output/records/p05/p051459/3287595_0178
+Processing p05/p051459/3287595_0196
+Saved output/records/p05/p051459/3287595_0172
+Processing p05/p051459/3287595_0241
+Saved output/records/p05/p051459/3287595_0175
+Processing p05/p051459/3287595_0247
+Saved output/records/p05/p051459/3287595_0196
+Processing p05/p051459/3287595_0250
+Saved output/records/p05/p051459/3287595_0124
+Processing p05/p051459/3287595_0253
+Saved output/records/p05/p051459/3287595_0103
+Processing p05/p051459/3287595_0274
+Saved output/records/p05/p051459/3287595_0250
+Processing p05/p051459/3287595_0276
+Saved output/records/p05/p051459/3287595_0241
+Processing p05/p051459/3287595_0290
+Too many flat parts for p05/p051358/3840756_0023 ...
+Processing p05/p051459/3287595_0296
+Saved output/records/p05/p051459/3287595_0112
+Processing p05/p051459/3287595_0305
+Saved output/records/p05/p051459/3287595_0276
+Processing p05/p051459/3287595_0317
+Saved output/records/p05/p051459/3287595_0247
+Processing p05/p051459/3287595_0320
+Saved output/records/p05/p051451/3513595_0001
+Processing p05/p051459/3287595_0377
+Saved output/records/p05/p051459/3287595_0290
+Processing p05/p051459/3287595_0386
+Saved output/records/p05/p051459/3287595_0320
+Processing p05/p051459/3287595_0437
+Saved output/records/p05/p051459/3287595_0317
+Processing p05/p051459/3287595_0440
+Saved output/records/p05/p051459/3287595_0377
+Processing p05/p051459/3287595_0442
+Saved output/records/p05/p051459/3287595_0296
+Processing p05/p051459/3287595_0443
+Saved output/records/p05/p051459/3287595_0440
+Processing p05/p051459/3287595_0452
+Saved output/records/p05/p051459/3287595_0305
+Processing p05/p051459/3287595_0458
+Saved output/records/p05/p051459/3287595_0437
+Processing p05/p051459/3287595_0599
+Saved output/records/p05/p051459/3287595_0253
+Processing p05/p051459/3287595_0794
+Saved output/records/p05/p051459/3287595_0599
+Processing p05/p051459/3287595_0797
+Saved output/records/p05/p051459/3287595_0452
+Processing p05/p051459/3287595_0836
+Saved output/records/p05/p051459/3287595_0797
+Processing p05/p051459/3287595_0899
+Saved output/records/p05/p051327/3303813_0014
+Processing p05/p051459/3287595_0905
+Saved output/records/p05/p051459/3287595_0458
+Saved output/records/p05/p051459/3287595_0274
+Processing p05/p051459/3287595_0911
+Processing p05/p051459/3287595_0914
+Saved output/records/p05/p051459/3287595_0899
+Processing p05/p051459/3287595_0929
+Saved output/records/p05/p051459/3287595_0914
+Processing p05/p051459/3287595_0941
+Saved output/records/p05/p051459/3287595_0193
+Processing p05/p051459/3287595_0944
+Saved output/records/p05/p051459/3287595_0944
+Processing p05/p051459/3287595_0950
+Saved output/records/p05/p051459/3287595_0443
+Processing p05/p051459/3287595_0998
+Saved output/records/p05/p051459/3287595_0941
+Processing p05/p051459/3287595_1001
+Saved output/records/p05/p051459/3287595_0950
+Processing p05/p051459/3287595_1004
+Saved output/records/p05/p051459/3287595_0442
+Processing p05/p051459/3287595_1013
+Saved output/records/p05/p051459/3287595_0794
+Processing p05/p051459/3287595_1019
+Saved output/records/p05/p051459/3287595_1004
+Processing p05/p051459/3287595_1022
+Saved output/records/p05/p051459/3287595_1001
+Processing p05/p051459/3287595_1028
+Saved output/records/p05/p051459/3287595_0836
+Processing p05/p051459/3287595_1030
+Saved output/records/p05/p051459/3287595_0911
+Processing p05/p051459/3287595_1033
+Saved output/records/p05/p051459/3287595_0905
+Processing p05/p051459/3287595_1048
+Saved output/records/p05/p051459/3287595_1030
+Processing p05/p051459/3287595_1051
+Saved output/records/p05/p051459/3287595_1033
+Processing p05/p051459/3287595_1057
+Saved output/records/p05/p051459/3287595_0929
+Processing p05/p051459/3287595_1059
+Saved output/records/p05/p051459/3287595_0386
+Processing p05/p051459/3287595_1062
+Too many flat parts for p05/p051459/3287595_1051 ...
+Processing p05/p051459/3287595_1080
+Too many flat parts for p05/p051459/3287595_1048 ...
+Processing p05/p051459/3287595_1083
+Saved output/records/p05/p051188/3963529_0023
+Processing p05/p051459/3287595_1095
+Saved output/records/p05/p051459/3287595_1080
+Processing p05/p051459/3287595_1107
+Too many flat parts for p05/p051459/3287595_1013 ...
+Processing p05/p051459/3287595_1125
+Saved output/records/p05/p051459/3287595_1019
+Processing p05/p051459/3287595_1155
+Saved output/records/p05/p051459/3287595_1059
+Processing p05/p051459/3287595_1158
+Saved output/records/p05/p051459/3287595_1095
+Processing p05/p051459/3287595_1161
+Too many flat parts for p05/p051459/3287595_1125 ...
+Processing p05/p051459/3287595_1171
+Saved output/records/p05/p051459/3287595_0998
+Processing p05/p051459/3287595_1210
+Too many flat parts for p05/p051459/3287595_1057 ...
+Processing p05/p051459/3287595_1219
+Too many flat parts for p05/p051459/3287595_1028 ...
+Processing p05/p051459/3287595_1237
+Saved output/records/p05/p051459/3287595_1107
+Processing p05/p051459/3287595_1252
+Too many flat parts for p05/p051459/3287595_1161 ...
+Processing p05/p051459/3287595_1255
+Saved output/records/p05/p051459/3287595_1255
+Processing p05/p051459/3287595_1267
+Too many flat parts for p05/p051459/3287595_1158 ...
+Processing p05/p051459/3287595_1273
+Saved output/records/p05/p051459/3287595_1062
+Processing p05/p051459/3423158_0017
+Saved output/records/p05/p051459/3287595_1252
+Processing p05/p051459/3423158_0020
+Too many flat parts for p05/p051459/3287595_1155 ...
+Processing p05/p051459/3423158_0023
+Saved output/records/p05/p051459/3287595_1022
+Processing p05/p051459/3423158_0026
+Too many flat parts for p05/p051459/3423158_0017 ...
+Processing p05/p051459/3423158_0047
+Saved output/records/p05/p051459/3423158_0020
+Processing p05/p051459/3423158_0053
+Saved output/records/p05/p051459/3287595_1171
+Processing p05/p051459/3423158_0056
+Saved output/records/p05/p051459/3287595_1210
+Processing p05/p051459/3423158_0074
+Saved output/records/p05/p051459/3423158_0047
+Processing p05/p051459/3423158_0089
+Saved output/records/p05/p051459/3287595_1237
+Processing p05/p051459/3423158_0092
+Saved output/records/p05/p051459/3287595_1273
+Processing p05/p051459/3423158_0095
+Saved output/records/p05/p051374/3024833_0004
+Processing p05/p051459/3423158_0098
+Saved output/records/p05/p051459/3287595_1083
+Processing p05/p051459/3423158_0107
+Saved output/records/p05/p051459/3287595_1219
+Processing p05/p051459/3423158_0113
+Saved output/records/p05/p051459/3423158_0056
+Processing p05/p051459/3423158_0116
+Saved output/records/p05/p051459/3287595_1267
+Processing p05/p051459/3423158_0122
+Saved output/records/p05/p051459/3423158_0023
+Processing p05/p051459/3423158_0155
+Saved output/records/p05/p051459/3423158_0092
+Processing p05/p051459/3530998_0002
+Saved output/records/p05/p051459/3423158_0107
+Processing p05/p051459/3530998_0014
+Saved output/records/p05/p051459/3423158_0095
+Processing p05/p051459/3530998_0026
+Saved output/records/p05/p051459/3423158_0053
+Processing p05/p051459/3530998_0029
+Saved output/records/p05/p051459/3423158_0116
+Processing p05/p051459/3530998_0032
+Too many flat parts for p05/p051459/3530998_0002 ...
+Processing p05/p051459/3530998_0035
+Too many flat parts for p05/p051459/3423158_0155 ...
+Processing p05/p051459/3530998_0050
+Saved output/records/p05/p051459/3423158_0089
+Processing p05/p051459/3530998_0052
+Saved output/records/p05/p051459/3530998_0035
+Processing p05/p051459/3530998_0079
+Saved output/records/p05/p051459/3530998_0032
+Processing p05/p051459/3530998_0082
+Saved output/records/p05/p051459/3530998_0050
+Processing p05/p051459/3530998_0124
+Too many flat parts for p05/p051459/3530998_0052 ...
+Processing p05/p051459/3530998_0127
+Saved output/records/p05/p051459/3423158_0098
+Processing p05/p051459/3530998_0160
+Saved output/records/p05/p051459/3423158_0074
+Processing p05/p051459/3530998_0169
+Saved output/records/p05/p051459/3530998_0014
+Processing p05/p051459/3530998_0172
+Saved output/records/p05/p051459/3530998_0082
+Processing p05/p051459/3530998_0246
+Saved output/records/p05/p051459/3530998_0026
+Processing p05/p051459/3530998_0288
+Saved output/records/p05/p051459/3530998_0160
+Processing p05/p051459/3530998_0306
+Saved output/records/p05/p051459/3530998_0029
+Processing p05/p051459/3530998_0312
+Saved output/records/p05/p051459/3530998_0246
+Processing p05/p051459/3530998_0318
+Too many flat parts for p05/p051459/3530998_0172 ...
+Processing p05/p051459/3530998_0330
+Saved output/records/p05/p051459/3530998_0169
+Processing p05/p051459/3530998_0387
+Saved output/records/p05/p051459/3530998_0306
+Processing p05/p051459/3530998_0396
+Saved output/records/p05/p051459/3530998_0318
+Processing p05/p051459/3530998_0399
+Saved output/records/p05/p051459/3423158_0026
+Processing p05/p051459/3530998_0405
+Saved output/records/p05/p051459/3530998_0387
+Processing p05/p051459/3530998_0408
+Saved output/records/p05/p051459/3530998_0399
+Processing p05/p051459/3530998_0411
+Saved output/records/p05/p051459/3530998_0408
+Processing p05/p051459/3530998_0438
+Saved output/records/p05/p051459/3423158_0122
+Processing p05/p051459/3530998_0447
+Saved output/records/p05/p051459/3530998_0312
+Processing p05/p051459/3530998_0462
+Too many flat parts for p05/p051459/3530998_0438 ...
+Processing p05/p051459/3530998_0465
+Saved output/records/p05/p051459/3530998_0079
+Processing p05/p051459/3530998_0477
+Saved output/records/p05/p051459/3530998_0411
+Processing p05/p051459/3530998_0480
+Saved output/records/p05/p051459/3530998_0396
+Processing p05/p051459/3530998_0483
+Too many flat parts for p05/p051459/3530998_0288 ...
+Processing p05/p051459/3530998_0507
+Saved output/records/p05/p051459/3530998_0480
+Processing p05/p051459/3530998_0510
+Saved output/records/p05/p051459/3530998_0462
+Processing p05/p051459/3530998_0522
+Saved output/records/p05/p051459/3530998_0465
+Processing p05/p051459/3530998_0525
+Too many flat parts for p05/p051459/3530998_0522 ...
+Processing p05/p051459/3530998_0531
+Saved output/records/p05/p051459/3530998_0447
+Processing p05/p051459/3530998_0534
+Too many flat parts for p05/p051459/3530998_0525 ...
+Processing p05/p051459/3530998_0565
+Too many flat parts for p05/p051459/3530998_0531 ...
+Processing p05/p051459/3530998_0580
+Too many flat parts for p05/p051459/3530998_0483 ...
+Processing p05/p051459/3530998_0581
+Saved output/records/p05/p051459/3423158_0113
+Processing p05/p051459/3530998_0620
+Too many flat parts for p05/p051459/3530998_0507 ...
+Processing p05/p051459/3577021_0004
+Too many flat parts for p05/p051459/3530998_0620 ...
+Processing p05/p051459/3577021_0030
+Saved output/records/p05/p051459/3530998_0580
+Processing p05/p051459/3577021_0054
+Saved output/records/p05/p051459/3530998_0330
+Processing p05/p051459/3577021_0057
+Saved output/records/p05/p051459/3530998_0127
+Processing p05/p051459/3577021_0060
+Saved output/records/p05/p051459/3577021_0060
+Processing p05/p051459/3577021_0069
+Saved output/records/p05/p051459/3577021_0069
+Processing p05/p051459/3577021_0072
+Saved output/records/p05/p051459/3530998_0405
+Processing p05/p051459/3577021_0105
+Saved output/records/p05/p051459/3577021_0004
+Processing p05/p051459/3577021_0111
+Too many flat parts for p05/p051459/3530998_0581 ...
+Processing p05/p051459/3577021_0123
+Saved output/records/p05/p051459/3577021_0072
+Processing p05/p051459/3577021_0126
+Too many flat parts for p05/p051459/3530998_0510 ...
+Processing p05/p051459/3577021_0129
+Saved output/records/p05/p051459/3577021_0057
+Processing p05/p051459/3577021_0159
+Saved output/records/p05/p051459/3577021_0126
+Processing p05/p051459/3577021_0165
+Saved output/records/p05/p051459/3577021_0129
+Processing p05/p051459/3577021_0177
+Saved output/records/p05/p051459/3530998_0565
+Processing p05/p051459/3577021_0180
+Saved output/records/p05/p051459/3530998_0124
+Processing p05/p051459/3577021_0183
+Saved output/records/p05/p051459/3577021_0159
+Processing p05/p051459/3577021_0192
+Saved output/records/p05/p051459/3577021_0123
+Processing p05/p051459/3577021_0195
+Saved output/records/p05/p051459/3577021_0180
+Processing p05/p051459/3577021_0201
+Saved output/records/p05/p051459/3577021_0192
+Processing p05/p051459/3577021_0213
+Saved output/records/p05/p051459/3577021_0111
+Processing p05/p051459/3577021_0219
+Saved output/records/p05/p051459/3577021_0183
+Processing p05/p051482/3133076_0010
+Saved output/records/p05/p051459/3577021_0195
+Processing p05/p051482/3336777_0049
+Saved output/records/p05/p051459/3577021_0030
+Processing p05/p051482/3336777_0051
+Too many flat parts for p05/p051459/3530998_0534 ...
+Processing p05/p051482/3823308_0007
+Too many flat parts for p05/p051482/3336777_0049 ...
+Processing p05/p051482/3823308_0009
+Too many flat parts for p05/p051482/3823308_0007 ...
+Processing p05/p051482/3823308_0014
+Saved output/records/p05/p051459/3577021_0201
+Processing p05/p051482/3959365_0004
+Saved output/records/p05/p051459/3577021_0054
+Processing p05/p051482/3959365_0010
+Too many NaNs for p05/p051482/3133076_0010 ...
+Processing p05/p051482/3959365_0012
+Too many flat parts for p05/p051482/3959365_0004 ...
+Processing p05/p051482/3959365_0013
+Too many flat parts for p05/p051482/3336777_0051 ...
+Processing p05/p051482/3959365_0017
+Saved output/records/p05/p051459/3577021_0177
+Processing p05/p051482/3959365_0022
+Saved output/records/p05/p051459/3577021_0105
+Processing p05/p051482/3959365_0026
+Too many flat parts for p05/p051482/3959365_0017 ...
+Processing p05/p051497/3302562_0007
+Too many flat parts for p05/p051497/3302562_0007 ...
+Processing p05/p051497/3302562_0008
+Saved output/records/p05/p051459/3577021_0213
+Processing p05/p051497/3302562_0014
+Saved output/records/p05/p051459/3577021_0165
+Processing p05/p051497/3302562_0015
+Too many flat parts for p05/p051497/3302562_0014 ...
+Processing p05/p051497/3302562_0016
+Saved output/records/p05/p051497/3302562_0015
+Processing p05/p051497/3302562_0017
+Too many flat parts for p05/p051482/3959365_0026 ...
+Processing p05/p051497/3302562_0019
+Too many flat parts for p05/p051482/3959365_0022 ...
+Processing p05/p051497/3302562_0020
+Too many flat parts for p05/p051482/3959365_0013 ...
+Processing p05/p051497/3302562_0025
+Saved output/records/p05/p051459/3530998_0477
+Processing p05/p051497/3302562_0028
+Too many flat parts for p05/p051497/3302562_0028 ...
+Processing p05/p051497/3678678_0003
+Too many flat parts for p05/p051497/3302562_0019 ...
+Processing p05/p051497/3678678_0005
+Too many NaNs for p05/p051497/3302562_0008 ...
+Processing p05/p051497/3678678_0007
+Too many flat parts for p05/p051482/3959365_0012 ...
+Processing p05/p051497/3678678_0009
+Too many flat parts for p05/p051497/3678678_0005 ...
+Processing p05/p051497/3678678_0011
+Saved output/records/p05/p051497/3302562_0017
+Processing p05/p051497/3678678_0013
+Too many flat parts for p05/p051482/3959365_0010 ...
+Processing p05/p051497/3678678_0015
+Too many flat parts for p05/p051497/3678678_0015 ...
+Processing p05/p051497/3678678_0017
+Too many flat parts for p05/p051497/3678678_0007 ...
+Processing p05/p051497/3678678_0019
+Too many flat parts for p05/p051497/3678678_0017 ...
+Processing p05/p051515/3221985_0003
+Too many flat parts for p05/p051459/3577021_0219 ...
+Processing p05/p051515/3221985_0004
+Too many flat parts for p05/p051515/3221985_0003 ...
+Processing p05/p051515/3221985_0006
+Too many flat parts for p05/p051515/3221985_0006 ...
+Processing p05/p051515/3221985_0008
+Too many flat parts for p05/p051497/3678678_0013 ...
+Processing p05/p051515/3221985_0010
+Too many flat parts for p05/p051515/3221985_0004 ...
+Processing p05/p051515/3221985_0012
+Too many flat parts for p05/p051515/3221985_0010 ...
+Processing p05/p051515/3221985_0015
+Saved output/records/p05/p051497/3678678_0019
+Processing p05/p051515/3221985_0017
+Too many flat parts for p05/p051482/3823308_0009 ...
+Processing p05/p051515/3221985_0020
+Too many flat parts for p05/p051497/3302562_0020 ...
+Processing p05/p051515/3221985_0023
+Too many flat parts for p05/p051497/3302562_0016 ...
+Processing p05/p051577/3067101_0001
+Too many flat parts for p05/p051482/3823308_0014 ...
+Processing p05/p051577/3067101_0004
+Too many flat parts for p05/p051515/3221985_0017 ...
+Processing p05/p051577/3067101_0007
+Too many flat parts for p05/p051497/3302562_0025 ...
+Processing p05/p051577/3067101_0010
+Too many flat parts for p05/p051515/3221985_0008 ...
+Processing p05/p051577/3067101_0013
+Too many flat parts for p05/p051515/3221985_0020 ...
+Processing p05/p051582/3769563_0009
+Too many NaNs for p05/p051582/3769563_0009 ...
+Processing p05/p051582/3769563_0011
+Too many flat parts for p05/p051497/3678678_0011 ...
+Processing p05/p051582/3769563_0013
+Too many NaNs for p05/p051582/3769563_0011 ...
+Processing p05/p051582/3769563_0014
+Too many flat parts for p05/p051582/3769563_0013 ...
+Processing p05/p051582/3769563_0018
+Too many flat parts for p05/p051515/3221985_0012 ...
+Processing p05/p051582/3769563_0022
+Too many flat parts for p05/p051497/3678678_0003 ...
+Processing p05/p051582/3769563_0024
+Too many flat parts for p05/p051582/3769563_0018 ...
+Processing p05/p051582/3769563_0026
+Too many flat parts for p05/p051582/3769563_0022 ...
+Processing p05/p051596/3006814_0002
+Too many flat parts for p05/p051596/3006814_0002 ...
+Processing p05/p051596/3006814_0005
+Too many flat parts for p05/p051577/3067101_0010 ...
+Processing p05/p051596/3006814_0007
+Too many flat parts for p05/p051497/3678678_0009 ...
+Processing p05/p051596/3006814_0008
+Too many flat parts for p05/p051582/3769563_0024 ...
+Processing p05/p051596/3006814_0009
+Too many flat parts for p05/p051596/3006814_0005 ...
+Processing p05/p051596/3006814_0010
+Too many flat parts for p05/p051596/3006814_0010 ...
+Processing p05/p051596/3006814_0012
+Too many flat parts for p05/p051596/3006814_0012 ...
+Processing p05/p051596/3006814_0015
+Too many flat parts for p05/p051596/3006814_0008 ...
+Processing p05/p051596/3006814_0017
+Too many NaNs for p05/p051582/3769563_0014 ...
+Processing p05/p051596/3006814_0019
+Too many flat parts for p05/p051515/3221985_0023 ...
+Processing p05/p051596/3006814_0021
+Too many flat parts for p05/p051596/3006814_0009 ...
+Processing p05/p051596/3006814_0023
+Saved output/records/p05/p051577/3067101_0004
+Processing p05/p051596/3006814_0025
+Too many flat parts for p05/p051596/3006814_0007 ...
+Processing p05/p051596/3006814_0027
+Too many flat parts for p05/p051596/3006814_0015 ...
+Processing p05/p051596/3006814_0029
+Saved output/records/p05/p051596/3006814_0025
+Processing p05/p051596/3006814_0031
+Too many flat parts for p05/p051596/3006814_0029 ...
+Processing p05/p051596/3006814_0033
+Too many flat parts for p05/p051596/3006814_0017 ...
+Processing p05/p051596/3006814_0035
+Saved output/records/p05/p051515/3221985_0015
+Processing p05/p051596/3006814_0038
+Too many flat parts for p05/p051596/3006814_0027 ...
+Processing p05/p051596/3542634_0008
+Too many flat parts for p05/p051596/3006814_0023 ...
+Processing p05/p051596/3542634_0010
+Saved output/records/p05/p051596/3542634_0010
+Processing p05/p051596/3542634_0012
+Too many flat parts for p05/p051596/3006814_0019 ...
+Processing p05/p051597/3119048_0002
+Saved output/records/p05/p051596/3006814_0031
+Processing p05/p051597/3119048_0004
+Too many flat parts for p05/p051596/3006814_0021 ...
+Processing p05/p051597/3710278_0007
+Too many flat parts for p05/p051596/3542634_0008 ...
+Processing p05/p051724/3835605_0005
+Saved output/records/p05/p051577/3067101_0001
+Processing p05/p051724/3835605_0019
+Too many flat parts for p05/p051597/3119048_0002 ...
+Processing p05/p051724/3835605_0022
+Too many NaNs for p05/p051582/3769563_0026 ...
+Processing p05/p051724/3835605_0025
+Too many flat parts for p05/p051596/3006814_0035 ...
+Processing p05/p051724/3835605_0028
+Saved output/records/p05/p051596/3006814_0033
+Processing p05/p051724/3835605_0030
+Saved output/records/p05/p051724/3835605_0022
+Processing p05/p051724/3835605_0033
+Saved output/records/p05/p051724/3835605_0019
+Processing p05/p051790/3369300_0003
+Saved output/records/p05/p051790/3369300_0003
+Processing p05/p051790/3369300_0006
+Saved output/records/p05/p051724/3835605_0025
+Processing p05/p051790/3369300_0007
+Saved output/records/p05/p051577/3067101_0007
+Processing p05/p051790/3369300_0010
+Too many flat parts for p05/p051597/3119048_0004 ...
+Processing p05/p051790/3369300_0012
+Saved output/records/p05/p051724/3835605_0028
+Processing p05/p051790/3369300_0015
+Too many flat parts for p05/p051596/3542634_0012 ...
+Processing p05/p051790/3369300_0018
+Saved output/records/p05/p051790/3369300_0006
+Processing p05/p051790/3369300_0021
+Saved output/records/p05/p051790/3369300_0007
+Processing p05/p051790/3369300_0023
+Too many flat parts for p05/p051597/3710278_0007 ...
+Processing p05/p051790/3369300_0025
+Too many flat parts for p05/p051790/3369300_0023 ...
+Processing p05/p051790/3369300_0028
+Too many flat parts for p05/p051596/3006814_0038 ...
+Processing p05/p051790/3369300_0031
+Saved output/records/p05/p051724/3835605_0033
+Processing p05/p051790/3369300_0034
+Saved output/records/p05/p051790/3369300_0031
+Processing p05/p051790/3369300_0036
+Saved output/records/p05/p051790/3369300_0012
+Processing p05/p051790/3369300_0039
+Saved output/records/p05/p051724/3835605_0005
+Processing p05/p051790/3369300_0040
+Saved output/records/p05/p051790/3369300_0010
+Processing p05/p051790/3369300_0043
+Saved output/records/p05/p051790/3369300_0015
+Processing p05/p051790/3369300_0046
+Saved output/records/p05/p051790/3369300_0036
+Processing p05/p051790/3369300_0049
+Saved output/records/p05/p051790/3369300_0018
+Processing p05/p051790/3369300_0052
+Saved output/records/p05/p051790/3369300_0046
+Processing p05/p051790/3369300_0056
+Saved output/records/p05/p051790/3369300_0028
+Processing p05/p051790/3369300_0058
+Saved output/records/p05/p051790/3369300_0040
+Processing p05/p051790/3369300_0060
+Saved output/records/p05/p051790/3369300_0056
+Processing p05/p051790/3369300_0066
+Saved output/records/p05/p051790/3369300_0043
+Processing p05/p051790/3369300_0069
+Saved output/records/p05/p051790/3369300_0021
+Processing p05/p051790/3369300_0072
+Saved output/records/p05/p051790/3369300_0066
+Processing p05/p051790/3369300_0075
+Saved output/records/p05/p051790/3369300_0052
+Processing p05/p051790/3369300_0078
+Saved output/records/p05/p051790/3369300_0069
+Processing p05/p051790/3369300_0081
+Saved output/records/p05/p051790/3369300_0039
+Processing p05/p051790/3369300_0084
+Saved output/records/p05/p051790/3369300_0075
+Processing p05/p051790/3369300_0087
+Saved output/records/p05/p051790/3369300_0087
+Processing p05/p051790/3369300_0090
+Saved output/records/p05/p051790/3369300_0084
+Processing p05/p051790/3369300_0101
+Saved output/records/p05/p051790/3369300_0078
+Processing p05/p051790/3369300_0102
+Too many flat parts for p05/p051790/3369300_0090 ...
+Processing p05/p051790/3369300_0116
+Saved output/records/p05/p051790/3369300_0101
+Processing p05/p051795/3335962_0001
+Saved output/records/p05/p051790/3369300_0049
+Processing p05/p051795/3335962_0004
+Saved output/records/p05/p051790/3369300_0102
+Processing p05/p051795/3335962_0007
+Saved output/records/p05/p051790/3369300_0072
+Processing p05/p051795/3335962_0009
+Too many flat parts for p05/p051790/3369300_0116 ...
+Processing p05/p051795/3623497_0019
+Saved output/records/p05/p051790/3369300_0081
+Processing p05/p051805/3931487_0009
+Too many flat parts for p05/p051805/3931487_0009 ...
+Processing p05/p051805/3931487_0011
+Saved output/records/p05/p051790/3369300_0060
+Processing p05/p051805/3931487_0016
+Saved output/records/p05/p051790/3369300_0034
+Processing p05/p051805/3931487_0018
+Saved output/records/p05/p051790/3369300_0058
+Processing p05/p051805/3931487_0021
+Too many flat parts for p05/p051805/3931487_0011 ...
+Processing p05/p051805/3931487_0023
+Saved output/records/p05/p051795/3335962_0009
+Processing p05/p051805/3931487_0025
+Saved output/records/p05/p051724/3835605_0030
+Processing p05/p051805/3931487_0026
+Saved output/records/p05/p051805/3931487_0016
+Processing p05/p051805/3931487_0027
+Saved output/records/p05/p051795/3335962_0004
+Processing p05/p051805/3931487_0029
+Saved output/records/p05/p051805/3931487_0025
+Processing p05/p051805/3931487_0031
+Too many flat parts for p05/p051805/3931487_0021 ...
+Processing p05/p051805/3931487_0033
+Saved output/records/p05/p051805/3931487_0026
+Processing p05/p051805/3931487_0035
+Too many flat parts for p05/p051805/3931487_0033 ...
+Processing p05/p051805/3931487_0040
+Saved output/records/p05/p051795/3623497_0019
+Processing p05/p051805/3931487_0042
+Too many flat parts for p05/p051577/3067101_0013 ...
+Processing p05/p051805/3931487_0044
+Saved output/records/p05/p051805/3931487_0029
+Processing p05/p051805/3931487_0047
+Too many flat parts for p05/p051805/3931487_0042 ...
+Processing p05/p051805/3931487_0050
+Too many flat parts for p05/p051805/3931487_0050 ...
+Processing p05/p051821/3511471_0002
+Too many flat parts for p05/p051805/3931487_0047 ...
+Processing p05/p051821/3511471_0004
+Saved output/records/p05/p051795/3335962_0007
+Processing p05/p051858/3823372_0003
+Too many flat parts for p05/p051821/3511471_0004 ...
+Processing p05/p051858/3823372_0006
+Saved output/records/p05/p051805/3931487_0035
+Processing p05/p051858/3823372_0007
+Saved output/records/p05/p051790/3369300_0025
+Processing p05/p051858/3823372_0011
+Too many flat parts for p05/p051858/3823372_0006 ...
+Processing p05/p051858/3823372_0026
+Saved output/records/p05/p051858/3823372_0007
+Processing p05/p051858/3823372_0029
+Too many flat parts for p05/p051858/3823372_0003 ...
+Processing p05/p051858/3823372_0036
+Saved output/records/p05/p051858/3823372_0011
+Processing p05/p051858/3823372_0039
+Saved output/records/p05/p051805/3931487_0040
+Processing p05/p051858/3823372_0042
+Too many flat parts for p05/p051821/3511471_0002 ...
+Processing p05/p051858/3823372_0046
+Saved output/records/p05/p051805/3931487_0044
+Processing p05/p051858/3823372_0048
+Saved output/records/p05/p051858/3823372_0046
+Processing p05/p051858/3823372_0051
+Saved output/records/p05/p051795/3335962_0001
+Processing p05/p051858/3823372_0054
+Saved output/records/p05/p051858/3823372_0039
+Processing p05/p051858/3823372_0059
+Saved output/records/p05/p051858/3823372_0029
+Processing p05/p051858/3823372_0062
+Saved output/records/p05/p051858/3823372_0026
+Processing p05/p051858/3823372_0065
+Saved output/records/p05/p051858/3823372_0062
+Processing p05/p051858/3823372_0071
+Saved output/records/p05/p051858/3823372_0042
+Processing p05/p051858/3823372_0074
+Saved output/records/p05/p051805/3931487_0031
+Processing p05/p051864/3137777_0001
+Saved output/records/p05/p051858/3823372_0071
+Processing p05/p051864/3137777_0004
+Saved output/records/p05/p051858/3823372_0051
+Processing p05/p051864/3552386_0006
+Saved output/records/p05/p051858/3823372_0048
+Processing p05/p051864/3552386_0008
+Saved output/records/p05/p051858/3823372_0059
+Processing p05/p051871/3816716_0002
+Saved output/records/p05/p051858/3823372_0054
+Processing p05/p051871/3816716_0003
+Saved output/records/p05/p051858/3823372_0036
+Processing p05/p051871/3816716_0007
+Saved output/records/p05/p051805/3931487_0027
+Processing p05/p051871/3816716_0009
+Saved output/records/p05/p051805/3931487_0023
+Processing p05/p051871/3816716_0012
+Saved output/records/p05/p051864/3137777_0001
+Processing p05/p051871/3816716_0013
+Saved output/records/p05/p051858/3823372_0074
+Processing p05/p051871/3816716_0015
+Saved output/records/p05/p051858/3823372_0065
+Processing p05/p051871/3816716_0016
+Saved output/records/p05/p051871/3816716_0015
+Processing p05/p051871/3816716_0019
+Saved output/records/p05/p051871/3816716_0009
+Processing p05/p051871/3816716_0020
+Saved output/records/p05/p051871/3816716_0019
+Processing p05/p051871/3816716_0023
+Saved output/records/p05/p051871/3816716_0007
+Processing p05/p051871/3816716_0026
+Saved output/records/p05/p051871/3816716_0023
+Processing p05/p051871/3816716_0028
+Saved output/records/p05/p051864/3552386_0008
+Processing p05/p051871/3816716_0031
+Saved output/records/p05/p051871/3816716_0003
+Processing p05/p051871/3816716_0034
+Saved output/records/p05/p051805/3931487_0018
+Processing p05/p051871/3816716_0037
+Saved output/records/p05/p051871/3816716_0016
+Processing p05/p051871/3816716_0039
+Saved output/records/p05/p051871/3816716_0034
+Processing p05/p051871/3816716_0042
+Saved output/records/p05/p051871/3816716_0013
+Processing p05/p051871/3816716_0044
+Saved output/records/p05/p051871/3816716_0039
+Processing p05/p051890/3699083_0007
+Too many flat parts for p05/p051890/3699083_0007 ...
+Processing p05/p051890/3699083_0009
+Too many flat parts for p05/p051890/3699083_0009 ...
+Processing p05/p051890/3699083_0010
+Too many flat parts for p05/p051890/3699083_0010 ...
+Processing p05/p051890/3699083_0012
+Too many flat parts for p05/p051890/3699083_0012 ...
+Processing p05/p051890/3699083_0013
+Too many flat parts for p05/p051890/3699083_0013 ...
+Processing p05/p051890/3699083_0016
+Saved output/records/p05/p051864/3552386_0006
+Processing p05/p051890/3699083_0017
+Too many flat parts for p05/p051890/3699083_0017 ...
+Processing p05/p051890/3699083_0018
+Too many flat parts for p05/p051890/3699083_0018 ...
+Processing p05/p051890/3699083_0021
+Too many flat parts for p05/p051890/3699083_0016 ...
+Processing p05/p051890/3699083_0023
+Too many flat parts for p05/p051890/3699083_0021 ...
+Processing p05/p051890/3699083_0025
+Too many flat parts for p05/p051890/3699083_0025 ...
+Processing p05/p051890/3699083_0027
+Too many flat parts for p05/p051890/3699083_0027 ...
+Processing p05/p051890/3699083_0029
+Too many flat parts for p05/p051890/3699083_0029 ...
+Processing p05/p051890/3699083_0030
+Too many flat parts for p05/p051890/3699083_0030 ...
+Processing p05/p051890/3699083_0033
+Too many flat parts for p05/p051890/3699083_0033 ...
+Processing p05/p051891/3462081_0001
+Too many flat parts for p05/p051890/3699083_0023 ...
+Processing p05/p051909/3655233_0007
+Too many flat parts for p05/p051891/3462081_0001 ...
+Processing p05/p051909/3655233_0010
+Saved output/records/p05/p051871/3816716_0031
+Processing p05/p051909/3655233_0012
+Saved output/records/p05/p051871/3816716_0026
+Processing p05/p051909/3655233_0014
+Saved output/records/p05/p051871/3816716_0028
+Processing p05/p051909/3655233_0017
+Saved output/records/p05/p051871/3816716_0042
+Processing p05/p051909/3655233_0020
+Saved output/records/p05/p051909/3655233_0012
+Processing p05/p051909/3655233_0021
+Saved output/records/p05/p051909/3655233_0020
+Processing p05/p051909/3655233_0022
+Saved output/records/p05/p051909/3655233_0021
+Processing p05/p051909/3655233_0024
+Saved output/records/p05/p051909/3655233_0014
+Processing p05/p051909/3655233_0032
+Saved output/records/p05/p051909/3655233_0017
+Processing p05/p051909/3655233_0034
+Too many flat parts for p05/p051909/3655233_0032 ...
+Processing p05/p051909/3655233_0035
+Saved output/records/p05/p051871/3816716_0044
+Processing p05/p051909/3655233_0037
+Saved output/records/p05/p051909/3655233_0007
+Processing p05/p051909/3655233_0040
+Saved output/records/p05/p051909/3655233_0034
+Processing p05/p051909/3655233_0043
+Saved output/records/p05/p051909/3655233_0037
+Processing p05/p051909/3655233_0044
+Saved output/records/p05/p051909/3655233_0035
+Processing p05/p051909/3655233_0047
+Saved output/records/p05/p051909/3655233_0040
+Processing p05/p051909/3655233_0055
+Too many flat parts for p05/p051871/3816716_0037 ...
+Processing p05/p051909/3655233_0057
+Saved output/records/p05/p051909/3655233_0044
+Processing p05/p051909/3655233_0060
+Saved output/records/p05/p051909/3655233_0055
+Processing p05/p051909/3655233_0063
+Saved output/records/p05/p051909/3655233_0063
+Processing p05/p051909/3655233_0064
+Saved output/records/p05/p051909/3655233_0047
+Processing p05/p051909/3655233_0066
+Saved output/records/p05/p051909/3655233_0060
+Processing p05/p051909/3655233_0067
+Saved output/records/p05/p051909/3655233_0066
+Processing p05/p051909/3655233_0068
+Saved output/records/p05/p051909/3655233_0067
+Processing p05/p051909/3655233_0069
+Saved output/records/p05/p051871/3816716_0020
+Processing p05/p051909/3655233_0086
+Saved output/records/p05/p051909/3655233_0086
+Processing p05/p051909/3655233_0088
+Saved output/records/p05/p051909/3655233_0069
+Processing p05/p051909/3655233_0089
+Saved output/records/p05/p051909/3655233_0068
+Processing p05/p051909/3655233_0090
+Saved output/records/p05/p051909/3655233_0043
+Processing p05/p051909/3655233_0093
+Saved output/records/p05/p051909/3655233_0088
+Processing p05/p051909/3655233_0096
+Saved output/records/p05/p051909/3655233_0010
+Processing p05/p051909/3655233_0116
+Saved output/records/p05/p051909/3655233_0024
+Processing p05/p051909/3655233_0118
+Saved output/records/p05/p051909/3655233_0096
+Processing p05/p051909/3655233_0122
+Too many flat parts for p05/p051909/3655233_0116 ...
+Processing p05/p051909/3655233_0128
+Saved output/records/p05/p051909/3655233_0089
+Processing p05/p051909/3655233_0129
+Saved output/records/p05/p051909/3655233_0057
+Processing p05/p051909/3655233_0143
+Saved output/records/p05/p051909/3655233_0122
+Processing p05/p051909/3655233_0155
+Saved output/records/p05/p051909/3655233_0129
+Processing p05/p051909/3655233_0157
+Saved output/records/p05/p051909/3655233_0128
+Processing p05/p051909/3655233_0160
+Saved output/records/p05/p051909/3655233_0160
+Processing p05/p051909/3655233_0167
+Saved output/records/p05/p051909/3655233_0064
+Processing p05/p051909/3655233_0170
+Saved output/records/p05/p051871/3816716_0012
+Processing p05/p051909/3655233_0173
+Saved output/records/p05/p051909/3655233_0118
+Processing p05/p051909/3655233_0174
+Saved output/records/p05/p051909/3655233_0157
+Processing p05/p051909/3655233_0176
+Saved output/records/p05/p051909/3655233_0093
+Processing p05/p051909/3655233_0179
+Saved output/records/p05/p051909/3655233_0155
+Processing p05/p051909/3655233_0181
+Saved output/records/p05/p051909/3655233_0022
+Processing p05/p051909/3655233_0183
+Too many flat parts for p05/p051909/3655233_0174 ...
+Processing p05/p051909/3655233_0185
+Too many flat parts for p05/p051909/3655233_0181 ...
+Processing p05/p051909/3655233_0187
+Saved output/records/p05/p051909/3655233_0143
+Processing p05/p051909/3655233_0189
+Too many flat parts for p05/p051909/3655233_0185 ...
+Processing p05/p051909/3655233_0201
+Too many flat parts for p05/p051909/3655233_0170 ...
+Processing p05/p051912/3821870_0011
+Saved output/records/p05/p051909/3655233_0201
+Processing p05/p051912/3821870_0013
+Saved output/records/p05/p051909/3655233_0179
+Processing p05/p051912/3821870_0015
+Too many flat parts for p05/p051912/3821870_0013 ...
+Processing p05/p051912/3821870_0019
+Too many flat parts for p05/p051912/3821870_0019 ...
+Processing p05/p051912/3821870_0023
+Saved output/records/p05/p051909/3655233_0167
+Processing p05/p051951/3168430_0001
+Too many flat parts for p05/p051912/3821870_0015 ...
+Processing p05/p051951/3168430_0004
+Saved output/records/p05/p051909/3655233_0176
+Processing p05/p051951/3168430_0005
+Saved output/records/p05/p051909/3655233_0183
+Processing p05/p051951/3229221_0003
+Too many flat parts for p05/p051912/3821870_0011 ...
+Processing p05/p051951/3666313_0003
+Too many flat parts for p05/p051912/3821870_0023 ...
+Processing p05/p051951/3666313_0006
+Saved output/records/p05/p051909/3655233_0187
+Processing p05/p051951/3666313_0007
+Saved output/records/p05/p051951/3229221_0003
+Processing p05/p051951/3666313_0008
+Saved output/records/p05/p051951/3666313_0007
+Processing p05/p051951/3666313_0010
+Saved output/records/p05/p051951/3168430_0001
+Processing p05/p051951/3666313_0015
+Saved output/records/p05/p051951/3666313_0008
+Processing p05/p051951/3935394_0006
+Saved output/records/p05/p051951/3168430_0004
+Processing p05/p051951/3935394_0009
+Too many flat parts for p05/p051951/3935394_0006 ...
+Processing p05/p051951/3935394_0017
+Saved output/records/p05/p051951/3935394_0009
+Processing p05/p051951/3935394_0024
+Saved output/records/p05/p051951/3935394_0017
+Processing p05/p051986/3132009_0006
+Saved output/records/p05/p051909/3655233_0090
+Processing p05/p051986/3132009_0007
+Saved output/records/p05/p051951/3666313_0006
+Processing p05/p051992/3141226_0006
+Saved output/records/p05/p051951/3666313_0010
+Processing p05/p051992/3141226_0007
+Too many NaNs for p05/p051992/3141226_0006 ...
+Processing p05/p051992/3141226_0010
+Too many flat parts for p05/p051992/3141226_0007 ...
+Processing p05/p051992/3141226_0011
+Saved output/records/p05/p051951/3666313_0003
+Processing p05/p051992/3373949_0003
+Too many flat parts for p05/p051992/3141226_0011 ...
+Processing p05/p052011/3981434_0005
+Too many flat parts for p05/p051992/3141226_0010 ...
+Processing p05/p052011/3981434_0006
+Too many flat parts for p05/p052011/3981434_0005 ...
+Processing p05/p052011/3981434_0007
+Too many flat parts for p05/p052011/3981434_0006 ...
+Processing p05/p052011/3981434_0009
+Saved output/records/p05/p051951/3168430_0005
+Processing p05/p052057/3447393_0002
+Saved output/records/p05/p052057/3447393_0002
+Processing p05/p052057/3447393_0003
+Too many flat parts for p05/p051992/3373949_0003 ...
+Processing p05/p052057/3447393_0006
+Too many flat parts for p05/p052011/3981434_0007 ...
+Processing p05/p052057/3447393_0009
+Saved output/records/p05/p052057/3447393_0006
+Processing p05/p052057/3447393_0012
+Saved output/records/p05/p052057/3447393_0003
+Processing p05/p052057/3447393_0014
+Saved output/records/p05/p051951/3666313_0015
+Processing p05/p052057/3447393_0017
+Saved output/records/p05/p052057/3447393_0014
+Processing p05/p052057/3447393_0018
+Too many flat parts for p05/p052011/3981434_0009 ...
+Processing p05/p052057/3447393_0021
+Too many flat parts for p05/p051909/3655233_0173 ...
+Processing p05/p052057/3447393_0023
+Saved output/records/p05/p052057/3447393_0023
+Processing p05/p052057/3718933_0007
+Saved output/records/p05/p051986/3132009_0007
+Processing p05/p052087/3165360_0006
+Too many flat parts for p05/p052087/3165360_0006 ...
+Processing p05/p052087/3165360_0009
+Saved output/records/p05/p052057/3447393_0012
+Processing p05/p052087/3165360_0011
+Saved output/records/p05/p052057/3447393_0021
+Processing p05/p052087/3165360_0013
+Saved output/records/p05/p052087/3165360_0009
+Processing p05/p052087/3165360_0016
+Saved output/records/p05/p052087/3165360_0013
+Processing p05/p052087/3165360_0019
+Saved output/records/p05/p052087/3165360_0016
+Processing p05/p052146/3605401_0009
+Saved output/records/p05/p052057/3718933_0007
+Processing p05/p052191/3050235_0001
+Too many flat parts for p05/p051986/3132009_0006 ...
+Processing p05/p052191/3050235_0004
+Saved output/records/p05/p052057/3447393_0017
+Processing p05/p052191/3050235_0007
+Saved output/records/p05/p052087/3165360_0019
+Processing p05/p052191/3050235_0010
+Saved output/records/p05/p051864/3137777_0004
+Processing p05/p052191/3050235_0013
+Too many flat parts for p05/p052146/3605401_0009 ...
+Processing p05/p052191/3050235_0016
+Saved output/records/p05/p051951/3935394_0024
+Processing p05/p052191/3050235_0017
+Saved output/records/p05/p052191/3050235_0013
+Processing p05/p052191/3050235_0020
+Saved output/records/p05/p052191/3050235_0004
+Processing p05/p052191/3050235_0022
+Saved output/records/p05/p052191/3050235_0007
+Processing p05/p052191/3050235_0024
+Saved output/records/p05/p052087/3165360_0011
+Processing p05/p052191/3389742_0001
+Saved output/records/p05/p052191/3050235_0016
+Processing p05/p052191/3389742_0004
+Saved output/records/p05/p052191/3389742_0001
+Processing p05/p052191/3389742_0007
+Saved output/records/p05/p052191/3050235_0010
+Processing p05/p052191/3389742_0010
+Saved output/records/p05/p052191/3389742_0007
+Processing p05/p052191/3389742_0014
+Saved output/records/p05/p052191/3389742_0014
+Processing p05/p052191/3389742_0017
+Saved output/records/p05/p051909/3655233_0189
+Processing p05/p052191/3389742_0019
+Saved output/records/p05/p052057/3447393_0018
+Processing p05/p052191/3389742_0022
+Saved output/records/p05/p052191/3050235_0001
+Processing p05/p052191/3389742_0024
+Saved output/records/p05/p052191/3389742_0022
+Processing p05/p052191/3389742_0026
+Saved output/records/p05/p052191/3389742_0010
+Processing p05/p052191/3389742_0028
+Saved output/records/p05/p052057/3447393_0009
+Processing p05/p052191/3389742_0029
+Saved output/records/p05/p052191/3050235_0024
+Processing p05/p052191/3389742_0032
+Saved output/records/p05/p052191/3389742_0028
+Processing p05/p052191/3389742_0035
+Saved output/records/p05/p052191/3050235_0017
+Processing p05/p052191/3389742_0039
+Saved output/records/p05/p052191/3389742_0035
+Processing p05/p052191/3389742_0042
+Saved output/records/p05/p052191/3389742_0032
+Processing p05/p052191/3389742_0044
+Saved output/records/p05/p052191/3389742_0039
+Processing p05/p052191/3389742_0047
+Saved output/records/p05/p052191/3389742_0019
+Processing p05/p052191/3389742_0050
+Saved output/records/p05/p052191/3389742_0026
+Processing p05/p052191/3389742_0052
+Saved output/records/p05/p052191/3050235_0020
+Processing p05/p052191/3389742_0054
+Saved output/records/p05/p052191/3050235_0022
+Processing p05/p052191/3389742_0057
+Saved output/records/p05/p052191/3389742_0029
+Processing p05/p052191/3389742_0061
+Too many flat parts for p05/p051871/3816716_0002 ...
+Processing p05/p052191/3389742_0064
+Saved output/records/p05/p052191/3389742_0017
+Processing p05/p052191/3389742_0067
+Saved output/records/p05/p052191/3389742_0024
+Processing p05/p052191/3389742_0070
+Saved output/records/p05/p052191/3389742_0047
+Processing p05/p052191/3389742_0072
+Saved output/records/p05/p052191/3389742_0044
+Processing p05/p052191/3389742_0074
+Saved output/records/p05/p052191/3389742_0067
+Processing p05/p052191/3389742_0077
+Saved output/records/p05/p052191/3389742_0070
+Processing p05/p052191/3389742_0086
+Saved output/records/p05/p052191/3389742_0052
+Processing p05/p052191/3389742_0091
+Saved output/records/p05/p052191/3389742_0064
+Processing p05/p052191/3389742_0093
+Saved output/records/p05/p052191/3389742_0086
+Processing p05/p052191/3389742_0095
+Saved output/records/p05/p052191/3389742_0093
+Processing p05/p052191/3389742_0097
+Saved output/records/p05/p052191/3389742_0095
+Processing p05/p052191/3389742_0100
+Saved output/records/p05/p052191/3389742_0054
+Processing p05/p052191/3389742_0102
+Saved output/records/p05/p052191/3389742_0057
+Processing p05/p052191/3389742_0107
+Saved output/records/p05/p052191/3389742_0061
+Processing p05/p052191/3389742_0110
+Saved output/records/p05/p052191/3389742_0100
+Processing p05/p052191/3389742_0113
+Saved output/records/p05/p052191/3389742_0077
+Processing p05/p052191/3389742_0115
+Too many flat parts for p05/p052191/3389742_0074 ...
+Processing p05/p052191/3389742_0117
+Saved output/records/p05/p052191/3389742_0091
+Processing p05/p052191/3389742_0125
+Saved output/records/p05/p052191/3389742_0125
+Processing p05/p052191/3389742_0127
+Saved output/records/p05/p052191/3389742_0072
+Processing p05/p052191/3389742_0129
+Saved output/records/p05/p052191/3389742_0115
+Processing p05/p052191/3389742_0134
+Saved output/records/p05/p052191/3389742_0097
+Processing p05/p052191/3389742_0135
+Saved output/records/p05/p052191/3389742_0102
+Processing p05/p052191/3389742_0137
+Saved output/records/p05/p052191/3389742_0050
+Processing p05/p052191/3389742_0140
+Saved output/records/p05/p052191/3389742_0117
+Processing p05/p052191/3389742_0142
+Saved output/records/p05/p052191/3389742_0110
+Processing p05/p052191/3389742_0144
+Saved output/records/p05/p052191/3389742_0113
+Processing p05/p052191/3389742_0147
+Saved output/records/p05/p052191/3389742_0004
+Processing p05/p052191/3389742_0150
+Saved output/records/p05/p052191/3389742_0150
+Processing p05/p052191/3404924_0004
+Saved output/records/p05/p052191/3404924_0004
+Processing p05/p052191/3404924_0007
+Saved output/records/p05/p052191/3389742_0135
+Processing p05/p052191/3692069_0010
+Saved output/records/p05/p052191/3389742_0140
+Processing p05/p052191/3692069_0012
+Too many flat parts for p05/p052191/3692069_0010 ...
+Processing p05/p052191/3766414_0006
+Too many flat parts for p05/p052191/3404924_0007 ...
+Processing p05/p052191/3766414_0008
+Saved output/records/p05/p052191/3766414_0008
+Processing p05/p052191/3766414_0010
+Saved output/records/p05/p052191/3389742_0129
+Processing p05/p052191/3766414_0014
+Saved output/records/p05/p052191/3692069_0012
+Processing p05/p052191/3766414_0015
+Saved output/records/p05/p052191/3389742_0042
+Processing p05/p052207/3922999_0007
+Saved output/records/p05/p052191/3766414_0014
+Processing p05/p052207/3922999_0009
+Too many flat parts for p05/p052207/3922999_0009 ...
+Processing p05/p052207/3922999_0015
+Saved output/records/p05/p052191/3389742_0107
+Processing p05/p052207/3922999_0017
+Too many flat parts for p05/p052207/3922999_0015 ...
+Processing p05/p052207/3922999_0019
+Too many flat parts for p05/p052207/3922999_0007 ...
+Processing p05/p052207/3922999_0021
+Too many flat parts for p05/p052191/3389742_0134 ...
+Processing p05/p052207/3922999_0023
+Too many flat parts for p05/p052207/3922999_0019 ...
+Processing p05/p052207/3922999_0027
+Too many flat parts for p05/p052207/3922999_0023 ...
+Processing p05/p052207/3922999_0038
+Too many flat parts for p05/p052207/3922999_0027 ...
+Processing p05/p052234/3982802_0002
+Too many flat parts for p05/p052207/3922999_0021 ...
+Processing p05/p052234/3982802_0004
+Too many flat parts for p05/p052207/3922999_0038 ...
+Processing p05/p052238/3806770_0005
+Too many flat parts for p05/p052234/3982802_0002 ...
+Processing p05/p052238/3806770_0007
+Saved output/records/p05/p052191/3766414_0006
+Processing p05/p052264/3279338_0008
+Saved output/records/p05/p052191/3389742_0147
+Processing p05/p052264/3279338_0011
+Saved output/records/p05/p052191/3389742_0142
+Processing p05/p052264/3279338_0014
+Saved output/records/p05/p052191/3389742_0144
+Processing p05/p052264/3279338_0017
+Too many flat parts for p05/p052264/3279338_0008 ...
+Processing p05/p052264/3279338_0020
+Saved output/records/p05/p052264/3279338_0014
+Processing p05/p052264/3279338_0023
+Too many flat parts for p05/p052207/3922999_0017 ...
+Processing p05/p052264/3279338_0026
+Saved output/records/p05/p052238/3806770_0005
+Processing p05/p052264/3279338_0029
+Saved output/records/p05/p052191/3766414_0010
+Processing p05/p052264/3279338_0032
+ABP with invalid ranges for p05/p052264/3279338_0032 ...
+Processing p05/p052269/3477473_0001
+Saved output/records/p05/p052264/3279338_0026
+Processing p05/p052296/3989248_0004
+Saved output/records/p05/p052264/3279338_0020
+Processing p05/p052296/3989248_0005
+Too many flat parts for p05/p052269/3477473_0001 ...
+Processing p05/p052296/3989248_0009
+Too many flat parts for p05/p052296/3989248_0004 ...
+Processing p05/p052307/3515691_0008
+Too many flat parts for p05/p052234/3982802_0004 ...
+Processing p05/p052307/3515691_0010
+Too many flat parts for p05/p052307/3515691_0008 ...
+Processing p05/p052307/3515691_0015
+Too many flat parts for p05/p052296/3989248_0009 ...
+Processing p05/p052307/3515691_0018
+Too many flat parts for p05/p052307/3515691_0018 ...
+Processing p05/p052307/3518271_0003
+Too many flat parts for p05/p052307/3515691_0015 ...
+Processing p05/p052307/3518271_0005
+Saved output/records/p05/p052191/3766414_0015
+Processing p05/p052307/3518271_0008
+Too many flat parts for p05/p052307/3518271_0008 ...
+Processing p05/p052307/3518271_0011
+Too many flat parts for p05/p052307/3518271_0011 ...
+Processing p05/p052307/3518271_0016
+Too many flat parts for p05/p052307/3518271_0016 ...
+Processing p05/p052307/3518271_0019
+Saved output/records/p05/p052264/3279338_0023
+Processing p05/p052307/3518271_0021
+Too many flat parts for p05/p052307/3518271_0021 ...
+Processing p05/p052307/3518271_0023
+Saved output/records/p05/p052264/3279338_0017
+Processing p05/p052307/3518271_0025
+Too many flat parts for p05/p052307/3518271_0005 ...
+Processing p05/p052307/3518271_0027
+Too many flat parts for p05/p052264/3279338_0011 ...
+Processing p05/p052307/3518271_0029
+Too many flat parts for p05/p052307/3518271_0003 ...
+Processing p05/p052307/3518271_0031
+Too many flat parts for p05/p052307/3518271_0031 ...
+Processing p05/p052307/3518271_0039
+Too many flat parts for p05/p052307/3518271_0025 ...
+Processing p05/p052307/3518271_0041
+Too many flat parts for p05/p052307/3518271_0023 ...
+Processing p05/p052307/3518271_0048
+Too many flat parts for p05/p052307/3515691_0010 ...
+Processing p05/p052307/3518271_0050
+Too many flat parts for p05/p052307/3518271_0039 ...
+Processing p05/p052307/3518271_0052
+Too many flat parts for p05/p052307/3518271_0050 ...
+Processing p05/p052307/3803286_0003
+Too many flat parts for p05/p052307/3518271_0029 ...
+Processing p05/p052307/3803286_0009
+Too many flat parts for p05/p052307/3518271_0041 ...
+Processing p05/p052307/3929993_0018
+Too many flat parts for p05/p052307/3518271_0019 ...
+Processing p05/p052307/3929993_0020
+Too many flat parts for p05/p052307/3518271_0052 ...
+Processing p05/p052307/3929993_0023
+Too many flat parts for p05/p052307/3518271_0027 ...
+Processing p05/p052307/3929993_0024
+Saved output/records/p05/p052264/3279338_0029
+Processing p05/p052307/3929993_0025
+Too many flat parts for p05/p052307/3803286_0003 ...
+Processing p05/p052355/3203967_0010
+Saved output/records/p05/p052307/3929993_0024
+Processing p05/p052355/3203967_0012
+Saved output/records/p05/p052191/3389742_0137
+Processing p05/p052355/3203967_0018
+Saved output/records/p05/p052296/3989248_0005
+Processing p05/p052355/3203967_0020
+Too many flat parts for p05/p052355/3203967_0018 ...
+Processing p05/p052355/3475820_0007
+Too many NaNs for p05/p052355/3475820_0007 ...
+Processing p05/p052355/3475820_0009
+Too many NaNs for p05/p052355/3475820_0009 ...
+Processing p05/p052355/3475820_0011
+Too many flat parts for p05/p052355/3203967_0012 ...
+Processing p05/p052355/3475820_0014
+Too many flat parts for p05/p052355/3475820_0014 ...
+Processing p05/p052355/3475820_0017
+Too many flat parts for p05/p052355/3203967_0020 ...
+Processing p05/p052355/3475820_0019
+Too many flat parts for p05/p052307/3518271_0048 ...
+Processing p05/p052355/3475820_0023
+Too many flat parts for p05/p052355/3475820_0017 ...
+Processing p05/p052355/3475820_0029
+Saved output/records/p05/p052238/3806770_0007
+Processing p05/p052355/3475820_0031
+Saved output/records/p05/p052307/3929993_0023
+Processing p05/p052355/3475820_0035
+Too many flat parts for p05/p052355/3475820_0019 ...
+Processing p05/p052355/3475820_0037
+Too many flat parts for p05/p052307/3803286_0009 ...
+Processing p05/p052355/3475820_0039
+Too many flat parts for p05/p052355/3475820_0011 ...
+Processing p05/p052355/3475820_0041
+Too many flat parts for p05/p052355/3475820_0029 ...
+Processing p05/p052355/3475820_0048
+Too many flat parts for p05/p052307/3929993_0018 ...
+Processing p05/p052355/3475820_0050
+Too many flat parts for p05/p052355/3203967_0010 ...
+Processing p05/p052355/3475820_0062
+Too many flat parts for p05/p052355/3475820_0031 ...
+Processing p05/p052355/3475820_0068
+Too many flat parts for p05/p052355/3475820_0068 ...
+Processing p05/p052363/3623061_0026
+Saved output/records/p05/p052307/3929993_0020
+Processing p05/p052363/3687821_0003
+Too many flat parts for p05/p052355/3475820_0048 ...
+Processing p05/p052363/3783678_0002
+Too many flat parts for p05/p052355/3475820_0023 ...
+Processing p05/p052370/3588742_0005
+Too many flat parts for p05/p052355/3475820_0041 ...
+Processing p05/p052370/3588742_0008
+Too many flat parts for p05/p052355/3475820_0039 ...
+Processing p05/p052370/3588742_0015
+Too many flat parts for p05/p052355/3475820_0050 ...
+Processing p05/p052370/3844033_0001
+Too many flat parts for p05/p052363/3623061_0026 ...
+Processing p05/p052370/3844033_0002
+Too many flat parts for p05/p052363/3783678_0002 ...
+Processing p05/p052370/3844033_0006
+Too many flat parts for p05/p052355/3475820_0037 ...
+Processing p05/p052370/3844033_0008
+Too many flat parts for p05/p052355/3475820_0035 ...
+Processing p05/p052370/3844033_0011
+Too many flat parts for p05/p052363/3687821_0003 ...
+Processing p05/p052370/3844033_0014
+Saved output/records/p05/p052370/3844033_0006
+Processing p05/p052370/3844033_0017
+Saved output/records/p05/p052191/3389742_0127
+Processing p05/p052370/3844033_0019
+Saved output/records/p05/p052307/3929993_0025
+Processing p05/p052370/3844033_0025
+Too many flat parts for p05/p052355/3475820_0062 ...
+Processing p05/p052370/3844033_0028
+Saved output/records/p05/p052370/3588742_0008
+Processing p05/p052370/3844033_0031
+Saved output/records/p05/p052370/3844033_0019
+Processing p05/p052370/3844033_0034
+Saved output/records/p05/p052370/3844033_0008
+Processing p05/p052370/3844033_0037
+Saved output/records/p05/p052370/3844033_0001
+Processing p05/p052370/3980303_0002
+Saved output/records/p05/p052370/3844033_0002
+Processing p05/p052436/3192546_0009
+Too many flat parts for p05/p052436/3192546_0009 ...
+Processing p05/p052436/3192546_0012
+Saved output/records/p05/p052436/3192546_0012
+Processing p05/p052436/3192546_0015
+Saved output/records/p05/p052370/3844033_0031
+Processing p05/p052436/3192546_0018
+Saved output/records/p05/p052370/3844033_0014
+Processing p05/p052436/3192546_0021
+Saved output/records/p05/p052436/3192546_0018
+Processing p05/p052436/3192546_0024
+Saved output/records/p05/p052436/3192546_0021
+Processing p05/p052436/3192546_0027
+Saved output/records/p05/p052436/3192546_0024
+Processing p05/p052436/3192546_0030
+Too many flat parts for p05/p052436/3192546_0015 ...
+Processing p05/p052436/3192546_0032
+Saved output/records/p05/p052436/3192546_0030
+Processing p05/p052436/3192546_0035
+Saved output/records/p05/p052370/3844033_0025
+Processing p05/p052436/3192546_0038
+Saved output/records/p05/p052436/3192546_0035
+Processing p05/p052436/3192546_0041
+Saved output/records/p05/p052370/3844033_0028
+Processing p05/p052436/3192546_0044
+Saved output/records/p05/p052436/3192546_0038
+Processing p05/p052436/3192546_0047
+Saved output/records/p05/p052436/3192546_0032
+Processing p05/p052436/3192546_0050
+Saved output/records/p05/p052436/3192546_0027
+Processing p05/p052436/3192546_0053
+Saved output/records/p05/p052370/3588742_0005
+Processing p05/p052436/3192546_0056
+Saved output/records/p05/p052436/3192546_0053
+Processing p05/p052436/3192546_0062
+Saved output/records/p05/p052436/3192546_0062
+Processing p05/p052436/3192546_0065
+Saved output/records/p05/p052436/3192546_0050
+Processing p05/p052436/3192546_0068
+Saved output/records/p05/p052436/3192546_0041
+Processing p05/p052436/3192546_0071
+Saved output/records/p05/p052436/3192546_0044
+Processing p05/p052436/3192546_0074
+Saved output/records/p05/p052436/3192546_0074
+Processing p05/p052436/3192546_0077
+Saved output/records/p05/p052436/3192546_0077
+Processing p05/p052436/3192546_0080
+Saved output/records/p05/p052436/3192546_0068
+Processing p05/p052436/3192546_0083
+Saved output/records/p05/p052436/3192546_0065
+Processing p05/p052436/3192546_0086
+Saved output/records/p05/p052436/3192546_0083
+Processing p05/p052436/3192546_0089
+Saved output/records/p05/p052436/3192546_0086
+Processing p05/p052436/3192546_0092
+Saved output/records/p05/p052436/3192546_0080
+Processing p05/p052436/3192546_0098
+Saved output/records/p05/p052436/3192546_0071
+Processing p05/p052436/3348072_0011
+Saved output/records/p05/p052436/3192546_0092
+Processing p05/p052436/3348072_0014
+Saved output/records/p05/p052436/3348072_0011
+Processing p05/p052436/3348072_0016
+Saved output/records/p05/p052436/3192546_0047
+Processing p05/p052436/3348072_0024
+Saved output/records/p05/p052436/3348072_0016
+Processing p05/p052436/3348072_0025
+Too many flat parts for p05/p052436/3348072_0014 ...
+Processing p05/p052436/3348072_0031
+Saved output/records/p05/p052436/3348072_0024
+Processing p05/p052436/3348072_0034
+Saved output/records/p05/p052436/3192546_0056
+Processing p05/p052436/3348072_0037
+Saved output/records/p05/p052436/3348072_0025
+Processing p05/p052436/3348072_0040
+Saved output/records/p05/p052436/3192546_0098
+Processing p05/p052436/3348072_0043
+Saved output/records/p05/p052436/3348072_0034
+Processing p05/p052436/3348072_0046
+Saved output/records/p05/p052436/3348072_0031
+Processing p05/p052436/3348072_0049
+Saved output/records/p05/p052436/3348072_0046
+Processing p05/p052436/3348072_0052
+Saved output/records/p05/p052436/3192546_0089
+Processing p05/p052436/3348072_0055
+Saved output/records/p05/p052436/3348072_0037
+Processing p05/p052436/3348072_0061
+Saved output/records/p05/p052436/3348072_0055
+Processing p05/p052436/3348072_0067
+Saved output/records/p05/p052436/3348072_0040
+Processing p05/p052436/3348072_0070
+Saved output/records/p05/p052436/3348072_0061
+Processing p05/p052436/3348072_0075
+Saved output/records/p05/p052436/3348072_0067
+Processing p05/p052436/3348072_0078
+Saved output/records/p05/p052436/3348072_0043
+Processing p05/p052436/3348072_0081
+Saved output/records/p05/p052436/3348072_0070
+Processing p05/p052436/3348072_0090
+Saved output/records/p05/p052370/3844033_0037
+Processing p05/p052436/3348072_0093
+Saved output/records/p05/p052436/3348072_0049
+Processing p05/p052436/3348072_0097
+Saved output/records/p05/p052436/3348072_0075
+Processing p05/p052436/3348072_0103
+Too many flat parts for p05/p052436/3348072_0093 ...
+Processing p05/p052436/3348072_0106
+Saved output/records/p05/p052436/3348072_0090
+Processing p05/p052441/3227428_0007
+Too many flat parts for p05/p052441/3227428_0007 ...
+Processing p05/p052441/3227428_0009
+Saved output/records/p05/p052436/3348072_0081
+Processing p05/p052441/3227428_0013
+Saved output/records/p05/p052436/3348072_0097
+Processing p05/p052441/3227428_0014
+Saved output/records/p05/p052436/3348072_0052
+Processing p05/p052441/3227428_0016
+Saved output/records/p05/p052436/3348072_0078
+Processing p05/p052441/3227428_0020
+Saved output/records/p05/p052436/3348072_0103
+Processing p05/p052441/3227428_0023
+Too many flat parts for p05/p052441/3227428_0016 ...
+Processing p05/p052441/3227428_0025
+Too many flat parts for p05/p052441/3227428_0013 ...
+Processing p05/p052441/3227428_0029
+Too many flat parts for p05/p052441/3227428_0020 ...
+Processing p05/p052441/3227428_0030
+Too many flat parts for p05/p052441/3227428_0029 ...
+Processing p05/p052441/3227428_0033
+Too many flat parts for p05/p052441/3227428_0009 ...
+Processing p05/p052441/3227428_0035
+Saved output/records/p05/p052436/3348072_0106
+Processing p05/p052441/3227428_0036
+Saved output/records/p05/p052370/3844033_0017
+Processing p05/p052453/3446168_0004
+Too many flat parts for p05/p052441/3227428_0023 ...
+Processing p05/p052453/3446168_0006
+Too many flat parts for p05/p052441/3227428_0025 ...
+Processing p05/p052453/3446168_0009
+Saved output/records/p05/p052370/3844033_0034
+Processing p05/p052453/3707558_0003
+Too many flat parts for p05/p052441/3227428_0030 ...
+Processing p05/p052453/3707558_0005
+Too many flat parts for p05/p052453/3707558_0003 ...
+Processing p05/p052453/3707558_0007
+Too many flat parts for p05/p052453/3707558_0007 ...
+Processing p05/p052453/3707558_0009
+Too many flat parts for p05/p052453/3707558_0005 ...
+Processing p05/p052453/3707558_0011
+Too many flat parts for p05/p052441/3227428_0033 ...
+Processing p05/p052453/3707558_0013
+Too many flat parts for p05/p052441/3227428_0036 ...
+Processing p05/p052453/3707558_0015
+Too many flat parts for p05/p052453/3707558_0013 ...
+Processing p05/p052453/3707558_0019
+Saved output/records/p05/p052370/3844033_0011
+Processing p05/p052453/3746866_0048
+Too many flat parts for p05/p052453/3707558_0011 ...
+Processing p05/p052453/3746866_0051
+Too many flat parts for p05/p052453/3707558_0019 ...
+Processing p05/p052453/3746866_0053
+Too many NaNs for p05/p052453/3746866_0048 ...
+Processing p05/p052453/3746866_0055
+Too many flat parts for p05/p052453/3746866_0055 ...
+Processing p05/p052453/3746866_0056
+Too many flat parts for p05/p052453/3746866_0051 ...
+Processing p05/p052453/3746866_0058
+Too many flat parts for p05/p052453/3446168_0004 ...
+Processing p05/p052453/3746866_0059
+Too many flat parts for p05/p052453/3746866_0059 ...
+Processing p05/p052453/3746866_0061
+Too many flat parts for p05/p052441/3227428_0014 ...
+Processing p05/p052453/3746866_0063
+Too many flat parts for p05/p052453/3746866_0061 ...
+Processing p05/p052453/3746866_0067
+Too many flat parts for p05/p052453/3746866_0058 ...
+Processing p05/p052453/3746866_0069
+Too many flat parts for p05/p052441/3227428_0035 ...
+Processing p05/p052453/3746866_0071
+Too many flat parts for p05/p052453/3446168_0009 ...
+Processing p05/p052453/3746866_0072
+Too many flat parts for p05/p052453/3746866_0063 ...
+Processing p05/p052453/3746866_0073
+Too many flat parts for p05/p052453/3746866_0056 ...
+Processing p05/p052453/3746866_0075
+Too many flat parts for p05/p052453/3707558_0009 ...
+Processing p05/p052453/3746866_0076
+Too many flat parts for p05/p052453/3746866_0053 ...
+Processing p05/p052453/3746866_0078
+Too many flat parts for p05/p052453/3746866_0073 ...
+Processing p05/p052453/3746866_0080
+Too many flat parts for p05/p052453/3746866_0067 ...
+Processing p05/p052453/3746866_0082
+Too many flat parts for p05/p052453/3746866_0075 ...
+Processing p05/p052453/3746866_0085
+Too many flat parts for p05/p052453/3746866_0080 ...
+Processing p05/p052453/3746866_0086
+Too many flat parts for p05/p052453/3746866_0086 ...
+Processing p05/p052453/3746866_0087
+Too many flat parts for p05/p052453/3746866_0071 ...
+Processing p05/p052453/3746866_0092
+Too many NaNs for p05/p052453/3746866_0087 ...
+Processing p05/p052453/3746866_0093
+Too many flat parts for p05/p052453/3746866_0069 ...
+Processing p05/p052453/3746866_0095
+Too many flat parts for p05/p052453/3746866_0095 ...
+Processing p05/p052453/3746866_0096
+Too many flat parts for p05/p052453/3746866_0082 ...
+Processing p05/p052453/3746866_0098
+Too many flat parts for p05/p052453/3746866_0098 ...
+Processing p05/p052453/3746866_0100
+Too many flat parts for p05/p052453/3746866_0078 ...
+Processing p05/p052453/3746866_0102
+Too many flat parts for p05/p052453/3746866_0102 ...
+Processing p05/p052453/3746866_0103
+Too many flat parts for p05/p052453/3746866_0076 ...
+Processing p05/p052453/3782854_0001
+Too many flat parts for p05/p052453/3746866_0093 ...
+Processing p05/p052453/3782854_0003
+Too many NaNs for p05/p052453/3746866_0085 ...
+Processing p05/p052462/3226384_0003
+Too many flat parts for p05/p052453/3746866_0103 ...
+Processing p05/p052462/3226384_0005
+Too many flat parts for p05/p052453/3746866_0096 ...
+Processing p05/p052462/3226384_0007
+Too many flat parts for p05/p052453/3746866_0072 ...
+Processing p05/p052462/3226384_0009
+Too many flat parts for p05/p052462/3226384_0005 ...
+Processing p05/p052462/3226384_0010
+Too many flat parts for p05/p052453/3782854_0003 ...
+Processing p05/p052462/3226384_0012
+Too many flat parts for p05/p052462/3226384_0010 ...
+Processing p05/p052503/3155052_0006
+Too many flat parts for p05/p052453/3707558_0015 ...
+Processing p05/p052503/3155052_0008
+Saved output/records/p05/p052503/3155052_0008
+Processing p05/p052503/3155052_0010
+Too many flat parts for p05/p052462/3226384_0007 ...
+Processing p05/p052503/3155052_0014
+Too many flat parts for p05/p052462/3226384_0012 ...
+Processing p05/p052503/3155052_0016
+Too many flat parts for p05/p052462/3226384_0009 ...
+Processing p05/p052503/3155052_0019
+Too many flat parts for p05/p052462/3226384_0003 ...
+Processing p05/p052503/3155052_0021
+Saved output/records/p05/p052503/3155052_0014
+Processing p05/p052503/3155052_0024
+Too many flat parts for p05/p052453/3746866_0100 ...
+Processing p05/p052503/3155052_0028
+Too many flat parts for p05/p052453/3782854_0001 ...
+Processing p05/p052503/3155052_0032
+Too many NaNs for p05/p052453/3746866_0092 ...
+Processing p05/p052503/3155052_0034
+Saved output/records/p05/p052503/3155052_0028
+Processing p05/p052503/3155052_0037
+Saved output/records/p05/p052503/3155052_0032
+Processing p05/p052529/3329332_0002
+Too many flat parts for p05/p052529/3329332_0002 ...
+Processing p05/p052529/3329332_0005
+Too many flat parts for p05/p052453/3446168_0006 ...
+Processing p05/p052529/3329332_0007
+Too many flat parts for p05/p052529/3329332_0007 ...
+Processing p05/p052529/3329332_0010
+Too many flat parts for p05/p052529/3329332_0010 ...
+Processing p05/p052529/3329332_0016
+Too many flat parts for p05/p052529/3329332_0016 ...
+Processing p05/p052529/3329332_0018
+Too many flat parts for p05/p052529/3329332_0018 ...
+Processing p05/p052529/3329332_0019
+Too many flat parts for p05/p052529/3329332_0019 ...
+Processing p05/p052529/3434253_0001
+Too many flat parts for p05/p052529/3434253_0001 ...
+Processing p05/p052529/3434253_0003
+Too many flat parts for p05/p052529/3434253_0003 ...
+Processing p05/p052529/3434253_0008
+Too many flat parts for p05/p052529/3434253_0008 ...
+Processing p05/p052529/3434253_0010
+Saved output/records/p05/p052503/3155052_0010
+Processing p05/p052529/3434253_0012
+Too many flat parts for p05/p052529/3434253_0012 ...
+Processing p05/p052529/3434253_0014
+Saved output/records/p05/p052503/3155052_0037
+Processing p05/p052529/3434253_0019
+Too many flat parts for p05/p052529/3434253_0014 ...
+Processing p05/p052529/3434253_0021
+Too many flat parts for p05/p052529/3329332_0005 ...
+Processing p05/p052529/3434253_0027
+Saved output/records/p05/p052503/3155052_0006
+Processing p05/p052529/3434253_0029
+Too many flat parts for p05/p052529/3434253_0019 ...
+Processing p05/p052529/3434253_0031
+Too many flat parts for p05/p052529/3434253_0031 ...
+Processing p05/p052529/3434253_0033
+Too many flat parts for p05/p052529/3434253_0029 ...
+Processing p05/p052529/3434253_0035
+Too many NaNs for p05/p052529/3434253_0035 ...
+Processing p05/p052529/3434253_0036
+Too many flat parts for p05/p052529/3434253_0027 ...
+Processing p05/p052529/3434253_0041
+Too many flat parts for p05/p052529/3434253_0010 ...
+Processing p05/p052529/3434253_0042
+Too many flat parts for p05/p052529/3434253_0033 ...
+Processing p05/p052529/3863129_0002
+Too many flat parts for p05/p052529/3434253_0041 ...
+Processing p05/p052529/3863129_0003
+Too many flat parts for p05/p052529/3434253_0042 ...
+Processing p05/p052529/3863129_0004
+Saved output/records/p05/p052503/3155052_0016
+Processing p05/p052529/3863129_0007
+Too many flat parts for p05/p052529/3863129_0002 ...
+Processing p05/p052529/3863129_0008
+Saved output/records/p05/p052370/3980303_0002
+Processing p05/p052529/3863129_0012
+Saved output/records/p05/p052503/3155052_0034
+Processing p05/p052529/3863129_0013
+Saved output/records/p05/p052529/3863129_0003
+Processing p05/p052529/3863129_0014
+Saved output/records/p05/p052529/3863129_0007
+Processing p05/p052529/3863129_0017
+Too many flat parts for p05/p052529/3434253_0036 ...
+Processing p05/p052529/3863129_0018
+Too many flat parts for p05/p052529/3434253_0021 ...
+Processing p05/p052529/3863129_0020
+Saved output/records/p05/p052529/3863129_0012
+Processing p05/p052529/3863129_0022
+Saved output/records/p05/p052503/3155052_0024
+Processing p05/p052529/3863129_0023
+Saved output/records/p05/p052529/3863129_0023
+Processing p05/p052529/3863129_0025
+Saved output/records/p05/p052529/3863129_0025
+Processing p05/p052529/3863129_0026
+Saved output/records/p05/p052370/3588742_0015
+Processing p05/p052529/3863129_0027
+Saved output/records/p05/p052529/3863129_0013
+Processing p05/p052529/3863129_0028
+Saved output/records/p05/p052529/3863129_0004
+Processing p05/p052529/3874148_0009
+Saved output/records/p05/p052529/3863129_0026
+Processing p05/p052529/3874148_0012
+Too many flat parts for p05/p052529/3863129_0028 ...
+Processing p05/p052529/3874148_0013
+Saved output/records/p05/p052529/3863129_0014
+Processing p05/p052529/3874148_0014
+Saved output/records/p05/p052529/3874148_0009
+Processing p05/p052529/3874148_0016
+Saved output/records/p05/p052529/3863129_0008
+Processing p05/p052529/3874148_0017
+Too many flat parts for p05/p052529/3874148_0012 ...
+Processing p05/p052529/3887447_0006
+Saved output/records/p05/p052529/3863129_0020
+Processing p05/p052529/3887447_0008
+Too many flat parts for p05/p052529/3887447_0006 ...
+Processing p05/p052529/3887447_0010
+Too many flat parts for p05/p052529/3887447_0008 ...
+Processing p05/p052529/3887447_0014
+Saved output/records/p05/p052529/3863129_0017
+Processing p05/p052529/3887447_0016
+Saved output/records/p05/p052529/3874148_0014
+Processing p05/p052529/3887447_0018
+Too many flat parts for p05/p052529/3887447_0014 ...
+Processing p05/p052529/3887447_0022
+Too many flat parts for p05/p052529/3887447_0010 ...
+Processing p05/p052529/3887447_0024
+Too many flat parts for p05/p052529/3887447_0022 ...
+Processing p05/p052529/3887447_0026
+Saved output/records/p05/p052503/3155052_0019
+Processing p05/p052529/3920444_0005
+Too many flat parts for p05/p052529/3887447_0016 ...
+Processing p05/p052529/3920444_0009
+Saved output/records/p05/p052529/3874148_0017
+Processing p05/p052529/3942327_0007
+Too many flat parts for p05/p052529/3942327_0007 ...
+Processing p05/p052529/3942327_0011
+Too many flat parts for p05/p052529/3920444_0009 ...
+Processing p05/p052529/3942327_0012
+Saved output/records/p05/p052503/3155052_0021
+Processing p05/p052529/3942327_0014
+Too many flat parts for p05/p052529/3887447_0024 ...
+Processing p05/p052529/3942327_0015
+Saved output/records/p05/p052529/3863129_0018
+Processing p05/p052529/3942327_0021
+Saved output/records/p05/p052529/3942327_0014
+Processing p05/p052529/3942327_0023
+Too many flat parts for p05/p052529/3887447_0018 ...
+Processing p05/p052529/3942327_0025
+Saved output/records/p05/p052529/3942327_0012
+Processing p05/p052529/3942327_0028
+Saved output/records/p05/p052529/3942327_0011
+Processing p05/p052532/3646950_0017
+Saved output/records/p05/p052529/3874148_0013
+Processing p05/p052532/3646950_0018
+Too many flat parts for p05/p052532/3646950_0018 ...
+Processing p05/p052532/3646950_0020
+Too many flat parts for p05/p052532/3646950_0017 ...
+Processing p05/p052532/3646950_0021
+Too many flat parts for p05/p052529/3887447_0026 ...
+Processing p05/p052532/3646950_0024
+Saved output/records/p05/p052532/3646950_0020
+Processing p05/p052532/3646950_0027
+Too many flat parts for p05/p052529/3920444_0005 ...
+Processing p05/p052532/3646950_0028
+Saved output/records/p05/p052529/3942327_0015
+Processing p05/p052532/3646950_0031
+Saved output/records/p05/p052529/3942327_0028
+Processing p05/p052532/3646950_0034
+Too many flat parts for p05/p052529/3942327_0025 ...
+Processing p05/p052532/3646950_0037
+Saved output/records/p05/p052529/3863129_0027
+Processing p05/p052532/3646950_0040
+Saved output/records/p05/p052532/3646950_0027
+Processing p05/p052532/3646950_0043
+Saved output/records/p05/p052532/3646950_0031
+Processing p05/p052532/3646950_0044
+Saved output/records/p05/p052532/3646950_0040
+Processing p05/p052532/3646950_0047
+Saved output/records/p05/p052532/3646950_0034
+Processing p05/p052532/3646950_0050
+Saved output/records/p05/p052532/3646950_0043
+Processing p05/p052532/3646950_0053
+Saved output/records/p05/p052532/3646950_0044
+Processing p05/p052532/3646950_0055
+Saved output/records/p05/p052532/3646950_0024
+Processing p05/p052532/3646950_0058
+Saved output/records/p05/p052532/3646950_0047
+Processing p05/p052532/3646950_0061
+Saved output/records/p05/p052532/3646950_0021
+Processing p05/p052532/3646950_0064
+Saved output/records/p05/p052532/3646950_0028
+Processing p05/p052532/3646950_0066
+Saved output/records/p05/p052529/3874148_0016
+Processing p05/p052532/3646950_0069
+Saved output/records/p05/p052529/3863129_0022
+Processing p05/p052532/3903282_0002
+Saved output/records/p05/p052532/3646950_0050
+Processing p05/p052532/3903282_0005
+Saved output/records/p05/p052532/3646950_0069
+Processing p05/p052532/3903282_0008
+Saved output/records/p05/p052529/3942327_0023
+Processing p05/p052532/3903282_0011
+Saved output/records/p05/p052532/3903282_0011
+Processing p05/p052532/3903282_0014
+Saved output/records/p05/p052532/3646950_0053
+Processing p05/p052532/3903282_0017
+Saved output/records/p05/p052532/3903282_0014
+Processing p05/p052532/3903282_0020
+Saved output/records/p05/p052532/3646950_0055
+Processing p05/p052532/3903282_0023
+Saved output/records/p05/p052532/3903282_0017
+Processing p05/p052532/3903282_0026
+Saved output/records/p05/p052532/3646950_0058
+Processing p05/p052532/3903282_0029
+Saved output/records/p05/p052532/3903282_0008
+Processing p05/p052532/3903282_0032
+Saved output/records/p05/p052532/3903282_0026
+Processing p05/p052532/3903282_0035
+Saved output/records/p05/p052532/3646950_0066
+Processing p05/p052547/3945088_0007
+Saved output/records/p05/p052532/3903282_0002
+Processing p05/p052550/3456182_0001
+Saved output/records/p05/p052532/3903282_0029
+Processing p05/p052550/3456182_0003
+Saved output/records/p05/p052532/3903282_0032
+Processing p05/p052550/3456182_0004
+Saved output/records/p05/p052532/3646950_0064
+Processing p05/p052556/3365871_0006
+Saved output/records/p05/p052547/3945088_0007
+Processing p05/p052556/3365871_0008
+Saved output/records/p05/p052532/3646950_0037
+Processing p05/p052556/3365871_0010
+Saved output/records/p05/p052532/3903282_0023
+Processing p05/p052556/3365871_0013
+Saved output/records/p05/p052532/3903282_0035
+Processing p05/p052556/3365871_0016
+Too many flat parts for p05/p052556/3365871_0013 ...
+Processing p05/p052556/3504903_0004
+Too many flat parts for p05/p052556/3365871_0016 ...
+Processing p05/p052556/3504903_0007
+Saved output/records/p05/p052529/3942327_0021
+Processing p05/p052556/3504903_0008
+Saved output/records/p05/p052556/3365871_0006
+Processing p05/p052556/3504903_0010
+Saved output/records/p05/p052556/3504903_0010
+Processing p05/p052556/3504903_0011
+Saved output/records/p05/p052556/3504903_0007
+Processing p05/p052556/3504903_0017
+Too many flat parts for p05/p052550/3456182_0004 ...
+Processing p05/p052556/3504903_0021
+Saved output/records/p05/p052556/3504903_0011
+Processing p05/p052556/3504903_0024
+Saved output/records/p05/p052532/3646950_0061
+Processing p05/p052556/3504903_0025
+Saved output/records/p05/p052556/3504903_0008
+Processing p05/p052556/3504903_0027
+Too many flat parts for p05/p052556/3504903_0017 ...
+Processing p05/p052556/3504903_0034
+Saved output/records/p05/p052550/3456182_0003
+Processing p05/p052556/3504903_0035
+Saved output/records/p05/p052532/3903282_0005
+Processing p05/p052556/3504903_0038
+Saved output/records/p05/p052556/3504903_0034
+Processing p05/p052556/3504903_0040
+Saved output/records/p05/p052556/3504903_0024
+Processing p05/p052556/3504903_0043
+Saved output/records/p05/p052556/3504903_0035
+Processing p05/p052556/3504903_0046
+Too many flat parts for p05/p052556/3504903_0038 ...
+Processing p05/p052556/3504903_0047
+Saved output/records/p05/p052532/3903282_0020
+Processing p05/p052556/3504903_0048
+Too many flat parts for p05/p052556/3504903_0040 ...
+Processing p05/p052556/3504903_0051
+Too many flat parts for p05/p052556/3504903_0051 ...
+Processing p05/p052556/3504903_0052
+Too many flat parts for p05/p052556/3365871_0010 ...
+Processing p05/p052556/3504903_0054
+Too many flat parts for p05/p052556/3504903_0046 ...
+Processing p05/p052556/3504903_0056
+Saved output/records/p05/p052556/3504903_0004
+Processing p05/p052556/3504903_0059
+Too many flat parts for p05/p052556/3504903_0047 ...
+Processing p05/p052556/3624448_0001
+Saved output/records/p05/p052556/3504903_0059
+Processing p05/p052556/3624448_0007
+Too many flat parts for p05/p052556/3504903_0043 ...
+Processing p05/p052556/3624448_0010
+Saved output/records/p05/p052556/3504903_0021
+Processing p05/p052556/3624448_0013
+Saved output/records/p05/p052556/3365871_0008
+Processing p05/p052556/3624448_0015
+Saved output/records/p05/p052556/3624448_0013
+Processing p05/p052556/3624448_0018
+Saved output/records/p05/p052556/3624448_0001
+Processing p05/p052556/3624448_0021
+Saved output/records/p05/p052556/3504903_0027
+Processing p05/p052556/3624448_0025
+Saved output/records/p05/p052556/3624448_0021
+Processing p05/p052556/3624448_0031
+Saved output/records/p05/p052556/3624448_0018
+Processing p05/p052556/3624448_0032
+Saved output/records/p05/p052556/3624448_0031
+Processing p05/p052556/3624448_0034
+Saved output/records/p05/p052556/3624448_0007
+Processing p05/p052556/3624448_0035
+Too many flat parts for p05/p052556/3504903_0052 ...
+Processing p05/p052556/3624448_0037
+Saved output/records/p05/p052556/3624448_0025
+Processing p05/p052556/3624448_0040
+Saved output/records/p05/p052556/3624448_0037
+Processing p05/p052556/3624448_0041
+Too many flat parts for p05/p052556/3624448_0040 ...
+Processing p05/p052556/3624448_0043
+Saved output/records/p05/p052556/3624448_0034
+Processing p05/p052556/3624448_0046
+Too many flat parts for p05/p052556/3624448_0041 ...
+Processing p05/p052556/3624448_0048
+Saved output/records/p05/p052556/3504903_0054
+Processing p05/p052556/3624448_0056
+Saved output/records/p05/p052556/3624448_0048
+Processing p05/p052556/3624448_0059
+Saved output/records/p05/p052556/3624448_0059
+Processing p05/p052556/3624448_0079
+Saved output/records/p05/p052556/3624448_0056
+Processing p05/p052556/3624448_0081
+Saved output/records/p05/p052556/3624448_0035
+Processing p05/p052556/3624448_0084
+Saved output/records/p05/p052556/3624448_0032
+Processing p05/p052556/3624448_0090
+Saved output/records/p05/p052556/3624448_0043
+Processing p05/p052556/3624448_0093
+Saved output/records/p05/p052556/3624448_0046
+Processing p05/p052556/3624448_0099
+Saved output/records/p05/p052556/3504903_0056
+Processing p05/p052556/3624448_0101
+Saved output/records/p05/p052556/3624448_0081
+Processing p05/p052556/3624448_0103
+Saved output/records/p05/p052556/3624448_0015
+Processing p05/p052556/3641439_0006
+Too many flat parts for p05/p052556/3504903_0048 ...
+Processing p05/p052556/3641439_0009
+Saved output/records/p05/p052556/3504903_0025
+Processing p05/p052556/3641439_0012
+Saved output/records/p05/p052556/3624448_0090
+Processing p05/p052556/3641439_0018
+Saved output/records/p05/p052550/3456182_0001
+Processing p05/p052556/3641439_0021
+Saved output/records/p05/p052556/3641439_0009
+Processing p05/p052593/3851075_0005
+Saved output/records/p05/p052593/3851075_0005
+Processing p05/p052593/3851075_0008
+Saved output/records/p05/p052556/3624448_0101
+Processing p05/p052593/3851075_0014
+Saved output/records/p05/p052593/3851075_0014
+Processing p05/p052593/3851075_0017
+Saved output/records/p05/p052593/3851075_0008
+Processing p05/p052593/3851075_0020
+Saved output/records/p05/p052593/3851075_0020
+Processing p05/p052593/3851075_0023
+Saved output/records/p05/p052593/3851075_0017
+Processing p05/p052593/3851075_0026
+Too many flat parts for p05/p052593/3851075_0026 ...
+Processing p05/p052593/3851075_0034
+Saved output/records/p05/p052556/3641439_0006
+Processing p05/p052593/3851075_0037
+Saved output/records/p05/p052593/3851075_0034
+Processing p05/p052593/3851075_0040
+Saved output/records/p05/p052593/3851075_0023
+Processing p05/p052593/3851075_0049
+Saved output/records/p05/p052593/3851075_0037
+Processing p05/p052593/3851075_0061
+Saved output/records/p05/p052593/3851075_0061
+Processing p05/p052593/3851075_0073
+Saved output/records/p05/p052593/3851075_0049
+Processing p05/p052593/3851075_0076
+Saved output/records/p05/p052593/3851075_0040
+Processing p05/p052593/3851075_0079
+Too many flat parts for p05/p052593/3851075_0073 ...
+Processing p05/p052593/3851075_0084
+Saved output/records/p05/p052593/3851075_0076
+Processing p05/p052593/3851075_0090
+Saved output/records/p05/p052593/3851075_0084
+Processing p05/p052593/3851075_0105
+Saved output/records/p05/p052593/3851075_0090
+Processing p05/p052593/3851075_0111
+Too many flat parts for p05/p052593/3851075_0079 ...
+Processing p05/p052593/3851075_0114
+Too many flat parts for p05/p052593/3851075_0105 ...
+Processing p05/p052593/3851075_0120
+Saved output/records/p05/p052556/3624448_0093
+Processing p05/p052593/3851075_0123
+Saved output/records/p05/p052593/3851075_0114
+Processing p05/p052593/3851075_0126
+Too many flat parts for p05/p052593/3851075_0111 ...
+Processing p05/p052593/3851075_0138
+Too many flat parts for p05/p052593/3851075_0126 ...
+Processing p05/p052593/3851075_0141
+Saved output/records/p05/p052593/3851075_0123
+Processing p05/p052593/3851075_0150
+Saved output/records/p05/p052593/3851075_0138
+Processing p05/p052593/3851075_0159
+Saved output/records/p05/p052593/3851075_0120
+Processing p05/p052593/3851075_0171
+Too many flat parts for p05/p052556/3641439_0012 ...
+Processing p05/p052593/3851075_0183
+Saved output/records/p05/p052593/3851075_0150
+Processing p05/p052593/3851075_0186
+Saved output/records/p05/p052593/3851075_0171
+Processing p05/p052593/3851075_0192
+Saved output/records/p05/p052593/3851075_0159
+Processing p05/p052593/3851075_0201
+Saved output/records/p05/p052556/3624448_0084
+Processing p05/p052593/3851075_0207
+Saved output/records/p05/p052593/3851075_0192
+Processing p05/p052593/3851075_0216
+Saved output/records/p05/p052593/3851075_0183
+Processing p05/p052593/3851075_0222
+Saved output/records/p05/p052593/3851075_0141
+Processing p05/p052593/3851075_0228
+Saved output/records/p05/p052593/3851075_0186
+Processing p05/p052593/3851075_0231
+Saved output/records/p05/p052593/3851075_0216
+Processing p05/p052593/3851075_0240
+Saved output/records/p05/p052593/3851075_0201
+Processing p05/p052593/3851075_0246
+Saved output/records/p05/p052593/3851075_0207
+Processing p05/p052593/3851075_0255
+Saved output/records/p05/p052593/3851075_0228
+Processing p05/p052593/3851075_0261
+Saved output/records/p05/p052593/3851075_0222
+Processing p05/p052593/3851075_0267
+Saved output/records/p05/p052593/3851075_0231
+Processing p05/p052593/3851075_0275
+Saved output/records/p05/p052593/3851075_0240
+Processing p05/p052593/3851075_0281
+Saved output/records/p05/p052593/3851075_0246
+Processing p05/p052593/3851075_0287
+Saved output/records/p05/p052593/3851075_0267
+Processing p05/p052593/3851075_0290
+Saved output/records/p05/p052593/3851075_0275
+Processing p05/p052593/3851075_0301
+Saved output/records/p05/p052593/3851075_0261
+Processing p05/p052593/3851075_0309
+Too many flat parts for p05/p052593/3851075_0287 ...
+Processing p05/p052593/3851075_0318
+Too many flat parts for p05/p052593/3851075_0309 ...
+Processing p05/p052593/3851075_0321
+Too many flat parts for p05/p052593/3851075_0290 ...
+Processing p05/p052593/3851075_0324
+Saved output/records/p05/p052556/3624448_0010
+Processing p05/p052593/3851075_0327
+Too many flat parts for p05/p052593/3851075_0301 ...
+Processing p05/p052593/3851075_0330
+Too many flat parts for p05/p052593/3851075_0318 ...
+Processing p05/p052593/3851075_0333
+Too many flat parts for p05/p052593/3851075_0281 ...
+Processing p05/p052593/3851075_0336
+Too many flat parts for p05/p052593/3851075_0255 ...
+Processing p05/p052593/3851075_0348
+Too many flat parts for p05/p052593/3851075_0330 ...
+Processing p05/p052593/3851075_0351
+Too many flat parts for p05/p052593/3851075_0324 ...
+Processing p05/p052593/3851075_0357
+Too many flat parts for p05/p052593/3851075_0327 ...
+Processing p05/p052593/3851075_0363
+Saved output/records/p05/p052556/3624448_0103
+Processing p05/p052593/3851075_0366
+Too many flat parts for p05/p052593/3851075_0333 ...
+Processing p05/p052593/3851075_0369
+Too many flat parts for p05/p052593/3851075_0357 ...
+Processing p05/p052593/3851075_0372
+Too many flat parts for p05/p052593/3851075_0336 ...
+Processing p05/p052593/3851075_0375
+Too many flat parts for p05/p052593/3851075_0348 ...
+Processing p05/p052593/3851075_0381
+Too many flat parts for p05/p052593/3851075_0363 ...
+Processing p05/p052593/3851075_0402
+Saved output/records/p05/p052556/3624448_0079
+Processing p05/p052593/3851075_0405
+Too many flat parts for p05/p052593/3851075_0372 ...
+Processing p05/p052593/3851075_0407
+Too many flat parts for p05/p052593/3851075_0375 ...
+Processing p05/p052593/3851075_0410
+Too many flat parts for p05/p052593/3851075_0351 ...
+Processing p05/p052593/3851075_0413
+Too many flat parts for p05/p052593/3851075_0321 ...
+Processing p05/p052593/3851075_0419
+Too many flat parts for p05/p052593/3851075_0369 ...
+Processing p05/p052593/3851075_0434
+Too many flat parts for p05/p052593/3851075_0366 ...
+Processing p05/p052593/3851075_0440
+Too many flat parts for p05/p052593/3851075_0407 ...
+Processing p05/p052593/3851075_0443
+Saved output/records/p05/p052593/3851075_0419
+Processing p05/p052593/3851075_0449
+Too many flat parts for p05/p052593/3851075_0381 ...
+Processing p05/p052593/3851075_0452
+Too many flat parts for p05/p052593/3851075_0434 ...
+Processing p05/p052593/3851075_0458
+Saved output/records/p05/p052593/3851075_0413
+Processing p05/p052593/3851075_0461
+Saved output/records/p05/p052593/3851075_0410
+Processing p05/p052593/3851075_0467
+Saved output/records/p05/p052593/3851075_0443
+Processing p05/p052593/3851075_0473
+Too many flat parts for p05/p052593/3851075_0405 ...
+Processing p05/p052593/3851075_0476
+Saved output/records/p05/p052593/3851075_0461
+Processing p05/p052593/3851075_0479
+Saved output/records/p05/p052593/3851075_0452
+Processing p05/p052593/3851075_0485
+Too many flat parts for p05/p052593/3851075_0402 ...
+Processing p05/p052593/3851075_0497
+Saved output/records/p05/p052556/3624448_0099
+Processing p05/p052593/3851075_0500
+Saved output/records/p05/p052593/3851075_0458
+Processing p05/p052593/3851075_0509
+Saved output/records/p05/p052593/3851075_0473
+Processing p05/p052593/3851075_0512
+Saved output/records/p05/p052593/3851075_0449
+Processing p05/p052593/3851075_0518
+Saved output/records/p05/p052593/3851075_0476
+Processing p05/p052593/3851075_0524
+Saved output/records/p05/p052593/3851075_0479
+Processing p05/p052593/3851075_0530
+Saved output/records/p05/p052593/3851075_0440
+Processing p05/p052593/3851075_0536
+Saved output/records/p05/p052593/3851075_0512
+Processing p05/p052593/3851075_0551
+Saved output/records/p05/p052593/3851075_0509
+Processing p05/p052593/3851075_0554
+Too many flat parts for p05/p052593/3851075_0500 ...
+Processing p05/p052593/3851075_0557
+Saved output/records/p05/p052593/3851075_0524
+Processing p05/p052593/3851075_0560
+Saved output/records/p05/p052593/3851075_0518
+Processing p05/p052593/3851075_0563
+Saved output/records/p05/p052593/3851075_0485
+Processing p05/p052593/3851075_0569
+Saved output/records/p05/p052593/3851075_0467
+Processing p05/p052593/3851075_0572
+Saved output/records/p05/p052593/3851075_0530
+Processing p05/p052593/3851075_0578
+Saved output/records/p05/p052593/3851075_0551
+Processing p05/p052593/3851075_0584
+Saved output/records/p05/p052593/3851075_0536
+Processing p05/p052593/3851075_0593
+Saved output/records/p05/p052593/3851075_0554
+Processing p05/p052593/3851075_0602
+Saved output/records/p05/p052593/3851075_0557
+Processing p05/p052593/3851075_0605
+Saved output/records/p05/p052593/3851075_0560
+Processing p05/p052593/3851075_0608
+Saved output/records/p05/p052593/3851075_0584
+Processing p05/p052593/3851075_0611
+Saved output/records/p05/p052593/3851075_0578
+Processing p05/p052593/3851075_0636
+Saved output/records/p05/p052593/3851075_0497
+Processing p05/p052593/3851075_0642
+Saved output/records/p05/p052593/3851075_0605
+Processing p05/p052593/3851075_0660
+Saved output/records/p05/p052593/3851075_0602
+Processing p05/p052593/3851075_0669
+Saved output/records/p05/p052593/3851075_0569
+Processing p05/p052593/3851075_0672
+Too many flat parts for p05/p052593/3851075_0636 ...
+Processing p05/p052593/3851075_0678
+Too many flat parts for p05/p052593/3851075_0642 ...
+Processing p05/p052593/3851075_0684
+Saved output/records/p05/p052593/3851075_0572
+Processing p05/p052593/3851075_0690
+Saved output/records/p05/p052593/3851075_0593
+Processing p05/p052593/3851075_0699
+Saved output/records/p05/p052593/3851075_0660
+Processing p05/p052593/3851075_0702
+Saved output/records/p05/p052593/3851075_0608
+Processing p05/p052593/3851075_0708
+Too many flat parts for p05/p052593/3851075_0669 ...
+Processing p05/p052593/3851075_0713
+Saved output/records/p05/p052593/3851075_0684
+Processing p05/p052593/3851075_0716
+Saved output/records/p05/p052593/3851075_0678
+Processing p05/p052593/3851075_0731
+Saved output/records/p05/p052593/3851075_0611
+Processing p05/p052593/3851075_0734
+Saved output/records/p05/p052593/3851075_0690
+Processing p05/p052593/3851075_0737
+Saved output/records/p05/p052593/3851075_0672
+Processing p05/p052593/3851075_0746
+Saved output/records/p05/p052593/3851075_0708
+Processing p05/p052593/3851075_0758
+Too many flat parts for p05/p052593/3851075_0716 ...
+Processing p05/p052593/3851075_0761
+Saved output/records/p05/p052593/3851075_0702
+Processing p05/p052593/3851075_0767
+Saved output/records/p05/p052593/3851075_0734
+Processing p05/p052593/3851075_0773
+Saved output/records/p05/p052593/3851075_0737
+Processing p05/p052593/3851075_0779
+Too many flat parts for p05/p052593/3851075_0758 ...
+Processing p05/p052593/3851075_0785
+Saved output/records/p05/p052556/3641439_0021
+Processing p05/p052593/3851075_0788
+Too many flat parts for p05/p052593/3851075_0746 ...
+Processing p05/p052593/3851075_0794
+Saved output/records/p05/p052593/3851075_0731
+Processing p05/p052593/3851075_0803
+Saved output/records/p05/p052593/3851075_0563
+Processing p05/p052593/3851075_0806
+Too many flat parts for p05/p052593/3851075_0713 ...
+Processing p05/p052593/3851075_0809
+Saved output/records/p05/p052593/3851075_0767
+Processing p05/p052593/3851075_0812
+Too many flat parts for p05/p052593/3851075_0761 ...
+Processing p05/p052593/3851075_0815
+Saved output/records/p05/p052593/3851075_0699
+Processing p05/p052593/3851075_0817
+Saved output/records/p05/p052593/3851075_0779
+Processing p05/p052593/3851075_0826
+Saved output/records/p05/p052593/3851075_0794
+Processing p05/p052593/3851075_0829
+Too many flat parts for p05/p052593/3851075_0817 ...
+Processing p05/p052593/3851075_0838
+Saved output/records/p05/p052593/3851075_0788
+Processing p05/p052593/3851075_0841
+Saved output/records/p05/p052593/3851075_0785
+Processing p05/p052593/3851075_0847
+Too many flat parts for p05/p052593/3851075_0812 ...
+Processing p05/p052593/3851075_0850
+Too many flat parts for p05/p052593/3851075_0829 ...
+Processing p05/p052593/3851075_0856
+Too many flat parts for p05/p052593/3851075_0803 ...
+Processing p05/p052593/3851075_0874
+Too many flat parts for p05/p052593/3851075_0815 ...
+Processing p05/p052593/3851075_0877
+Saved output/records/p05/p052593/3851075_0773
+Processing p05/p052593/3851075_0880
+Too many flat parts for p05/p052593/3851075_0809 ...
+Processing p05/p052593/3851075_0895
+Saved output/records/p05/p052593/3851075_0856
+Processing p05/p052593/3851075_0907
+Too many flat parts for p05/p052593/3851075_0850 ...
+Processing p05/p052593/3851075_0910
+Saved output/records/p05/p052593/3851075_0877
+Processing p05/p052593/3851075_0934
+Saved output/records/p05/p052593/3851075_0838
+Processing p05/p052593/3851075_0937
+Saved output/records/p05/p052593/3851075_0841
+Processing p05/p052593/3851075_0940
+Saved output/records/p05/p052593/3851075_0806
+Processing p05/p052593/3851075_0943
+Saved output/records/p05/p052556/3641439_0018
+Processing p05/p052593/3851075_0946
+Too many flat parts for p05/p052593/3851075_0910 ...
+Processing p05/p052593/3851075_0988
+Too many flat parts for p05/p052593/3851075_0934 ...
+Processing p05/p052593/3851075_0991
+Saved output/records/p05/p052593/3851075_0880
+Processing p05/p052593/3851075_1006
+Too many flat parts for p05/p052593/3851075_0907 ...
+Processing p05/p052593/3851075_1024
+Too many flat parts for p05/p052593/3851075_0937 ...
+Processing p05/p052593/3851075_1030
+Too many flat parts for p05/p052593/3851075_0940 ...
+Processing p05/p052593/3851075_1036
+Too many flat parts for p05/p052593/3851075_0943 ...
+Processing p05/p052620/3276566_0037
+Too many flat parts for p05/p052593/3851075_0826 ...
+Processing p05/p052620/3276566_0039
+Too many flat parts for p05/p052593/3851075_0895 ...
+Processing p05/p052620/3276566_0042
+Saved output/records/p05/p052593/3851075_0988
+Processing p05/p052620/3276566_0044
+Too many flat parts for p05/p052593/3851075_0946 ...
+Processing p05/p052620/3276566_0047
+Too many flat parts for p05/p052593/3851075_1030 ...
+Processing p05/p052620/3276566_0051
+Saved output/records/p05/p052593/3851075_0991
+Processing p05/p052620/3276566_0053
+Too many flat parts for p05/p052593/3851075_1036 ...
+Processing p05/p052622/3579527_0003
+Saved output/records/p05/p052593/3851075_1006
+Processing p05/p052622/3579527_0005
+Too many flat parts for p05/p052622/3579527_0003 ...
+Processing p05/p052622/3579527_0006
+Saved output/records/p05/p052593/3851075_1024
+Processing p05/p052622/3579527_0007
+Saved output/records/p05/p052593/3851075_0874
+Processing p05/p052622/3579527_0008
+Too many flat parts for p05/p052593/3851075_0847 ...
+Processing p05/p052622/3579527_0010
+Too many flat parts for p05/p052622/3579527_0010 ...
+Processing p05/p052622/3579527_0012
+Too many NaNs for p05/p052622/3579527_0006 ...
+Processing p05/p052622/3579527_0014
+Too many flat parts for p05/p052620/3276566_0037 ...
+Processing p05/p052622/3579527_0016
+Too many flat parts for p05/p052622/3579527_0005 ...
+Processing p05/p052622/3579527_0018
+Too many flat parts for p05/p052622/3579527_0016 ...
+Processing p05/p052622/3579527_0020
+Too many flat parts for p05/p052622/3579527_0012 ...
+Processing p05/p052622/3579527_0024
+Too many flat parts for p05/p052622/3579527_0020 ...
+Processing p05/p052641/3566989_0006
+Too many flat parts for p05/p052622/3579527_0024 ...
+Processing p05/p052666/3998298_0021
+Too many flat parts for p05/p052622/3579527_0007 ...
+Processing p05/p052666/3998298_0023
+Too many flat parts for p05/p052622/3579527_0008 ...
+Processing p05/p052666/3998298_0025
+Too many flat parts for p05/p052666/3998298_0021 ...
+Processing p05/p052666/3998298_0027
+Too many flat parts for p05/p052622/3579527_0018 ...
+Processing p05/p052666/3998298_0028
+Too many flat parts for p05/p052641/3566989_0006 ...
+Processing p05/p052666/3998298_0029
+Saved output/records/p05/p052666/3998298_0025
+Processing p05/p052666/3998298_0031
+Saved output/records/p05/p052620/3276566_0047
+Processing p05/p052666/3998298_0033
+Too many flat parts for p05/p052622/3579527_0014 ...
+Processing p05/p052666/3998298_0036
+Saved output/records/p05/p052666/3998298_0023
+Processing p05/p052666/3998298_0039
+Saved output/records/p05/p052666/3998298_0036
+Processing p05/p052666/3998298_0042
+Saved output/records/p05/p052666/3998298_0039
+Processing p05/p052666/3998298_0045
+Saved output/records/p05/p052620/3276566_0051
+Processing p05/p052666/3998298_0048
+Saved output/records/p05/p052620/3276566_0053
+Processing p05/p052666/3998298_0051
+Saved output/records/p05/p052620/3276566_0042
+Processing p05/p052666/3998298_0054
+Saved output/records/p05/p052666/3998298_0054
+Processing p05/p052693/3634780_0007
+Saved output/records/p05/p052666/3998298_0027
+Processing p05/p052693/3634780_0008
+Too many flat parts for p05/p052666/3998298_0045 ...
+Processing p05/p052693/3634780_0010
+Too many flat parts for p05/p052693/3634780_0007 ...
+Processing p05/p052693/3634780_0015
+Saved output/records/p05/p052620/3276566_0044
+Processing p05/p052693/3634780_0018
+Too many flat parts for p05/p052693/3634780_0010 ...
+Processing p05/p052693/3634780_0020
+Too many flat parts for p05/p052693/3634780_0015 ...
+Processing p05/p052693/3634780_0022
+Too many flat parts for p05/p052693/3634780_0022 ...
+Processing p05/p052696/3042784_0012
+Too many flat parts for p05/p052693/3634780_0020 ...
+Processing p05/p052696/3042784_0016
+Too many flat parts for p05/p052693/3634780_0018 ...
+Processing p05/p052696/3042784_0018
+Too many flat parts for p05/p052693/3634780_0008 ...
+Processing p05/p052696/3042784_0020
+Too many flat parts for p05/p052696/3042784_0020 ...
+Processing p05/p052696/3042784_0021
+Too many flat parts for p05/p052696/3042784_0018 ...
+Processing p05/p052696/3042784_0023
+Saved output/records/p05/p052666/3998298_0048
+Processing p05/p052697/3798644_0005
+Too many flat parts for p05/p052696/3042784_0016 ...
+Processing p05/p052697/3798644_0007
+Too many flat parts for p05/p052696/3042784_0012 ...
+Processing p05/p052697/3798644_0011
+Too many flat parts for p05/p052697/3798644_0005 ...
+Processing p05/p052710/3826973_0002
+Too many flat parts for p05/p052697/3798644_0011 ...
+Processing p05/p052710/3826973_0005
+Saved output/records/p05/p052666/3998298_0029
+Processing p05/p052710/3826973_0008
+Saved output/records/p05/p052710/3826973_0002
+Processing p05/p052710/3826973_0011
+Saved output/records/p05/p052620/3276566_0039
+Processing p05/p052710/3826973_0014
+Saved output/records/p05/p052666/3998298_0051
+Processing p05/p052710/3826973_0017
+Too many flat parts for p05/p052696/3042784_0023 ...
+Processing p05/p052710/3826973_0019
+Too many flat parts for p05/p052697/3798644_0007 ...
+Processing p05/p052710/3826973_0022
+Too many flat parts for p05/p052710/3826973_0005 ...
+Processing p05/p052710/3826973_0025
+Saved output/records/p05/p052710/3826973_0014
+Processing p05/p052710/3826973_0029
+Too many flat parts for p05/p052710/3826973_0025 ...
+Processing p05/p052710/3826973_0031
+Saved output/records/p05/p052710/3826973_0022
+Processing p05/p052710/3826973_0034
+Too many flat parts for p05/p052710/3826973_0029 ...
+Processing p05/p052710/3826973_0037
+Saved output/records/p05/p052666/3998298_0042
+Processing p05/p052710/3826973_0040
+Saved output/records/p05/p052710/3826973_0040
+Processing p05/p052710/3826973_0044
+Saved output/records/p05/p052710/3826973_0017
+Processing p05/p052710/3826973_0045
+Too many flat parts for p05/p052710/3826973_0044 ...
+Processing p05/p052710/3826973_0048
+Too many flat parts for p05/p052710/3826973_0011 ...
+Processing p05/p052710/3826973_0051
+Too many flat parts for p05/p052710/3826973_0031 ...
+Processing p05/p052710/3826973_0053
+Too many flat parts for p05/p052696/3042784_0021 ...
+Processing p05/p052710/3826973_0056
+Saved output/records/p05/p052666/3998298_0033
+Processing p05/p052710/3826973_0059
+Saved output/records/p05/p052710/3826973_0053
+Processing p05/p052710/3826973_0062
+Saved output/records/p05/p052710/3826973_0048
+Processing p05/p052710/3826973_0065
+Saved output/records/p05/p052666/3998298_0031
+Processing p05/p052710/3826973_0068
+Saved output/records/p05/p052710/3826973_0037
+Processing p05/p052710/3826973_0071
+Saved output/records/p05/p052710/3826973_0056
+Processing p05/p052710/3826973_0074
+Too many flat parts for p05/p052710/3826973_0074 ...
+Processing p05/p052710/3826973_0075
+Too many flat parts for p05/p052710/3826973_0008 ...
+Processing p05/p052710/3826973_0078
+Saved output/records/p05/p052710/3826973_0051
+Processing p05/p052710/3997097_0007
+Saved output/records/p05/p052710/3826973_0045
+Processing p05/p052710/3997097_0010
+Saved output/records/p05/p052710/3826973_0059
+Processing p05/p052710/3997097_0012
+Saved output/records/p05/p052710/3826973_0071
+Processing p05/p052710/3997097_0015
+Saved output/records/p05/p052710/3997097_0007
+Processing p05/p052710/3997097_0016
+Saved output/records/p05/p052710/3826973_0078
+Processing p05/p052710/3997097_0020
+Saved output/records/p05/p052710/3997097_0015
+Processing p05/p052710/3997097_0022
+Saved output/records/p05/p052710/3826973_0068
+Processing p05/p052710/3997097_0024
+Saved output/records/p05/p052710/3826973_0075
+Processing p05/p052710/3997097_0032
+Saved output/records/p05/p052710/3997097_0010
+Processing p05/p052710/3997097_0040
+Saved output/records/p05/p052710/3997097_0024
+Processing p05/p052710/3997097_0043
+Too many flat parts for p05/p052710/3826973_0034 ...
+Processing p05/p052710/3997097_0046
+Saved output/records/p05/p052710/3997097_0046
+Processing p05/p052710/3997097_0047
+Saved output/records/p05/p052710/3826973_0019
+Processing p05/p052710/3997097_0048
+Saved output/records/p05/p052710/3997097_0016
+Processing p05/p052710/3997097_0050
+Saved output/records/p05/p052710/3997097_0032
+Processing p05/p052710/3997097_0053
+Saved output/records/p05/p052710/3826973_0065
+Processing p05/p052710/3997097_0054
+Saved output/records/p05/p052710/3826973_0062
+Processing p05/p052710/3997097_0059
+Saved output/records/p05/p052710/3997097_0022
+Processing p05/p052710/3997097_0061
+Too many flat parts for p05/p052710/3997097_0054 ...
+Processing p05/p052710/3997097_0063
+Saved output/records/p05/p052666/3998298_0028
+Processing p05/p052710/3997097_0068
+Saved output/records/p05/p052710/3997097_0053
+Processing p05/p052710/3997097_0070
+Saved output/records/p05/p052710/3997097_0063
+Processing p05/p052710/3997097_0072
+Too many flat parts for p05/p052710/3997097_0059 ...
+Processing p05/p052710/3997097_0075
+Saved output/records/p05/p052710/3997097_0068
+Processing p05/p052710/3997097_0078
+Saved output/records/p05/p052710/3997097_0048
+Processing p05/p052710/3997097_0081
+Saved output/records/p05/p052710/3997097_0061
+Processing p05/p052710/3997097_0089
+Saved output/records/p05/p052710/3997097_0047
+Processing p05/p052710/3997097_0091
+Saved output/records/p05/p052710/3997097_0012
+Processing p05/p052710/3997097_0093
+Saved output/records/p05/p052710/3997097_0020
+Processing p05/p052710/3997097_0095
+Too many flat parts for p05/p052710/3997097_0091 ...
+Processing p05/p052710/3997097_0098
+Too many flat parts for p05/p052710/3997097_0050 ...
+Processing p05/p052710/3997097_0102
+Too many flat parts for p05/p052710/3997097_0098 ...
+Processing p05/p052710/3997097_0103
+Too many flat parts for p05/p052710/3997097_0093 ...
+Processing p05/p052710/3997097_0108
+Saved output/records/p05/p052710/3997097_0103
+Processing p05/p052710/3997097_0111
+Too many flat parts for p05/p052710/3997097_0102 ...
+Processing p05/p052710/3997097_0114
+Saved output/records/p05/p052710/3997097_0075
+Processing p05/p052710/3997097_0117
+Saved output/records/p05/p052710/3997097_0040
+Processing p05/p052710/3997097_0120
+Saved output/records/p05/p052710/3997097_0072
+Processing p05/p052710/3997097_0126
+Too many flat parts for p05/p052710/3997097_0095 ...
+Processing p05/p052710/3997097_0128
+Saved output/records/p05/p052710/3997097_0120
+Processing p05/p052710/3997097_0133
+Saved output/records/p05/p052710/3997097_0078
+Processing p05/p052710/3997097_0135
+Saved output/records/p05/p052710/3997097_0081
+Processing p05/p052710/3997097_0137
+Too many flat parts for p05/p052710/3997097_0133 ...
+Processing p05/p052710/3997097_0140
+Saved output/records/p05/p052710/3997097_0070
+Processing p05/p052710/3997097_0143
+Saved output/records/p05/p052710/3997097_0143
+Processing p05/p052710/3997097_0146
+Saved output/records/p05/p052710/3997097_0140
+Processing p05/p052710/3997097_0149
+Saved output/records/p05/p052710/3997097_0111
+Processing p05/p052710/3997097_0152
+Saved output/records/p05/p052710/3997097_0126
+Processing p05/p052710/3997097_0155
+Saved output/records/p05/p052710/3997097_0108
+Processing p05/p052740/3017309_0002
+Too many flat parts for p05/p052710/3997097_0089 ...
+Processing p05/p052740/3627243_0007
+Saved output/records/p05/p052710/3997097_0043
+Processing p05/p052740/3627243_0008
+Saved output/records/p05/p052710/3997097_0152
+Processing p05/p052766/3696829_0005
+Saved output/records/p05/p052710/3997097_0117
+Processing p05/p052766/3696829_0006
+Too many flat parts for p05/p052766/3696829_0005 ...
+Processing p05/p052779/3953886_0004
+Saved output/records/p05/p052710/3997097_0146
+Processing p05/p052779/3953886_0013
+Too many flat parts for p05/p052779/3953886_0013 ...
+Processing p05/p052779/3953886_0014
+Saved output/records/p05/p052710/3997097_0149
+Processing p05/p052779/3953886_0019
+Too many flat parts for p05/p052779/3953886_0014 ...
+Processing p05/p052779/3953886_0022
+Too many flat parts for p05/p052710/3997097_0135 ...
+Processing p05/p052779/3953886_0024
+Saved output/records/p05/p052766/3696829_0006
+Processing p05/p052779/3953886_0027
+Saved output/records/p05/p052710/3997097_0128
+Processing p05/p052816/3234091_0018
+Saved output/records/p05/p052740/3627243_0007
+Processing p05/p052816/3234091_0020
+Too many flat parts for p05/p052779/3953886_0004 ...
+Processing p05/p052816/3234091_0022
+Saved output/records/p05/p052740/3627243_0008
+Processing p05/p052846/3068280_0005
+Saved output/records/p05/p052779/3953886_0019
+Processing p05/p052846/3068280_0007
+Saved output/records/p05/p052710/3997097_0155
+Processing p05/p052846/3068280_0008
+Too many flat parts for p05/p052816/3234091_0022 ...
+Processing p05/p052846/3068280_0013
+Too many flat parts for p05/p052816/3234091_0020 ...
+Processing p05/p052846/3068280_0017
+Too many flat parts for p05/p052846/3068280_0017 ...
+Processing p05/p052846/3068280_0018
+Too many flat parts for p05/p052779/3953886_0027 ...
+Processing p05/p052846/3068280_0020
+Saved output/records/p05/p052710/3997097_0114
+Processing p05/p052867/3339932_0010
+Too many flat parts for p05/p052846/3068280_0007 ...
+Processing p05/p052875/3111475_0009
+Saved output/records/p05/p052846/3068280_0020
+Processing p05/p052875/3111475_0012
+Too many flat parts for p05/p052846/3068280_0018 ...
+Processing p05/p052875/3111475_0014
+Saved output/records/p05/p052779/3953886_0022
+Processing p05/p052875/3217592_0003
+Saved output/records/p05/p052779/3953886_0024
+Processing p05/p052875/3217592_0005
+Too many flat parts for p05/p052875/3111475_0012 ...
+Processing p05/p052875/3217592_0007
+Too many flat parts for p05/p052875/3217592_0005 ...
+Processing p05/p052875/3217592_0011
+Too many flat parts for p05/p052875/3217592_0007 ...
+Processing p05/p052875/3217592_0013
+Too many flat parts for p05/p052875/3217592_0013 ...
+Processing p05/p052875/3217592_0017
+Too many flat parts for p05/p052875/3217592_0011 ...
+Processing p05/p052875/3217592_0019
+Too many flat parts for p05/p052875/3217592_0019 ...
+Processing p05/p052875/3217592_0021
+Too many flat parts for p05/p052875/3217592_0021 ...
+Processing p05/p052900/3218658_0005
+Too many flat parts for p05/p052900/3218658_0005 ...
+Processing p05/p052900/3218658_0008
+Too many flat parts for p05/p052900/3218658_0008 ...
+Processing p05/p052900/3218658_0020
+Too many flat parts for p05/p052900/3218658_0020 ...
+Processing p05/p052900/3218658_0022
+Too many flat parts for p05/p052900/3218658_0022 ...
+Processing p05/p052900/3218658_0023
+Saved output/records/p05/p052846/3068280_0008
+Processing p05/p052900/3218658_0028
+Too many flat parts for p05/p052875/3111475_0014 ...
+Processing p05/p052932/3954519_0002
+Too many flat parts for p05/p052875/3217592_0003 ...
+Processing p05/p052934/3875257_0006
+Too many flat parts for p05/p052900/3218658_0023 ...
+Processing p05/p052934/3875257_0011
+Saved output/records/p05/p052816/3234091_0018
+Processing p05/p052934/3875257_0012
+Too many flat parts for p05/p052900/3218658_0028 ...
+Processing p05/p052934/3875257_0014
+Too many flat parts for p05/p052875/3217592_0017 ...
+Processing p05/p052934/3875257_0017
+Saved output/records/p05/p052710/3997097_0137
+Processing p05/p052934/3875257_0018
+Too many flat parts for p05/p052867/3339932_0010 ...
+Processing p05/p052952/3698276_0011
+Too many flat parts for p05/p052934/3875257_0006 ...
+Processing p05/p052952/3698276_0012
+Too many flat parts for p05/p052952/3698276_0011 ...
+Processing p05/p052952/3698276_0016
+Saved output/records/p05/p052934/3875257_0018
+Processing p05/p052952/3698276_0018
+Too many flat parts for p05/p052952/3698276_0012 ...
+Processing p05/p052952/3698276_0020
+Saved output/records/p05/p052934/3875257_0017
+Processing p05/p052952/3698276_0022
+Saved output/records/p05/p052934/3875257_0011
+Processing p05/p052952/3698276_0024
+Too many flat parts for p05/p052952/3698276_0024 ...
+Processing p05/p052952/3698276_0028
+Too many flat parts for p05/p052952/3698276_0018 ...
+Processing p05/p052974/3173104_0007
+Too many flat parts for p05/p052952/3698276_0028 ...
+Processing p05/p052974/3173104_0008
+Too many flat parts for p05/p052952/3698276_0020 ...
+Processing p05/p052974/3173104_0009
+Too many flat parts for p05/p052974/3173104_0008 ...
+Processing p05/p052974/3173104_0017
+Saved output/records/p05/p052974/3173104_0017
+Processing p05/p052974/3173104_0024
+Too many flat parts for p05/p052974/3173104_0009 ...
+Processing p05/p052974/3173104_0025
+Too many flat parts for p05/p052952/3698276_0022 ...
+Processing p05/p052974/3736451_0002
+Too many flat parts for p05/p052974/3736451_0002 ...
+Processing p05/p052974/3736451_0004
+Too many flat parts for p05/p052952/3698276_0016 ...
+Processing p05/p052974/3736451_0006
+Saved output/records/p05/p052846/3068280_0013
+Processing p05/p053013/3510820_0001
+Saved output/records/p05/p052740/3017309_0002
+Processing p05/p053013/3510820_0006
+Too many flat parts for p05/p052974/3173104_0024 ...
+Processing p05/p053013/3510820_0011
+Too many flat parts for p05/p052974/3173104_0007 ...
+Processing p05/p053013/3510820_0013
+Saved output/records/p05/p053013/3510820_0001
+Processing p05/p053013/3510820_0016
+Saved output/records/p05/p052932/3954519_0002
+Processing p05/p053013/3510820_0017
+Too many flat parts for p05/p052875/3111475_0009 ...
+Processing p05/p053015/3198332_0001
+Saved output/records/p05/p052934/3875257_0012
+Processing p05/p053015/3232503_0006
+Saved output/records/p05/p053015/3232503_0006
+Processing p05/p053015/3232503_0009
+Too many flat parts for p05/p052974/3736451_0006 ...
+Processing p05/p053015/3232503_0019
+Too many flat parts for p05/p052846/3068280_0005 ...
+Processing p05/p053015/3232503_0022
+Saved output/records/p05/p052934/3875257_0014
+Processing p05/p053015/3232503_0025
+Saved output/records/p05/p053013/3510820_0006
+Processing p05/p053015/3232503_0032
+Saved output/records/p05/p053013/3510820_0016
+Processing p05/p053015/3887728_0004
+Too many flat parts for p05/p053015/3887728_0004 ...
+Processing p05/p053015/3887728_0008
+Saved output/records/p05/p053013/3510820_0011
+Processing p05/p053036/3255272_0001
+Saved output/records/p05/p053015/3232503_0019
+Processing p05/p053036/3475669_0003
+Too many flat parts for p05/p053036/3475669_0003 ...
+Processing p05/p053036/3475669_0004
+Saved output/records/p05/p053015/3232503_0022
+Processing p05/p053036/3475669_0007
+Saved output/records/p05/p053036/3255272_0001
+Processing p05/p053036/3778528_0007
+Saved output/records/p05/p053015/3232503_0009
+Processing p05/p053102/3182281_0012
+Too many flat parts for p05/p053036/3475669_0004 ...
+Processing p05/p053149/3453107_0003
+Saved output/records/p05/p053015/3887728_0008
+Processing p05/p053149/3453107_0004
+Too many flat parts for p05/p053149/3453107_0003 ...
+Processing p05/p053149/3453107_0005
+Saved output/records/p05/p053015/3198332_0001
+Processing p05/p053149/3453107_0006
+Too many NaNs for p05/p053149/3453107_0005 ...
+Processing p05/p053149/3453107_0007
+Saved output/records/p05/p053149/3453107_0006
+Processing p05/p053149/3453107_0009
+Too many flat parts for p05/p053149/3453107_0009 ...
+Processing p05/p053149/3453107_0010
+Too many NaNs for p05/p053149/3453107_0010 ...
+Processing p05/p053149/3591149_0007
+Too many flat parts for p05/p053149/3591149_0007 ...
+Processing p05/p053149/3591149_0010
+Saved output/records/p05/p053149/3453107_0007
+Processing p05/p053149/3591149_0013
+Too many flat parts for p05/p053149/3591149_0013 ...
+Processing p05/p053149/3591149_0016
+Too many flat parts for p05/p053149/3591149_0016 ...
+Processing p05/p053149/3939974_0002
+Too many flat parts for p05/p053149/3591149_0010 ...
+Processing p05/p053149/3939974_0003
+Too many flat parts for p05/p053149/3939974_0002 ...
+Processing p05/p053149/3939974_0005
+Too many flat parts for p05/p053149/3939974_0005 ...
+Processing p05/p053149/3939974_0007
+Too many flat parts for p05/p053149/3939974_0007 ...
+Processing p05/p053149/3939974_0009
+Too many flat parts for p05/p053149/3939974_0009 ...
+Processing p05/p053149/3939974_0011
+Too many flat parts for p05/p053149/3939974_0011 ...
+Processing p05/p053173/3264065_0010
+Saved output/records/p05/p053149/3453107_0004
+Processing p05/p053173/3264065_0011
+Too many flat parts for p05/p053173/3264065_0010 ...
+Processing p05/p053173/3264065_0013
+Too many flat parts for p05/p053173/3264065_0011 ...
+Processing p05/p053173/3458778_0216
+Too many flat parts for p05/p053173/3458778_0216 ...
+Processing p05/p053173/3549958_0010
+Too many flat parts for p05/p053173/3549958_0010 ...
+Processing p05/p053173/3549958_0012
+Too many NaNs for p05/p053173/3264065_0013 ...
+Processing p05/p053173/3643793_0006
+Too many flat parts for p05/p053173/3549958_0012 ...
+Processing p05/p053173/3643793_0010
+Too many flat parts for p05/p053036/3475669_0007 ...
+Processing p05/p053173/3643793_0011
+Too many flat parts for p05/p053173/3643793_0011 ...
+Processing p05/p053173/3643793_0012
+Too many flat parts for p05/p053173/3643793_0010 ...
+Processing p05/p053173/3643793_0014
+Saved output/records/p05/p053015/3232503_0025
+Processing p05/p053173/3643793_0018
+Saved output/records/p05/p053015/3232503_0032
+Processing p05/p053173/3685780_0009
+Too many flat parts for p05/p053173/3685780_0009 ...
+Processing p05/p053173/3685780_0010
+Too many flat parts for p05/p053173/3643793_0012 ...
+Processing p05/p053176/3353974_0002
+Saved output/records/p05/p053013/3510820_0017
+Processing p05/p053191/3266475_0048
+Too many flat parts for p05/p053173/3685780_0010 ...
+Processing p05/p053191/3266475_0054
+Too many flat parts for p05/p053173/3643793_0018 ...
+Processing p05/p053191/3266475_0057
+Saved output/records/p05/p053149/3939974_0003
+Processing p05/p053191/3266475_0075
+Saved output/records/p05/p053191/3266475_0054
+Processing p05/p053191/3266475_0081
+Saved output/records/p05/p053191/3266475_0048
+Processing p05/p053191/3266475_0099
+Saved output/records/p05/p053191/3266475_0075
+Processing p05/p053191/3266475_0102
+Saved output/records/p05/p053191/3266475_0081
+Processing p05/p053191/3266475_0112
+Too many flat parts for p05/p053191/3266475_0057 ...
+Processing p05/p053191/3922390_0041
+Saved output/records/p05/p053191/3922390_0041
+Processing p05/p053191/3922390_0047
+Too many flat parts for p05/p053191/3266475_0112 ...
+Processing p05/p053191/3922390_0052
+Too many flat parts for p05/p053191/3922390_0052 ...
+Processing p05/p053191/3922390_0064
+Saved output/records/p05/p053191/3266475_0099
+Processing p05/p053216/3814520_0015
+Saved output/records/p05/p053191/3922390_0047
+Processing p05/p053216/3814520_0016
+Too many flat parts for p05/p053191/3266475_0102 ...
+Processing p05/p053216/3814520_0019
+Saved output/records/p05/p053191/3922390_0064
+Processing p05/p053216/3814520_0022
+Too many flat parts for p05/p053216/3814520_0015 ...
+Processing p05/p053216/3814520_0025
+Saved output/records/p05/p053176/3353974_0002
+Processing p05/p053216/3814520_0028
+Saved output/records/p05/p053216/3814520_0016
+Processing p05/p053216/3814520_0031
+Saved output/records/p05/p053216/3814520_0022
+Processing p05/p053216/3814520_0034
+Saved output/records/p05/p053013/3510820_0013
+Processing p05/p053216/3834907_0006
+Saved output/records/p05/p053216/3834907_0006
+Processing p05/p053216/3834907_0007
+Saved output/records/p05/p052974/3736451_0004
+Processing p05/p053216/3834907_0013
+Too many flat parts for p05/p052974/3173104_0025 ...
+Processing p05/p053216/3834907_0015
+Saved output/records/p05/p053216/3834907_0013
+Processing p05/p053216/3834907_0018
+Saved output/records/p05/p053216/3814520_0025
+Processing p05/p053216/3834907_0022
+Saved output/records/p05/p053216/3814520_0019
+Processing p05/p053216/3834907_0025
+Saved output/records/p05/p053216/3834907_0007
+Processing p05/p053216/3834907_0028
+Saved output/records/p05/p053216/3834907_0018
+Processing p05/p053216/3834907_0032
+Saved output/records/p05/p053216/3834907_0022
+Processing p05/p053216/3834907_0038
+Saved output/records/p05/p053216/3814520_0031
+Processing p05/p053216/3834907_0040
+Too many flat parts for p05/p053173/3643793_0014 ...
+Processing p05/p053216/3834907_0043
+Too many flat parts for p05/p053216/3834907_0032 ...
+Processing p05/p053216/3834907_0046
+Saved output/records/p05/p053216/3834907_0038
+Processing p05/p053216/3834907_0050
+Saved output/records/p05/p053216/3834907_0050
+Processing p05/p053216/3834907_0051
+Saved output/records/p05/p053216/3834907_0015
+Processing p05/p053216/3834907_0055
+Saved output/records/p05/p053216/3834907_0046
+Processing p05/p053216/3834907_0058
+Saved output/records/p05/p053216/3834907_0055
+Processing p05/p053216/3834907_0061
+Saved output/records/p05/p053216/3834907_0051
+Processing p05/p053216/3834907_0064
+Saved output/records/p05/p053216/3834907_0064
+Processing p05/p053216/3834907_0071
+Saved output/records/p05/p053216/3834907_0058
+Processing p05/p053216/3834907_0076
+Saved output/records/p05/p053216/3834907_0071
+Processing p05/p053216/3834907_0077
+Saved output/records/p05/p053216/3834907_0076
+Processing p05/p053216/3834907_0080
+Saved output/records/p05/p053216/3834907_0077
+Processing p05/p053216/3834907_0083
+Saved output/records/p05/p053216/3834907_0061
+Processing p05/p053216/3834907_0086
+Saved output/records/p05/p053216/3834907_0080
+Processing p05/p053216/3834907_0089
+Too many flat parts for p05/p053216/3834907_0086 ...
+Processing p05/p053216/3834907_0092
+Too many flat parts for p05/p053216/3834907_0089 ...
+Processing p05/p053216/3834907_0095
+Saved output/records/p05/p053216/3814520_0034
+Processing p05/p053216/3834907_0098
+Too many flat parts for p05/p053216/3834907_0098 ...
+Processing p05/p053216/3834907_0101
+Too many flat parts for p05/p053216/3834907_0095 ...
+Processing p05/p053238/3116149_0005
+Saved output/records/p05/p053216/3834907_0028
+Processing p05/p053238/3685070_0002
+Saved output/records/p05/p053216/3834907_0040
+Processing p05/p053238/3685070_0004
+Too many flat parts for p05/p053216/3834907_0101 ...
+Processing p05/p053247/3180066_0001
+Saved output/records/p05/p053216/3834907_0043
+Processing p05/p053247/3180066_0012
+Saved output/records/p05/p053216/3814520_0028
+Processing p05/p053247/3180066_0014
+Saved output/records/p05/p053216/3834907_0083
+Processing p05/p053247/3180066_0017
+Too many flat parts for p05/p053247/3180066_0017 ...
+Processing p05/p053247/3180066_0019
+Saved output/records/p05/p053216/3834907_0025
+Processing p05/p053247/3180066_0023
+Saved output/records/p05/p053036/3778528_0007
+Processing p05/p053247/3218125_0006
+Saved output/records/p05/p053247/3180066_0001
+Processing p05/p053247/3218125_0007
+Too many flat parts for p05/p053247/3218125_0006 ...
+Processing p05/p053247/3218125_0009
+Too many flat parts for p05/p053247/3218125_0009 ...
+Processing p05/p053247/3218125_0012
+Saved output/records/p05/p053238/3685070_0004
+Processing p05/p053247/3218125_0014
+Too many flat parts for p05/p053247/3180066_0023 ...
+Processing p05/p053247/3218125_0015
+Saved output/records/p05/p053102/3182281_0012
+Processing p05/p053247/3218125_0018
+Too many flat parts for p05/p053173/3643793_0006 ...
+Processing p05/p053247/3218125_0020
+Too many flat parts for p05/p053216/3834907_0092 ...
+Processing p05/p053247/3218125_0026
+Too many flat parts for p05/p053247/3218125_0014 ...
+Processing p05/p053247/3218125_0029
+Too many flat parts for p05/p053247/3180066_0012 ...
+Processing p05/p053247/3246977_0006
+Too many flat parts for p05/p053247/3218125_0012 ...
+Processing p05/p053247/3246977_0012
+Saved output/records/p05/p053247/3246977_0012
+Processing p05/p053247/3246977_0014
+Too many flat parts for p05/p053247/3218125_0007 ...
+Processing p05/p053247/3287577_0008
+Saved output/records/p05/p053247/3218125_0026
+Processing p05/p053247/3287577_0012
+Too many flat parts for p05/p053247/3218125_0029 ...
+Processing p05/p053247/3287577_0014
+Saved output/records/p05/p053247/3246977_0014
+Processing p05/p053247/3287577_0015
+Saved output/records/p05/p053247/3287577_0015
+Processing p05/p053247/3287577_0018
+Too many flat parts for p05/p053247/3218125_0020 ...
+Processing p05/p053247/3287577_0019
+Too many flat parts for p05/p053247/3180066_0014 ...
+Processing p05/p053247/3287577_0021
+Too many flat parts for p05/p053247/3180066_0019 ...
+Processing p05/p053247/3287577_0024
+Saved output/records/p05/p053247/3287577_0019
+Processing p05/p053247/3287577_0027
+Saved output/records/p05/p053238/3116149_0005
+Processing p05/p053247/3287577_0047
+Too many flat parts for p05/p053247/3218125_0018 ...
+Processing p05/p053247/3287577_0054
+Too many flat parts for p05/p053247/3287577_0027 ...
+Processing p05/p053247/3287577_0056
+Too many flat parts for p05/p053247/3246977_0006 ...
+Processing p05/p053247/3287577_0058
+Saved output/records/p05/p053247/3287577_0008
+Processing p05/p053247/3287577_0061
+Saved output/records/p05/p053247/3287577_0054
+Processing p05/p053247/3287577_0066
+Saved output/records/p05/p053247/3287577_0056
+Processing p05/p053247/3287577_0072
+Saved output/records/p05/p053247/3287577_0047
+Processing p05/p053252/3826883_0007
+Saved output/records/p05/p053238/3685070_0002
+Processing p05/p053252/3826883_0010
+Saved output/records/p05/p053247/3287577_0012
+Processing p05/p053252/3826883_0015
+Too many flat parts for p05/p053252/3826883_0007 ...
+Processing p05/p053252/3826883_0017
+Too many flat parts for p05/p053252/3826883_0017 ...
+Processing p05/p053252/3826883_0019
+Too many flat parts for p05/p053247/3287577_0014 ...
+Processing p05/p053252/3826883_0023
+Too many flat parts for p05/p053252/3826883_0015 ...
+Processing p05/p053282/3867051_0001
+Too many flat parts for p05/p053252/3826883_0023 ...
+Processing p05/p053282/3867051_0003
+Saved output/records/p05/p053247/3287577_0066
+Processing p05/p053282/3867051_0005
+Saved output/records/p05/p053282/3867051_0005
+Processing p05/p053282/3867051_0013
+Too many flat parts for p05/p053252/3826883_0019 ...
+Processing p05/p053282/3867051_0015
+Too many flat parts for p05/p053247/3287577_0058 ...
+Processing p05/p053282/3957132_0006
+Saved output/records/p05/p053247/3287577_0061
+Processing p05/p053282/3957132_0013
+Too many flat parts for p05/p053252/3826883_0010 ...
+Processing p05/p053282/3957132_0015
+Saved output/records/p05/p053282/3957132_0013
+Processing p05/p053282/3957132_0016
+Saved output/records/p05/p053247/3218125_0015
+Processing p05/p053282/3957132_0019
+Saved output/records/p05/p053282/3957132_0016
+Processing p05/p053282/3957132_0022
+Saved output/records/p05/p053282/3867051_0003
+Processing p05/p053282/3957132_0025
+Saved output/records/p05/p053247/3287577_0018
+Processing p05/p053283/3021772_0003
+Saved output/records/p05/p053247/3287577_0021
+Processing p05/p053283/3021772_0007
+Too many flat parts for p05/p053283/3021772_0003 ...
+Processing p05/p053283/3021772_0009
+Saved output/records/p05/p053282/3867051_0001
+Processing p05/p053283/3021772_0011
+Too many flat parts for p05/p053283/3021772_0009 ...
+Processing p05/p053283/3021772_0015
+Too many flat parts for p05/p053283/3021772_0011 ...
+Processing p05/p053283/3021772_0016
+Too many flat parts for p05/p053283/3021772_0016 ...
+Processing p05/p053283/3021772_0018
+Too many flat parts for p05/p053282/3957132_0019 ...
+Processing p05/p053283/3021772_0020
+Too many flat parts for p05/p053283/3021772_0020 ...
+Processing p05/p053294/3895345_0020
+Too many flat parts for p05/p053283/3021772_0007 ...
+Processing p05/p053294/3895345_0021
+Too many flat parts for p05/p053282/3867051_0015 ...
+Processing p05/p053294/3895345_0022
+Saved output/records/p05/p053294/3895345_0021
+Processing p05/p053294/3895345_0024
+Too many flat parts for p05/p053294/3895345_0024 ...
+Processing p05/p053342/3407128_0007
+Saved output/records/p05/p053294/3895345_0020
+Processing p05/p053342/3407128_0015
+Too many flat parts for p05/p053342/3407128_0007 ...
+Processing p05/p053342/3407128_0016
+Saved output/records/p05/p053282/3957132_0022
+Processing p05/p053342/3407128_0028
+Saved output/records/p05/p053294/3895345_0022
+Processing p05/p053342/3407128_0031
+Too many flat parts for p05/p053283/3021772_0018 ...
+Processing p05/p053342/3407128_0033
+Saved output/records/p05/p053342/3407128_0016
+Processing p05/p053342/3407128_0036
+Too many flat parts for p05/p053282/3957132_0006 ...
+Processing p05/p053342/3407128_0038
+Too many flat parts for p05/p053342/3407128_0038 ...
+Processing p05/p053342/3407128_0041
+Too many flat parts for p05/p053342/3407128_0031 ...
+Processing p05/p053342/3407128_0047
+Saved output/records/p05/p053282/3957132_0025
+Processing p05/p053342/3407128_0055
+Saved output/records/p05/p053342/3407128_0015
+Processing p05/p053342/3407128_0057
+Saved output/records/p05/p053247/3287577_0072
+Processing p05/p053342/3407128_0058
+Too many flat parts for p05/p053282/3957132_0015 ...
+Processing p05/p053342/3407128_0063
+Saved output/records/p05/p053342/3407128_0036
+Processing p05/p053342/3407128_0066
+Saved output/records/p05/p053342/3407128_0055
+Processing p05/p053342/3407128_0068
+Too many flat parts for p05/p053342/3407128_0068 ...
+Processing p05/p053342/3407128_0069
+Saved output/records/p05/p053342/3407128_0069
+Processing p05/p053342/3407128_0074
+Saved output/records/p05/p053342/3407128_0074
+Processing p05/p053342/3407128_0075
+Saved output/records/p05/p053342/3407128_0075
+Processing p05/p053342/3407128_0077
+Saved output/records/p05/p053342/3407128_0077
+Processing p05/p053342/3407128_0085
+Saved output/records/p05/p053342/3407128_0063
+Processing p05/p053342/3407128_0087
+Too many flat parts for p05/p053283/3021772_0015 ...
+Processing p05/p053342/3407128_0090
+Saved output/records/p05/p053247/3287577_0024
+Processing p05/p053342/3407128_0091
+Saved output/records/p05/p053342/3407128_0091
+Processing p05/p053342/3407128_0100
+Saved output/records/p05/p053342/3407128_0090
+Processing p05/p053342/3407128_0102
+Too many flat parts for p05/p053342/3407128_0100 ...
+Processing p05/p053342/3407128_0104
+Saved output/records/p05/p053342/3407128_0033
+Processing p05/p053342/3407128_0108
+Saved output/records/p05/p053342/3407128_0047
+Processing p05/p053342/3610953_0001
+Too many flat parts for p05/p053342/3407128_0028 ...
+Processing p05/p053342/3610953_0003
+Saved output/records/p05/p053342/3407128_0108
+Processing p05/p053342/3610953_0004
+Saved output/records/p05/p053342/3407128_0066
+Processing p05/p053342/3610953_0019
+Saved output/records/p05/p053342/3407128_0057
+Processing p05/p053342/3610953_0021
+Saved output/records/p05/p053342/3610953_0001
+Processing p05/p053348/3243169_0018
+Saved output/records/p05/p053342/3407128_0058
+Processing p05/p053348/3243169_0025
+Too many flat parts for p05/p053348/3243169_0018 ...
+Processing p05/p053348/3243169_0032
+Too many flat parts for p05/p053348/3243169_0032 ...
+Processing p05/p053348/3243169_0034
+Saved output/records/p05/p053342/3407128_0104
+Processing p05/p053348/3486927_0008
+Saved output/records/p05/p053282/3867051_0013
+Processing p05/p053348/3486927_0010
+Saved output/records/p05/p053348/3486927_0010
+Processing p05/p053348/3486927_0015
+Saved output/records/p05/p053348/3486927_0008
+Processing p05/p053348/3486927_0016
+Saved output/records/p05/p053342/3407128_0087
+Processing p05/p053348/3486927_0019
+Saved output/records/p05/p053348/3486927_0016
+Processing p05/p053348/3486927_0020
+Saved output/records/p05/p053342/3610953_0004
+Processing p05/p053348/3486927_0021
+Saved output/records/p05/p053348/3243169_0034
+Processing p05/p053348/3486927_0026
+Too many flat parts for p05/p053348/3243169_0025 ...
+Processing p05/p053348/3486927_0029
+Too many flat parts for p05/p053342/3610953_0003 ...
+Processing p05/p053348/3486927_0030
+Saved output/records/p05/p053342/3407128_0085
+Processing p05/p053348/3486927_0033
+Saved output/records/p05/p053342/3407128_0102
+Processing p05/p053348/3486927_0035
+Too many flat parts for p05/p053348/3486927_0020 ...
+Processing p05/p053348/3486927_0036
+Saved output/records/p05/p053348/3486927_0030
+Processing p05/p053348/3486927_0037
+Too many flat parts for p05/p053348/3486927_0021 ...
+Processing p05/p053348/3486927_0039
+Saved output/records/p05/p053348/3486927_0035
+Processing p05/p053348/3486927_0041
+Saved output/records/p05/p053348/3486927_0036
+Processing p05/p053348/3486927_0042
+Too many flat parts for p05/p053348/3486927_0042 ...
+Processing p05/p053348/3486927_0045
+Saved output/records/p05/p053348/3486927_0045
+Processing p05/p053348/3486927_0047
+Saved output/records/p05/p053342/3407128_0041
+Processing p05/p053348/3486927_0048
+Too many flat parts for p05/p053342/3610953_0021 ...
+Processing p05/p053348/3486927_0051
+Too many flat parts for p05/p053342/3610953_0019 ...
+Processing p05/p053348/3486927_0053
+Saved output/records/p05/p053348/3486927_0051
+Processing p05/p053348/3486927_0054
+Saved output/records/p05/p053348/3486927_0047
+Processing p05/p053348/3486927_0057
+Saved output/records/p05/p053348/3486927_0053
+Processing p05/p053348/3486927_0058
+Saved output/records/p05/p053348/3486927_0041
+Processing p05/p053348/3486927_0060
+Saved output/records/p05/p053348/3486927_0029
+Processing p05/p053348/3486927_0063
+Saved output/records/p05/p053348/3486927_0026
+Processing p05/p053348/3486927_0066
+Saved output/records/p05/p053348/3486927_0063
+Processing p05/p053348/3486927_0069
+Saved output/records/p05/p053348/3486927_0048
+Processing p05/p053348/3486927_0071
+Too many flat parts for p05/p053348/3486927_0019 ...
+Processing p05/p053348/3486927_0074
+Saved output/records/p05/p053348/3486927_0071
+Processing p05/p053348/3486927_0081
+Saved output/records/p05/p053348/3486927_0066
+Processing p05/p053348/3486927_0083
+Saved output/records/p05/p053348/3486927_0060
+Processing p05/p053348/3486927_0084
+Saved output/records/p05/p053348/3486927_0081
+Processing p05/p053348/3486927_0087
+Saved output/records/p05/p053348/3486927_0039
+Processing p05/p053348/3486927_0090
+Saved output/records/p05/p053348/3486927_0083
+Processing p05/p053348/3486927_0092
+Saved output/records/p05/p053348/3486927_0058
+Processing p05/p053348/3486927_0095
+Saved output/records/p05/p053348/3486927_0087
+Processing p05/p053348/3486927_0098
+Saved output/records/p05/p053348/3486927_0069
+Processing p05/p053348/3486927_0100
+Saved output/records/p05/p053348/3486927_0057
+Processing p05/p053348/3486927_0101
+Saved output/records/p05/p053348/3486927_0033
+Processing p05/p053348/3486927_0104
+Saved output/records/p05/p053348/3486927_0037
+Processing p05/p053348/3486927_0106
+Saved output/records/p05/p053348/3486927_0100
+Processing p05/p053348/3486927_0109
+Saved output/records/p05/p053348/3486927_0098
+Processing p05/p053348/3486927_0112
+Too many flat parts for p05/p053348/3486927_0092 ...
+Processing p05/p053348/3486927_0114
+Saved output/records/p05/p053348/3486927_0104
+Processing p05/p053348/3486927_0116
