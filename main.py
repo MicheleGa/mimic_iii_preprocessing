@@ -1,8 +1,8 @@
 import os
 import argparse
 from data_provisioning import valid_segments_retrieval
-from data_preprocessing import count_patients_and_records, download_mimic_iii_records
-from data_visualization import save_abp_and_ppg_figures
+from data_preprocessing import count_patients_and_records, download_mimic_iii_records, preprocess_mimic_iii_records
+
 
 if __name__ == '__main__':
 
@@ -31,8 +31,9 @@ if __name__ == '__main__':
     required_signals = set({'ABP', 'PLETH'})
 
     # Valid segments identifiers will be saved to output_file
-    #valid_segments_file = valid_segments_retrieval(args.database_name, required_signals, args.min_duration, output_file, n_cores=8)
+    #valid_segments_file = valid_segments_retrieval(args.database_name, required_signals, args.min_duration, output_file, n_cores=8)    
 
+    # Remember to remove this line
     valid_segments_file = os.path.join(args.output_dir, 'valid_segments_pleth_abp_8m.txt')
 
     num_patients, num_records = count_patients_and_records(valid_segments_file)
@@ -58,7 +59,16 @@ if __name__ == '__main__':
         'win_overlap' : 0.5, # Parameter as in https://github.com/Fabian-Sc85/non-invasive-bp-estimation-using-deep-learning/blob/main/prepare_MIMIC_dataset.py
     }
 
-    download_mimic_iii_records(valid_segments_file, args.output_dir, valid_BP_ranges, thresholds, windowing_param, n_cores=args.n_cores)
+    #download_mimic_iii_records(valid_segments_file, args.output_dir, valid_BP_ranges, thresholds, windowing_param, n_cores=args.n_cores)
+
+    valid_segments_file = os.path.join(args.output_dir, 'downloaded_segments.txt')
+    num_patients, num_records = count_patients_and_records(valid_segments_file)
+
+    print(f'There are {num_patients} different patients, for a total of {num_records} different records, from {args.database_name} with {str(required_signals)} that last at least {args.min_duration} m, with less than {thresholds["nans_th"]}, less than {thresholds["flat_th"]} and average {valid_BP_ranges["low_sbp"]} < SBP < {valid_BP_ranges["up_sbp"]} - {valid_BP_ranges["low_dbp"]} < DBP < {valid_BP_ranges["up_sbp"]}.')
+
+    downloaded_file_root_path = os.path.join(args.output_dir, 'records')
+
+    preprocess_mimic_iii_records(downloaded_file_root_path, valid_BP_ranges, n_cores=args.n_cores)
 
     
 

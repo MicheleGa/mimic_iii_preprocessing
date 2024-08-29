@@ -11,7 +11,7 @@ def plot_psd(signal : np.array, sampling_rate : int, window : str = 'hann'):
     r"""
     Plots the power spectral density with the first harmonic of a signal.
 
-    Parameters:
+    Parameters
     ------------
     signal: np.array,
         The input signal as a numpy array.
@@ -20,7 +20,7 @@ def plot_psd(signal : np.array, sampling_rate : int, window : str = 'hann'):
     window: str, default hanning window,
         The windowing function to apply (optional).
 
-    Returns:
+    Returns
     ------------
     None
     """
@@ -47,7 +47,7 @@ def worker_function(database_name : str, seg_path : str, output_dir : str) -> No
     - extracting the PPG and ABP signals
     - plotting and saving the signals in a figure
 
-    Parameters:
+    Parameters
     ------------
 
     database_name: string,
@@ -57,7 +57,7 @@ def worker_function(database_name : str, seg_path : str, output_dir : str) -> No
     output_dir: string,
         the location where the images will be saved
         
-    Returns:
+    Returns
     ------------
     None
     """
@@ -98,7 +98,7 @@ def save_abp_and_ppg_figures(valid_segment_file : str, output_dir : str, n_sampl
     The following function creates the directories required to save the figures associated to the physiological signal of a patient,
     and then it queries the dataset for the specifc patients' segments. The required information is stored in a txt file produced from the data provisioning step.
 
-    Parameters:
+    Parameters
     ------------
     valid_segment_file: string,
         the txt file contaning the database name as first line and the valid segments information as the rest of the file
@@ -109,7 +109,7 @@ def save_abp_and_ppg_figures(valid_segment_file : str, output_dir : str, n_sampl
     n_cores: int, default 1,
         the number of cores to use to speed up the data retrieval process
         
-    Returns:
+    Returns
     ------------
     None
     """
@@ -137,7 +137,7 @@ def plot_signal(signal : np.array, fs : int, flat_locs_sig : np.array = None, pe
     r"""
     Handy function to plot a signal, with its peaks, valleys, flat parts, outliers, and lower/upper envelops (when provided).
 
-    Parameters:
+    Parameters
     ------------
 
     signal: np.array,
@@ -155,7 +155,7 @@ def plot_signal(signal : np.array, fs : int, flat_locs_sig : np.array = None, pe
     save_path: str, default './',
         where to save the image
 
-    Returns:
+    Returns
     ------------
     None
     """

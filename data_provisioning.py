@@ -12,7 +12,7 @@ def worker_function(subject_file: str, database_name: str, subject: str, subject
   - checking if the waveform data has the required signals
   - checking if the waveform is long enough
 
-  Parameters:
+  Parameters
   ------------
 
   f: string,
@@ -28,7 +28,7 @@ def worker_function(subject_file: str, database_name: str, subject: str, subject
   min_duration: int,
     minimum length of a valid segment
 
-  Returns:
+  Returns
   ------------
   A PosixPath that can be used later to retrieve the waveform data or None
   """
@@ -67,7 +67,7 @@ def valid_segments_retrieval(database_name: str, required_signals: set, min_dura
   Blood Pressure, PPG, etc.). These records are divided in segmentswhich may or may not contain the required signals. 
   Additionally, it removes segments that last less than 8 minutes.
 
-  Parameters:
+  Parameters
   ------------
 
   database_name: string,
@@ -81,7 +81,7 @@ def valid_segments_retrieval(database_name: str, required_signals: set, min_dura
   n_cores: int, default 1,
     number of parallel cores to use
   
-  Returns:
+  Returns
   ------------
   output_file_new_path: str,
     the path to the txt file with valid segments location in the database

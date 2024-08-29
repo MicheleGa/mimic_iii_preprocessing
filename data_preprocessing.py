@@ -2,6 +2,7 @@ import os
 from pathlib import Path
 import shutil
 import glob
+import zipfile
 from joblib import Parallel, delayed
 import multiprocessing
 from shutil import rmtree
@@ -17,13 +18,13 @@ def count_patients_and_records(valid_segments_file: str) -> Tuple[int, int]:
     Given a txt file with the database name and its valid segments, return the amount of different patients and 
     total number of reocords with the required signals specified during the data provisioning step.
     
-    Parameters:
+    Parameters
     ------------
 
     valid_segments_file: string,
         the txt file to be analyzed
 
-    Returns:
+    Returns
     ------------
 
     An integer, the number of different patients 
@@ -47,13 +48,13 @@ def nans_percentage(signal : np.array) -> float:
     r"""
     Not a Numbers percentage calculation.
 
-    Parameters:
+    Parameters
     ------------
 
     signal: np.array,
         the signal to analyze
 
-    Returns:
+    Returns
     ------------
 
     The percentage of NaNs in the signal
@@ -67,7 +68,7 @@ def flat_lines_detection(signal : np.array, delta : float = 1e-5, window_len = 3
     A flat part of the signal is defined as sig\[i\] = sig\[i\+1] &plusmn; &#916;.
     Return the percentage of flat lines
 
-    Parameters:
+    Parameters
     ------------
 
     signal: np.array,
@@ -77,7 +78,7 @@ def flat_lines_detection(signal : np.array, delta : float = 1e-5, window_len = 3
     window_len: int, default 3,
         the length of the window to compare consecutive values
 
-    Returns:
+    Returns
     ------------
 
     the percentage of flat lines in the signal
@@ -99,13 +100,13 @@ def interpolate_nan_pchip(data):
     r"""
     Interpolates NaN values in a 1D NumPy array using PCHIP.
 
-    Parameters:
+    Parameters
     ------------
     
     data: np.array, 
         the input 1D NumPy array.
 
-    Returns:
+    Returns
     ------------
     
     The interpolated array.
@@ -127,7 +128,7 @@ def create_windows(win_len, fs, n_samp, overlap)-> Tuple[np.array, np.array]:
     Function from https://github.com/Fabian-Sc85/non-invasive-bp-estimation-using-deep-learning/blob/main/prepare_MIMIC_dataset.py
     Intended to generate the start and end indexes of each window sliding over the signal for preprocessing.
 
-    Parameters:
+    Parameters
     ------------
     
     win_len: int, 
@@ -139,7 +140,7 @@ def create_windows(win_len, fs, n_samp, overlap)-> Tuple[np.array, np.array]:
     overlap: float,
         percentage of overlap between adjacent windows
 
-    Returns:
+    Returns
     ------------
     
     idx_start: np.array,
@@ -163,7 +164,7 @@ def save_records_worker_function(database_name : str, valid_segment_path : str, 
     A thead wil spawn executing the code of this function, that is 
     downloading, performing intial preprocessing, and storing of the signals.
 
-    Parameters:
+    Parameters
     ------------
 
     database_name: str,
@@ -179,7 +180,7 @@ def save_records_worker_function(database_name : str, valid_segment_path : str, 
     windowing_param: dict,
         contains parameters tos etup the sliding window (length in seconds and overlap)
     
-    Returns:
+    Returns
     ------------
     None
     """
@@ -286,11 +287,11 @@ def download_mimic_iii_records(valid_segments_file_path, output_dir, valid_BP_ra
     After the downloads, signals are processed to look for NaNs, flat lines, and valid BP ranges. 
     If a signal pass the checks, then it is stored locally.
 
-    Parameters:
+    Parameters
     ------------
 
     valid_segment_path: str,
-        path identifying the subject's segment inside the dataset
+        path identifying the subjects' segments inside the dataset
     output_dir: str,
         root directory where to store signals 
     valid_bp_ranges: dict,
@@ -302,7 +303,7 @@ def download_mimic_iii_records(valid_segments_file_path, output_dir, valid_BP_ra
     n_cores: int, default 1,
         number of parallel cores to use
     
-    Returns:
+    Returns
     ------------
     None
     """ 
@@ -324,3 +325,113 @@ def download_mimic_iii_records(valid_segments_file_path, output_dir, valid_BP_ra
         
         # Loop through the valid segments
         Parallel(n_jobs=used_cores)(delayed(save_records_worker_function)(database_name, lines[i], output_dir, valid_BP_ranges, thresholds, windowing_param) for i in range(len(lines))) 
+
+
+def preprocess_records_worker_function(segment_path : str, valid_bp_ranges : dict) -> None:
+    r"""
+    A thead wil spawn executing the code of this function, that is 
+    interpolating, removing signals with uncceptable SBP/DBP, and storing of the signals.
+
+    Parameters
+    ------------
+
+    segment_path: str,
+        path identifying the subject's segment inside the dataset
+    valid_bp_ranges: dict,
+        the upper and lower valid values for systolic and diastolic blood pressure
+    
+    Returns
+    ------------
+    None
+    """
+    print(f'Processing {segment_path}', flush=True)
+
+    # Load the ABP numpy array
+    abp = np.load(os.path.join(segment_path, 'abp.npy'))
+
+    # Interpolate the whole signals
+    abp = interpolate_nan_pchip(abp)
+
+    SBP = abp.max()
+    DBP = abp.min()
+
+    # Do not save signals where the SBP/DBP is not in range even after interpolation
+    if SBP >= valid_bp_ranges['low_sbp'] and SBP <= valid_bp_ranges['up_sbp'] and DBP >= valid_bp_ranges['low_dbp'] and DBP <= valid_bp_ranges['up_dbp']:
+        
+        # Valid segments, interpolate also the ppg and save the signals 
+        ppg = np.load(os.path.join(segment_path, 'ppg.npy'))
+        ppg = interpolate_nan_pchip(ppg)
+
+        # Remove old ones
+        rmtree(segment_path)
+        os.makedirs(segment_path)
+
+        # Allocate new ones
+        np.save(os.path.join(segment_path, 'abp'), abp)
+        np.save(os.path.join(segment_path, 'ppg'), ppg)
+        print(f'Saved {segment_path}', flush=True)
+
+    else:
+
+        # Remove the segments folder
+        rmtree(segment_path)
+        print(f'Removed {segment_path}', flush=True)
+        
+
+def preprocess_mimic_iii_records(downloaded_segments_path, valid_BP_ranges, n_cores : int = 1) -> None:
+    r"""
+    This function downloads the valid segments containing the required signals and with the specified minimum length.
+    After the downloads, signals are processed to look for NaNs, flat lines, and valid BP ranges. 
+    If a signal pass the checks, then it is stored locally.
+
+    Parameters
+    ------------
+
+    downloaded_segments_path: str,
+        path identifying the root directory where files have been downloaded
+    output_dir: str,
+        root directory where to store signals 
+    valid_bp_ranges: dict,
+        the upper and lower valid values for systolic and diastolic blood pressure
+    thresholds: dict,
+        contains the permitted % of anomalies in the signals (NaNs and flat parts)
+    windowing_param: dict,
+        contains parameters tos etup the sliding window (length in seconds and overlap)
+    n_cores: int, default 1,
+        number of parallel cores to use
+
+    Returns
+    ------------
+    None
+    """ 
+    
+    zip_file_paths = glob.glob(f'{downloaded_segments_path}/p0*.zip')
+    
+    # Parallel cores
+    num_cores = multiprocessing.cpu_count()
+    used_cores = n_cores
+    print(f'Using {used_cores}/{num_cores} cores')
+
+    for zip_file_path in zip_file_paths: 
+
+        dest_dir = zip_file_path[:-4]
+        print(f'Extracting {zip_file_path} to {dest_dir} ...', flush=True)
+
+        # Do not delete the .zip file but any existing directory that may have been created in previous executions
+        if Path(dest_dir).exists():
+            rmtree(dest_dir)
+        
+        # The zipping operation will already create the new directory to contain all the files
+        with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
+            zip_ref.extractall(downloaded_segments_path)
+        
+        # Preprocess files int he new directory and remove the invalid ones
+        segments_dirs_path = glob.glob(f'{dest_dir}/*/*')
+
+        # Loop through the valid segments
+        Parallel(n_jobs=used_cores)(delayed(preprocess_records_worker_function)(segments_dirs_path[i], valid_BP_ranges) for i in range(len(segments_dirs_path))) 
+        
+    # Remove empty subfolders
+    for dir_path, _, filenames in os.walk(segments_dirs_path, topdown=False):
+        if not filenames and not os.listdir(dir_path):
+            os.rmdir(dir_path)
