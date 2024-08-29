@@ -1,0 +1,16 @@
+There are 2843 different patients, for a total of 57418 different records, from mimic3wdb-matched/1.0 with {'PLETH', 'ABP'} that last at least 8 m.
+Using 7/20 cores
+Processing p07/p071059/3581831_0101
+Processing p07/p070505/3552166_0270
+Processing p09/p095235/3916298_0001
+Processing p08/p086546/3692688_0012
+Processing p08/p086546/3498236_0047
+Processing p07/p071473/3882418_0032
+Processing p08/p082685/3212517_0008
+Saved output/records/p07/p071059/3581831_0101
+Too many NaNs for p08/p086546/3498236_0047 ...
+Saved output/records/p08/p082685/3212517_0008
+Saved output/records/p09/p095235/3916298_0001
+Too many NaNs for p08/p086546/3692688_0012 ...
+Too many flat parts for p07/p071473/3882418_0032 ...
+Too many flat parts for p07/p070505/3552166_0270 ...
