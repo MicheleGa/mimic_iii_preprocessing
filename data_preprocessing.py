@@ -347,7 +347,16 @@ def preprocess_records_worker_function(segment_path : str, valid_bp_ranges : dic
     print(f'Processing {segment_path}', flush=True)
 
     # Load the ABP numpy array
-    abp = np.load(os.path.join(segment_path, 'abp.npy'))
+    try:
+        abp = np.load(os.path.join(segment_path, 'abp.npy'))
+    except FileNotFoundError:
+        # Some abp signals were not saved
+        print(f'Downloading {segment_path} ...', flush=True)
+        parent_folder, patient_id, seg_id = segment_path.split('/')[-3:]
+        record_data = wfdb.rdrecord(record_name=seg_id, pn_dir=f'mimic3wdb-matched/1.0/{parent_folder}/{patient_id}')
+        abp_idx = record_data.sig_name.index('ABP')
+        abp = record_data.p_signal[:, abp_idx]
+
 
     # Interpolate the whole signals
     abp = interpolate_nan_pchip(abp)
@@ -359,7 +368,16 @@ def preprocess_records_worker_function(segment_path : str, valid_bp_ranges : dic
     if SBP >= valid_bp_ranges['low_sbp'] and SBP <= valid_bp_ranges['up_sbp'] and DBP >= valid_bp_ranges['low_dbp'] and DBP <= valid_bp_ranges['up_dbp']:
         
         # Valid segments, interpolate also the ppg and save the signals 
-        ppg = np.load(os.path.join(segment_path, 'ppg.npy'))
+        try:
+            ppg = np.load(os.path.join(segment_path, 'ppg.npy'))
+        except FileNotFoundError:
+            # Some abp signals were not saved
+            print(f'Downloading {segment_path} ...', flush=True)
+            parent_folder, patient_id, seg_id = segment_path.split('/')[-3:]
+            record_data = wfdb.rdrecord(record_name=seg_id, pn_dir=f'mimic3wdb-matched/1.0/{parent_folder}/{patient_id}')
+            ppg_idx = record_data.sig_name.index('PLETH')
+            ppg = record_data.p_signal[:, ppg_idx]
+
         ppg = interpolate_nan_pchip(ppg)
 
         # Remove old ones
@@ -405,33 +423,43 @@ def preprocess_mimic_iii_records(downloaded_segments_path, valid_BP_ranges, n_co
     None
     """ 
     
-    zip_file_paths = glob.glob(f'{downloaded_segments_path}/p0*.zip')
-    
+    #zip_file_paths = glob.glob(f'{downloaded_segments_path}/p0*.zip')
+    zip_file_paths = [
+        './output/records/p00.zip', 
+        './output/records/p03.zip',
+        './output/records/p04.zip',
+        './output/records/p05.zip',
+        './output/records/p06.zip',
+        './output/records/p07.zip',
+        './output/records/p08.zip',
+        './output/records/p09.zip',
+        ]
+
     # Parallel cores
     num_cores = multiprocessing.cpu_count()
     used_cores = n_cores
     print(f'Using {used_cores}/{num_cores} cores')
-
-    for zip_file_path in zip_file_paths: 
-
-        dest_dir = zip_file_path[:-4]
-        print(f'Extracting {zip_file_path} to {dest_dir} ...', flush=True)
-
-        # Do not delete the .zip file but any existing directory that may have been created in previous executions
-        if Path(dest_dir).exists():
-            rmtree(dest_dir)
-        
-        # The zipping operation will already create the new directory to contain all the files
-        with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
-            zip_ref.extractall(downloaded_segments_path)
-        
-        # Preprocess files int he new directory and remove the invalid ones
-        segments_dirs_path = glob.glob(f'{dest_dir}/*/*')
-
-        # Loop through the valid segments
-        Parallel(n_jobs=used_cores)(delayed(preprocess_records_worker_function)(segments_dirs_path[i], valid_BP_ranges) for i in range(len(segments_dirs_path))) 
+    #
+    #for zip_file_path in zip_file_paths: 
+#
+    #    dest_dir = zip_file_path[:-4]
+    #    print(f'Extracting {zip_file_path} to {dest_dir} ...', flush=True)
+#
+    #    # Do not delete the .zip file but any existing directory that may have been created in previous executions
+    #    if Path(dest_dir).exists():
+    #        rmtree(dest_dir)
+    #    
+    #    # The zipping operation will already create the new directory to contain all the files
+    #    with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
+    #        zip_ref.extractall(downloaded_segments_path)
+    #    
+    #    # Preprocess files int he new directory and remove the invalid ones
+    #    segments_dirs_path = glob.glob(f'{dest_dir}/*/*')
+#
+    #    # Loop through the valid segments
+    #    Parallel(n_jobs=used_cores)(delayed(preprocess_records_worker_function)(segments_dirs_path[i], valid_BP_ranges) for i in range(len(segments_dirs_path))) 
         
     # Remove empty subfolders
-    for dir_path, _, filenames in os.walk(segments_dirs_path, topdown=False):
+    for dir_path, _, filenames in os.walk(downloaded_segments_path, topdown=False):
         if not filenames and not os.listdir(dir_path):
             os.rmdir(dir_path)

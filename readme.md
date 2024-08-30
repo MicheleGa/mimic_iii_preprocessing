@@ -60,3 +60,7 @@ The downloads is followed by a preliminary preprocessing consisting of NaNs remo
 After this step, downloaded files are zipped to save storage as they were not fitting inside this laptop.
 The preprocessing proceed by unzipping the subfolders and analyzing its content before saving it.
 This analysis aims to further remove signals that even after the interpolation of the ABP signal, present values outside the valid thresholds. In this case, no sliding window is considered, basically, the whole signal is interpolated and the max and min values of the signal are checked: if they are outside the provided values, then they are discarded. After this part, segments are saved physically in the device and not zipped. Hoping they will fit.
+
+p08 had a directory with ppg and no abp.
+
+total size 61,6 GB
