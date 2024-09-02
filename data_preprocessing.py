@@ -423,41 +423,31 @@ def preprocess_mimic_iii_records(downloaded_segments_path, valid_BP_ranges, n_co
     None
     """ 
     
-    #zip_file_paths = glob.glob(f'{downloaded_segments_path}/p0*.zip')
-    zip_file_paths = [
-        './output/records/p00.zip', 
-        './output/records/p03.zip',
-        './output/records/p04.zip',
-        './output/records/p05.zip',
-        './output/records/p06.zip',
-        './output/records/p07.zip',
-        './output/records/p08.zip',
-        './output/records/p09.zip',
-        ]
-
+    zip_file_paths = glob.glob(f'{downloaded_segments_path}/p0*.zip')
+    
     # Parallel cores
     num_cores = multiprocessing.cpu_count()
     used_cores = n_cores
     print(f'Using {used_cores}/{num_cores} cores')
-    #
-    #for zip_file_path in zip_file_paths: 
-#
-    #    dest_dir = zip_file_path[:-4]
-    #    print(f'Extracting {zip_file_path} to {dest_dir} ...', flush=True)
-#
-    #    # Do not delete the .zip file but any existing directory that may have been created in previous executions
-    #    if Path(dest_dir).exists():
-    #        rmtree(dest_dir)
-    #    
-    #    # The zipping operation will already create the new directory to contain all the files
-    #    with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
-    #        zip_ref.extractall(downloaded_segments_path)
-    #    
-    #    # Preprocess files int he new directory and remove the invalid ones
-    #    segments_dirs_path = glob.glob(f'{dest_dir}/*/*')
-#
-    #    # Loop through the valid segments
-    #    Parallel(n_jobs=used_cores)(delayed(preprocess_records_worker_function)(segments_dirs_path[i], valid_BP_ranges) for i in range(len(segments_dirs_path))) 
+    
+    for zip_file_path in zip_file_paths: 
+
+        dest_dir = zip_file_path[:-4]
+        print(f'Extracting {zip_file_path} to {dest_dir} ...', flush=True)
+
+        # Do not delete the .zip file but any existing directory that may have been created in previous executions
+        if Path(dest_dir).exists():
+            rmtree(dest_dir)
+        
+        # The zipping operation will already create the new directory to contain all the files
+        with zipfile.ZipFile(zip_file_path, 'r') as zip_ref:
+            zip_ref.extractall(downloaded_segments_path)
+        
+        # Preprocess files int he new directory and remove the invalid ones
+        segments_dirs_path = glob.glob(f'{dest_dir}/*/*')
+
+        # Loop through the valid segments
+        Parallel(n_jobs=used_cores)(delayed(preprocess_records_worker_function)(segments_dirs_path[i], valid_BP_ranges) for i in range(len(segments_dirs_path))) 
         
     # Remove empty subfolders
     for dir_path, _, filenames in os.walk(downloaded_segments_path, topdown=False):
