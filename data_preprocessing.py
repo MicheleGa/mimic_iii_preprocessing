@@ -347,16 +347,7 @@ def preprocess_records_worker_function(segment_path : str, valid_bp_ranges : dic
     print(f'Processing {segment_path}', flush=True)
 
     # Load the ABP numpy array
-    try:
-        abp = np.load(os.path.join(segment_path, 'abp.npy'))
-    except FileNotFoundError:
-        # Some abp signals were not saved
-        print(f'Downloading {segment_path} ...', flush=True)
-        parent_folder, patient_id, seg_id = segment_path.split('/')[-3:]
-        record_data = wfdb.rdrecord(record_name=seg_id, pn_dir=f'mimic3wdb-matched/1.0/{parent_folder}/{patient_id}')
-        abp_idx = record_data.sig_name.index('ABP')
-        abp = record_data.p_signal[:, abp_idx]
-
+    abp = np.load(os.path.join(segment_path, 'abp.npy'))
 
     # Interpolate the whole signals
     abp = interpolate_nan_pchip(abp)
@@ -368,16 +359,7 @@ def preprocess_records_worker_function(segment_path : str, valid_bp_ranges : dic
     if SBP >= valid_bp_ranges['low_sbp'] and SBP <= valid_bp_ranges['up_sbp'] and DBP >= valid_bp_ranges['low_dbp'] and DBP <= valid_bp_ranges['up_dbp']:
         
         # Valid segments, interpolate also the ppg and save the signals 
-        try:
-            ppg = np.load(os.path.join(segment_path, 'ppg.npy'))
-        except FileNotFoundError:
-            # Some abp signals were not saved
-            print(f'Downloading {segment_path} ...', flush=True)
-            parent_folder, patient_id, seg_id = segment_path.split('/')[-3:]
-            record_data = wfdb.rdrecord(record_name=seg_id, pn_dir=f'mimic3wdb-matched/1.0/{parent_folder}/{patient_id}')
-            ppg_idx = record_data.sig_name.index('PLETH')
-            ppg = record_data.p_signal[:, ppg_idx]
-
+        ppg = np.load(os.path.join(segment_path, 'ppg.npy'))
         ppg = interpolate_nan_pchip(ppg)
 
         # Remove old ones

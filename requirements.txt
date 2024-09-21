@@ -4,3 +4,4 @@ matplotlib
 numpy
 pandas
 wfdb==4.0.0
+tensorboard
