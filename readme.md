@@ -1,4 +1,4 @@
-# Continual Learning for Physiological Signals Analysis Benchmark
+# MIMIC III Preprocessing Pipeline
 
 The code in this repository is inteded to develop a bewnchmark of Continual Learning mwethods for Physiological Signals Analysis.
 The different ML pipeline step will be developed:
