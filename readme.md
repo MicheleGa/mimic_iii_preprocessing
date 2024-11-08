@@ -5,9 +5,7 @@ The different ML pipeline step will be developed:
 
 >- data provisiong
 >- data processing
->- data visualization
->- model definition
->- performance measurments.
+>- data visualization.
 
 In *requirements.txt* the list of Python packages required to run the code is provided.
 It is highly recommended to first create a virtualenv (in the local repository) with
